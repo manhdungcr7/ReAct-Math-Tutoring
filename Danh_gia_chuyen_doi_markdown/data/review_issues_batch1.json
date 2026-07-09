@@ -1,8 +1,0 @@
-[
-  {
-    "stt": 12,
-    "dinh_danh": "SP-12 (Trang 44 - Câu 48)",
-    "loai_van_de": "Lỗi toán học trong tài liệu gốc",
-    "mo_ta": "Trong lời giải có bước không nhất quán: dòng trên tính đúng MC² = 2x²+6x+17, nhưng dòng sau lại 'Đặt f(x)=2x²+6x+15' (thiếu, hằng số phải là 17). Đây là lỗi in sai (typo) đã CÓ SẴN trong ảnh gốc trang 44, bản chuyển đổi tái hiện trung thực. Các giá trị f(-2)=13, f(-3/2)=25/2, f(4)=73 và đáp án cuối B đều tính theo hằng số 17 nên kết quả không bị ảnh hưởng. Nên sửa '15' thành '17' cho nhất quán."
-  }
-]
