@@ -1,0 +1,100 @@
+[
+  {
+    "trang": 2,
+    "cau": 3,
+    "de_bai": "**Câu 3:** Hỏi hàm số $y = 2x^4 + 1$ đồng biến trên khoảng nào?\nA. $\\left(-\\infty; -\\dfrac{1}{2}\\right)$.\nB. $(0; +\\infty)$.\nC. $\\left(-\\dfrac{1}{2}; +\\infty\\right)$.\nD. $(-\\infty; 0)$.",
+    "dap_an": "B. $(0;+\\infty)$.",
+    "loi_giai": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.\n\n$y' = 8x^3$; $y' = 0 \\Leftrightarrow x = 0$.\n\nBảng biến thiên\n\n$$\\begin{array}{c|ccccc} x & -\\infty & & 0 & & +\\infty \\\\ \\hline y' & & - & 0 & + & \\\\ \\hline y & +\\infty & \\searrow & & \\nearrow & +\\infty \\\\ & & & 1 & & \\end{array}$$\n\n- Dựa vào bảng biến thiên ta được hàm số đồng biến trên khoảng $(0;+\\infty)$."
+  },
+  {
+    "trang": 8,
+    "cau": 23,
+    "de_bai": "**Câu 23:** Tìm nguyên hàm của hàm số $f(x) = \\sqrt{2x-1}$.\nA. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{2}{3}(2x-1)\\sqrt{2x-1} + C$.\nB. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{1}{3}(2x-1)\\sqrt{2x-1} + C$.\nC. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = -\\dfrac{1}{3}\\sqrt{2x-1} + C$.\nD. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{1}{2}\\sqrt{2x-1} + C$.",
+    "dap_an": "B. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{1}{3}(2x-1)\\sqrt{2x-1} + C$.",
+    "loi_giai": "Ta có\n\n$$\\int f(x)\\mathrm{d}x = \\int \\sqrt{2x-1}\\mathrm{d}x = \\frac{1}{2}\\int (2x-1)^{\\frac{1}{2}}\\,\\mathrm{d}(2x-1)$$\n\n$$= \\frac{1}{2}\\cdot\\frac{2}{3}(2x-1)^{\\frac{3}{2}} + C$$\n\n$$= \\frac{1}{3}(2x-1)\\sqrt{2x-1} + C.$$"
+  },
+  {
+    "trang": 9,
+    "cau": 26,
+    "de_bai": "**Câu 26:** Tính tích phân $\\displaystyle\\int_1^e x\\ln x\\,\\mathrm{d}x$.\nA. $I = \\dfrac{1}{2}$.\nB. $I = \\dfrac{e^2-2}{2}$.\nC. $I = \\dfrac{e^2+1}{4}$.\nD. $I = \\dfrac{e^2-1}{4}$.",
+    "dap_an": "C. $I = \\dfrac{e^2+1}{4}$.",
+    "loi_giai": "Đặt $\\begin{cases} u = \\ln x \\\\ \\mathrm{d}v = x\\,\\mathrm{d}x \\end{cases} \\Rightarrow \\begin{cases} \\mathrm{d}u = \\dfrac{1}{x}\\mathrm{d}x \\\\ v = \\dfrac{1}{2}x^2 \\end{cases}$. Khi đó\n\n$$I = \\frac{1}{2}x^2\\ln x\\Big|_1^e - \\int_1^e \\frac{1}{2}x\\,\\mathrm{d}x = \\frac{1}{2}x^2\\ln x\\Big|_1^e - \\frac{1}{4}x^2\\Big|_1^e = \\frac{1}{2}e^2 - \\left(\\frac{1}{4}e^2 - \\frac{1}{4}\\right) = \\frac{e^2+1}{4}.$$"
+  },
+  {
+    "trang": 14,
+    "cau": 43,
+    "de_bai": "**Câu 43:** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 3x - z + 2 = 0$. Vectơ nào dưới đây là một vectơ pháp tuyến của $(P)$?\nA. $\\vec{n_4} = (-1;0;-1)$.\nB. $\\vec{n_1} = (3;-1;2)$.\nC. $\\vec{n_3} = (3;-1;0)$.\nD. $\\vec{n_2} = (3;0;-1)$.",
+    "dap_an": "D. $\\vec{n_2} = (3;0;-1)$.",
+    "loi_giai": "Ta có: $(P): 3x + 0y - z + 2 = 0$ nên $(3;0;-1)$ là tọa độ vectơ pháp tuyến của $(P)$."
+  },
+  {
+    "trang": 16,
+    "cau": 1,
+    "de_bai": "**Câu 1:** Đường thẳng nào dưới đây là tiệm cận đứng của đồ thị hàm số $y = \\dfrac{2x+1}{x+1}$?\nA. $x = 1$.\nB. $y = -1$.\nC. $y = 2$.\nD. $x = -1$.",
+    "dap_an": "D. $x = -1$.",
+    "loi_giai": "Ta thấy $\\displaystyle\\lim_{x\\to(-1)^-}\\frac{2x+1}{x+1} = +\\infty$ và $\\displaystyle\\lim_{x\\to(-1)^+}\\frac{2x+1}{x+1} = -\\infty$. Nên đường thẳng $x = -1$ là tiệm cận đứng của đồ thị."
+  },
+  {
+    "trang": 22,
+    "cau": 23,
+    "de_bai": "**Câu 23:** Cho hàm số $f(x)$ có đạo hàm trên đoạn $[1;2]$, $f(1) = 1$ và $f(2) = 2$. Tính $I = \\displaystyle\\int_1^2 f'(x)\\,\\mathrm{d}x$.\nA. $I = 1$.\nB. $I = -1$.\nC. $I = 3$.\nD. $I = \\dfrac{7}{2}$.",
+    "dap_an": "A. $I = 1$.",
+    "loi_giai": "Ta có $I = f(x)\\Big|_1^2 = f(2) - f(1) = 2 - 1 = 1$."
+  },
+  {
+    "trang": 29,
+    "cau": 46,
+    "de_bai": "**Câu 46:** Trong không gian với hệ tọa độ $Oxyz$, phương trình nào dưới đây là phương trình của mặt cầu tâm $I(1;2;-1)$ và tiếp xúc với mặt phẳng $(P): x - 2y - 2z - 8 = 0$?\nA. $(x+1)^2 + (y+2)^2 + (z-1)^2 = 3$.\nB. $(x-1)^2 + (y-2)^2 + (z+1)^2 = 3$.\nC. $(x-1)^2 + (y-2)^2 + (z+1)^2 = 9$.\nD. $(x+1)^2 + (y+2)^2 + (z-1)^2 = 9$.",
+    "dap_an": "C. $(x-1)^2 + (y-2)^2 + (z+1)^2 = 9$.",
+    "loi_giai": "Gọi mặt cầu cần tìm là $(S)$.\n\nTa có $(S)$ là mặt cầu có tâm $I(1;2;-1)$ và bán kính $R$.\n\nVì $(S)$ tiếp xúc với mặt phẳng $(P): x - 2y - 2z - 8 = 0$ nên ta có:\n\n$$E = d(I;(P)) = \\frac{|1 - 2\\cdot 2 - 2\\cdot(-1) - 8|}{\\sqrt{1^2 + (-2)^2 + (-2)^2}} = 3.$$\n\nVậy, phương trình mặt cầu cần tìm là $(x-1)^2 + (y-2)^2 + (z+1)^2 = 9$."
+  },
+  {
+    "trang": 32,
+    "cau": 10,
+    "de_bai": "**Câu 10:** Tìm nguyên hàm của hàm số $f(x) = x^2 + \\dfrac{2}{x^2}$.\nA. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{x^3}{3} - \\dfrac{2}{x} + C$.\nB. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{x^3}{3} - \\dfrac{1}{x} + C$.\nC. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{x^3}{3} + \\dfrac{2}{x} + C$.\nD. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{x^3}{3} + \\dfrac{1}{x} + C$.",
+    "dap_an": "A. $\\displaystyle\\int f(x)\\,\\mathrm{d}x = \\dfrac{x^3}{3} - \\dfrac{2}{x} + C$.",
+    "loi_giai": "Ta có: $\\displaystyle\\int \\left(x^2 + \\frac{2}{x^2}\\right)\\mathrm{d}x = \\frac{x^3}{3} - \\frac{2}{x} + C$."
+  },
+  {
+    "trang": 34,
+    "cau": 16,
+    "de_bai": "**Câu 16:** Tính thể tích $V$ của khối lăng trụ tam giác đều có tất cả các cạnh bằng $a$.\nA. $V = \\dfrac{a^3\\sqrt{3}}{6}$.\nB. $V = \\dfrac{a^3\\sqrt{3}}{12}$.\nC. $V = \\dfrac{a^3\\sqrt{3}}{2}$.\nD. $V = \\dfrac{a^3\\sqrt{3}}{4}$.",
+    "dap_an": "D. $V = \\dfrac{a^3\\sqrt{3}}{4}$.",
+    "loi_giai": "Ta có: $V = B \\cdot h = a \\cdot \\dfrac{a^2\\sqrt{3}}{4} = \\dfrac{a^2\\sqrt{3}}{4}$."
+  },
+  {
+    "trang": 41,
+    "cau": 42,
+    "de_bai": "**Câu 42:** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 6x - 2y + z - 35 = 0$ và điểm $A(-1;3;6)$. Gọi $A'$ là điểm đối xứng với $A$ qua $(P)$, tính $OA'$.\nA. $OA' = 3\\sqrt{26}$.\nB. $OA' = 5\\sqrt{3}$.\nC. $OA' = \\sqrt{46}$.\nD. $OA' = \\sqrt{186}$.",
+    "dap_an": "D. $OA' = \\sqrt{186}$.",
+    "loi_giai": "Gọi $d$ là đường thẳng qua $A$ và vuông góc với mp$(P)$ nên $d$ có VTCP là $\\vec{u_d} = \\vec{n_P} = (6;-2;1)$.\n\nPhương trình tham số của $d$: $\\begin{cases} x = -1 + 6t \\\\ y = 3 - 2t \\\\ z = 6 + t \\end{cases}$.\n\nGọi $H$ là hình chiếu của $A$ trên mp$(P)$. Khi đó tọa độ điểm $H$ là nghiệm của hệ phương trình:\n\n$$\\begin{cases} x = -1 + 6t \\\\ y = 3 - 2t \\\\ z = 6 + t \\\\ 6x - 2y + z - 35 = 0 \\end{cases} \\Leftrightarrow \\begin{cases} t = 1 \\\\ x = 5 \\\\ y = 1 \\\\ z = 7 \\end{cases} \\Rightarrow H(5;1;7).$$\n\nVì $A'$ là điểm đối xứng của $A$ qua $(P)$ nên $H$ là trung điểm của $AA'$. Suy ra $A'(11;-1;8)$.\n\nVậy, $OA' = \\sqrt{186}$."
+  },
+  {
+    "trang": 49,
+    "cau": 11,
+    "de_bai": "**Câu 11:** Họ nguyên hàm của hàm số $f(x) = 3x^2 + 1$ là\nA. $x^3 + C$.\nB. $\\dfrac{x^3}{3} + x + C$.\nC. $6x + C$.\nD. $x^3 + x + C$.",
+    "dap_an": "D. $x^3 + x + C$.",
+    "loi_giai": "Ta có $\\displaystyle\\int (3x^2+1)\\,\\mathrm{d}x = x^3 + x + C$, với $C$ là hằng số."
+  },
+  {
+    "trang": 62,
+    "cau": 50,
+    "de_bai": "**Câu 50:** Cho hàm số $f(x)$ có đạo hàm liên tục trên đoạn $[0;1]$ thỏa mãn\n\n$$f(1) = 0,\\ \\int_0^1 [f'(x)]^2\\,\\mathrm{d}x = 7,\\ \\int_0^1 x^2 f(x)\\,\\mathrm{d}x = \\frac{1}{3}.$$\n\nTích phân $\\displaystyle\\int_0^1 f(x)\\,\\mathrm{d}x$ bằng\nA. $\\dfrac{7}{5}$.\nB. $1$.\nC. $\\dfrac{7}{4}$.\nD. $4$.",
+    "dap_an": "A. $\\dfrac{7}{5}$.",
+    "loi_giai": "**Cách 1.** Đặt $\\begin{cases} u = f(x) \\\\ \\mathrm{d}v = x^2\\,\\mathrm{d}x \\end{cases} \\Rightarrow \\begin{cases} \\mathrm{d}u = f'(x)\\,\\mathrm{d}x \\\\ v = \\dfrac{x^3}{3} \\end{cases}$.\n\nKhi đó: $\\dfrac{1}{3} = \\displaystyle\\int_0^1 x^2 f(x)\\,\\mathrm{d}x = \\left[\\dfrac{x^3}{3}f(x)\\right]\\Big|_0^1 - \\int_0^1 \\dfrac{x^3}{3}f'(x)\\,\\mathrm{d}x$.\n\nSuy ra $\\displaystyle\\int_0^1 x^3 f'(x)\\,\\mathrm{d}x = -1$.  (1)\n\nMặt khác, do $\\displaystyle\\int_0^1 [f'(x)]^2\\,\\mathrm{d}x = 7$ nên\n\n$$\\int_0^1 \\left[[f'(x)]^2 + 14x^3 f'(x) + 49x^6\\right]\\mathrm{d}x = 0 = 7 - 14 + 7 = 0.$$\n\nHay $\\displaystyle\\int_0^1 \\left(f'(x) + 7x^3\\right)^2\\mathrm{d}x = 0$.  (2)\n\nSuy ra $f'(x) + 7x^3 = 0 \\Rightarrow f'(x) = -7x^3 \\Rightarrow f(x) = -\\dfrac{7}{4}x^4 + C$.\n\nMà $f(1) = 0$ nên $C = \\dfrac{7}{4}$, suy ra $f(x) = \\dfrac{7}{4}(1 - x^4)$. Khi đó $\\displaystyle\\int_0^1 f(x)\\,\\mathrm{d}x = \\dfrac{7}{5}$.\n\n**Lưu ý.** Có thể giải thích vì sao từ (2) suy ra $f'(x) + 7x^3 = 0$, $\\forall x \\in [0;1]$ như sau: Theo giả thiết ta có hàm số $y = (f'(x) + 7x^3)^2$ liên tục và không âm trên đoạn $[0;1]$ (do đó, đồ thị hàm số này là một đường nét liền trên đoạn $[0;1]$ và không có điểm nào nằm bên dưới trục $Ox$). Tích phân ở (2) có giá trị bằng diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = (f'(x)+7x^3)^2$, trục hoành, đường thẳng $x=0$, đường thẳng $x=1$. Mà theo (2) thì hình phẳng này có diện tích bằng 0 nên $f'(x) + 7x^3 = 0$, $\\forall x \\in [0;1]$.\n\n**Cách 2 (tiếp nối từ (1)).** Ta có bất đẳng thức Bunhiacovski đối với tích phân: Nếu hai hàm số $f(x)$, $g(x)$ liên tục trên đoạn $[a;b]$ thì ta luôn có\n\n$$\\left[\\int_a^b f(x).g(x)\\mathrm{d}x\\right]^2 \\le \\left(\\int_a^b f^2(x)\\mathrm{d}x\\right)\\cdot \\int_a^b g^2(x)\\mathrm{d}x.$$\n\nDấu \"=\" xảy ra khi và chỉ khi $g(x) = kf(x)$, $\\forall x \\in [a;b]$. Trở lại bài toán. Từ (1), ta có:\n\n$$1 = \\left(\\int_0^1 x^3 f'(x)\\mathrm{d}x\\right)^2 \\le \\int_0^1 x^6\\mathrm{d}x \\cdot \\int_0^1 [f'(x)]^2\\mathrm{d}x = \\frac{1}{7}\\cdot 7 = 1.$$\n\nNhư vậy dấu \"=\" xảy ra, tức là $f'(x) = kx^3$. Thay trở lại vào (1), ta được:\n\n$$k\\int_0^1 x^6\\mathrm{d}x = -1 \\Rightarrow \\frac{k}{7} = -1 \\Rightarrow k = -7.$$\n\n[GHI CHÚ: Trang 63 kết thúc tại đây (Cách 2 dừng ở bước tìm $k=-7$, dòng \"Chọn đáp án\" tường minh không xuất hiện trên trang này); tuy nhiên đáp án đã được xác định rõ ràng và không mơ hồ từ Cách 1: $\\int_0^1 f(x)\\,\\mathrm{d}x = \\dfrac{7}{5}$, khớp với phương án A.]"
+  },
+  {
+    "trang": 65,
+    "cau": 1,
+    "de_bai": "**Câu 1:** Thể tích khối lập phương cạnh $2a$ bằng\nA. $8a^3$.\nB. $2a^3$.\nC. $a^3$.\nD. $6a^3$.",
+    "dap_an": "A. $8a^3$.",
+    "loi_giai": "Thể tích khối lập phương cạnh $2a$ là $V = (2a)^3 = 8a^3$."
+  },
+  {
+    "trang": 65,
+    "cau": 3,
+    "de_bai": "**Câu 3:** Trong không gian $Oxyz$, Cho hai điểm $A(1;1;-1)$ và $B(2;3;2)$. Véctơ $\\overrightarrow{AB}$ có tọa độ\nA. $(1;2;3)$.\nB. $(-1;-2;3)$.\nC. $(3;5;1)$.\nD. $(3;4;1)$.",
+    "dap_an": "A. $(1;2;3)$.",
+    "loi_giai": "$\\overrightarrow{AB} = (2-1;3-1;2+1) = (1;2;3)$"
+  }
+]

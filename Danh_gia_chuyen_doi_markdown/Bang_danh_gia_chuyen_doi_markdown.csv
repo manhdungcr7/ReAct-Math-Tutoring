@@ -1,0 +1,1036 @@
+﻿STT,Định danh,Chủ đề,Đề bài (chuyển đổi),Đáp án (chuyển đổi),Lời giải (chuyển đổi),Nhận xét A,Nhận xét B,Ghi chú lỗi chuyển markdown
+1,SP-01 (Trang 10 - Câu 29),Số phức,"Cho số phức $z = 3-2i$. Tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+A. Phần thực bằng $-3$ và phần ảo bằng $-2i$.
+B. Phần thực bằng $-3$ và phần ảo bằng $-2$.
+C. Phần thực bằng $3$ và phần ảo bằng $2i$.
+D. Phần thực bằng $3$ và phần ảo bằng $2$.",D. Phần thực bằng 3 và phần ảo bằng 2.,Từ $z = 3-2i$ suy ra $\overline{z} = 3+2i$. Nên phần thực của $\overline{z}$ bằng $3$ và phần ảo của $\overline{z}$ bằng $2$.,,,
+2,SP-02 (Trang 10 - Câu 30),Số phức,"Cho hai số phức $z_1 = 1+i$ và $z_2 = 2-3i$. Tính môđun của số phức $z_1+z_2$.
+
+A. $|z_1+z_2| = \sqrt{13}$.
+B. $|z_1+z_2| = \sqrt{5}$.
+C. $|z_1+z_1| = 1$.
+D. $|z_1+z_2| = 5$.",A. $|z_1+z_2| = \sqrt{13}$.,Ta có $z_1+z_2 = 3-2i \Rightarrow |z_1+z_2| = \sqrt{3^2+(-2)^2} = \sqrt{13}$.,,,
+3,SP-03 (Trang 11 - Câu 32),Số phức,"Cho số phức $z = 2+5i$. Tìm số phức $w = iz+\overline{z}$.
+
+A. $w = 7-3i$.
+B. $w = -3-3i$.
+C. $w = 3+7i$.
+D. $w = -7-7i$.",B. $w = -3-3i$.,$w = i(2+5i)+2-5i = 2i-5+2-5i = -3-3i$.,,,
+4,SP-04 (Trang 11 - Câu 34),Số phức,"Cho số phức $z$ thỏa mãn $|z| = 4$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (3+4i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.
+
+A. $r = 4$.
+B. $r = 5$.
+C. $r = 20$.
+D. $r = 22$.",C. $r = 20$.,"Giả sử $w = x+yi$ $(x,y \in \mathbb{R})$. Ta có: $w = (3+4i)z+i \Leftrightarrow z = \dfrac{w-i}{3+4i} = \dfrac{x+(y-1)i}{3+4i} = \dfrac{3x-4(y-1)+[3(y-1)+4x]i}{25}$.
+Do đó $|z|=4 \Leftrightarrow \left(\dfrac{3x-4y+4}{25}\right)^2+\left(\dfrac{4x+3y-3}{25}\right)^2 = 16 \Leftrightarrow x^2+(y-1)^2 = 400$.
+Suy ra $r=20$.",,,
+5,SP-05 (Trang 24 - Câu 30),Số phức,"Tìm số phức liên hợp của số phức $z = i(3i+1)$.
+
+A. $\overline{z} = 3-i$.
+B. $\overline{z} = -3+i$.
+C. $\overline{z} = 3+i$.
+D. $\overline{z} = -3-i$.",D. $\overline{z} = -3-i$.,Ta có $z = -3+i \Rightarrow \overline{z} = -3-i$.,,,
+6,SP-06 (Trang 24 - Câu 31),Số phức,"Tính môđun của số phức $z$ thỏa mãn $z(2-i)+13i = 1$.
+
+A. $|z| = \sqrt{34}$.
+B. $|z| = 34$.
+C. $|z| = \dfrac{5\sqrt{34}}{3}$.
+D. $|z| = \dfrac{\sqrt{34}}{4}$.",A. $|z| = \sqrt{34}$.,"Ta có: $z(2-i)+13i = 1 \Leftrightarrow z = \dfrac{1-13i}{2-i} \Leftrightarrow z = \dfrac{(1-13i)(2+i)}{(2-i)(2+i)} = 3-5i$.
+$|z| = \sqrt{3^2+(-5)^2} = \sqrt{34}$.",,,
+7,SP-07 (Trang 25 - Câu 33),Số phức,"Cho số phức $z = a+bi$ $(a,b \in \mathbb{R})$ thỏa mãn $(1+i)z+2\overline{z} = 3+2i$. Tính $P = a+b$.
+
+A. $P = \dfrac{1}{2}$.
+B. $P = 1$.
+C. $P = -1$.
+D. $P = -\dfrac{1}{2}$.",C. $P = -1$.,"Ta có: $(1+i)z+2\overline{z} = 3+2i$ $(1)$.
+Ta có: $z = a+bi \Rightarrow \overline{z} = a-bi$. Thay vào $(1)$ ta được:
+$(1+i)(a+bi)+2(a-bi) = 3+2i \Leftrightarrow (a-b)i+(3a-b) = 3+2i \Leftrightarrow \begin{cases} a-b=2 \\ 3a-b=3 \end{cases} \Leftrightarrow \begin{cases} a=\dfrac{1}{2} \\ b=-\dfrac{3}{2} \end{cases} \Rightarrow P=-1$.",,,
+8,SP-08 (Trang 25 - Câu 34),Số phức,"Xét số phức $z$ thỏa mãn $(1+2i)|z| = \dfrac{\sqrt{10}}{z}-2+i$. Mệnh đề nào dưới đây đúng?
+
+A. $\dfrac{3}{2} < |z| < 2$.
+B. $|z| > 2$.
+C. $|z| < \dfrac{1}{2}$.
+D. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.",D. $\dfrac{1}{2} < |z| < \dfrac{3}{2}$.,"Ta có: $(1+2i)|z| = \dfrac{\sqrt{10}}{z}-2+i \Leftrightarrow (1+2i)|z| = \dfrac{\sqrt{10}}{z}+i(1+2i) \Leftrightarrow (1+2i)(|z|-i) = \dfrac{\sqrt{10}}{z}$.
+$\Rightarrow |(1+2i)(|z|-i)| = \left|\dfrac{\sqrt{10}}{z}\right| \Rightarrow |1+2i|\cdot||z|-i| = \dfrac{\sqrt{10}}{|z|}$ $(*)$.
+Đặt $t=|z|$ thì $t \in \mathbb{R}, t>0$ và $(*) \Leftrightarrow \sqrt{5}\cdot\sqrt{t^2+1} = \dfrac{\sqrt{10}}{t} \Leftrightarrow t^4+t^2=2 \Rightarrow t=1$ (do $t>0$).
+Vậy, $|z|=t=1 \Rightarrow \dfrac{1}{2}<t<\dfrac{3}{2}$.",,,
+9,SP-09 (Trang 31 - Câu 4),Số phức,"Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $3-2\sqrt{2}i$. Tìm $a, b$.
+
+A. $a=3, b=2$.
+B. $a=3, b=2\sqrt{2}$.
+C. $a=3, b=\sqrt{2}$.
+D. $a=3, b=-2\sqrt{2}$.","D. $a=3, b=-2\sqrt{2}$.","Số phức $3-2\sqrt{2}i$ có phần thực và phần ảo lần lượt là $3$ và $-2\sqrt{2}$. Vậy, $a=3, b=-2\sqrt{2}$.",,,
+10,SP-10 (Trang 31 - Câu 5),Số phức,"Tính môđun của số phức $z$ biết $\overline{z} = (4-3i)(1+i)$.
+
+A. $|z| = 25\sqrt{2}$.
+B. $|z| = 7\sqrt{2}$.
+C. $|z| = 5\sqrt{2}$.
+D. $|z| = \sqrt{2}$.",C. $|z| = 5\sqrt{2}$.,Ta có $\overline{z} = (4-3i)(1+i) = 7+i \Rightarrow |\overline{z}| = \sqrt{50} \Rightarrow |z| = \sqrt{50} = 5\sqrt{2}$.,,,
+11,SP-11 (Trang 40 - Câu 39),Số phức,"Hỏi có bao nhiêu số phức $z$ thỏa mãn đồng thời các điều kiện: $|z-i| = 5$ và $z^2$ là số thuần ảo?
+
+A. 2.
+B. 3.
+C. 4.
+D. 0.",C. 4.,"Đặt $z = x+iy$ với $x,y \in \mathbb{R}$.
+$|z-i|=5 \Leftrightarrow |x+iy-i|=5 \Leftrightarrow \sqrt{x^2+(y-1)^2}=5 \Leftrightarrow x^2+(y-1)^2=25$.
+$z^2$ là số thuần ảo hay $(x+iy)^2$ là số thuần ảo
+$\Leftrightarrow x^2+2ixy-y^2$ là số thuần ảo $\Rightarrow x^2-y^2=0 \Leftrightarrow x=\pm y$.
+Vậy, ta có hệ phương trình:
+$\begin{cases} x^2+(y-1)^2=25 \\ x=y \end{cases}$ hoặc $\begin{cases} x^2+(y-1)^2=25 \\ x=-y \end{cases}$
+$\Leftrightarrow \begin{cases} y^2+(y-1)^2=25 \\ x=y \end{cases}$ hoặc $\begin{cases} y^2+(y-1)^2=25 \\ x=-y \end{cases}$
+$\Leftrightarrow \begin{cases} y^2-y-12=0 \\ x=y \end{cases}$ hoặc $\begin{cases} y^2-y-12=0 \\ x=-y \end{cases}$
+$\Leftrightarrow \begin{cases} y=4 \\ x=4 \end{cases}$ hoặc $\begin{cases} y=-3 \\ x=-3 \end{cases}$ hoặc $\begin{cases} y=4 \\ x=-4 \end{cases}$ hoặc $\begin{cases} y=-3 \\ x=3 \end{cases}$.
+Vậy, ta có 4 số phức thỏa mãn điều kiện.",,,
+12,SP-12 (Trang 44 - Câu 48),Số phức,"Xét các số phức $z$ thỏa mãn $|z+2-i|+|z-4-7i| = 6\sqrt{2}$. Gọi $m, M$ lần lượt là giá trị nhỏ nhất, giá trị lớn nhất của $|z-1+i|$. Tính $P = m+M$.
+
+A. $P = \sqrt{13}+\sqrt{73}$.
+B. $P = \dfrac{5\sqrt{2}+2\sqrt{73}}{2}$.
+C. $P = 5\sqrt{2}+\sqrt{73}$.
+D. $P = \dfrac{5\sqrt{2}+\sqrt{73}}{2}$.",B. $P = \dfrac{5\sqrt{2}+2\sqrt{73}}{2}$.,"Gọi $M(x;y)$ là điểm biểu diễn của $z$. Các điểm $A(-2;1), B(4;7), C(1;-1)$.
+Ta có: $|z+2-i|+|z-4-7i|=6\sqrt{2} \Leftrightarrow MA+MB=6\sqrt{2}$, mà $AB=6\sqrt{2} \Rightarrow MA+MB=AB$.
+Suy ra $M$ thuộc đoạn $AB$.
+Phương trình đường thẳng $AB: y=x+3$, với $x \in [-2;4]$.
+Ta có $|z-1+i| = MC \Rightarrow |z-1+i|^2 = MC^2 = (x-1)^2+(y+1)^2 = (x-1)^2+(x+4)^2 = 2x^2+6x+17$.
+Đặt $f(x)=2x^2+6x+15, x \in [-2;4]$.
+$f'(x)=4x+6, f'(x)=0 \Leftrightarrow x=-\dfrac{3}{2}$ (nhận).
+Ta có: $f(-2)=13; f\left(-\dfrac{3}{2}\right)=\dfrac{25}{2}; f(4)=73$.
+Vậy $f(x)_{\max}=f(4)=73; f(x)_{\min}=f\left(-\dfrac{3}{2}\right)=\dfrac{25}{2}$.
+$\Rightarrow M=\sqrt{73}, m=\dfrac{5\sqrt{2}}{2} \Rightarrow P=\dfrac{5\sqrt{2}+2\sqrt{73}}{2}$.",,,"[Lỗi toán học trong tài liệu gốc] Trong lời giải có bước không nhất quán: dòng trên tính đúng MC² = 2x²+6x+17, nhưng dòng sau lại 'Đặt f(x)=2x²+6x+15' (thiếu, hằng số phải là 17). Đây là lỗi in sai (typo) đã CÓ SẴN trong ảnh gốc trang 44, bản chuyển đổi tái hiện trung thực. Các giá trị f(-2)=13, f(-3/2)=25/2, f(4)=73 và đáp án cuối B đều tính theo hằng số 17 nên kết quả không bị ảnh hưởng. Nên sửa '15' thành '17' cho nhất quán."
+13,SP-13 (Trang 72 - Câu 37),Số phức,"Xét các số phức $z$ thỏa mãn $(z+2i)(\overline{z}+2)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là
+
+A. $(1;-1)$.
+B. $(1;1)$.
+C. $(-1;1)$.
+D. $(-1;-1)$.",D. $(-1;-1)$.,"Giả sử $z=a+bi, (a,b\in\mathbb{R})$, ta được $(z+2i)(\overline{z}+2) = [a+(b+2)i][(a+2)-bi] = [a(a+2)+b(b+2)]+[(a+2)(b+2)-ab]i$.
+$(z+2i)(\overline{z}+2)$ là số thuần ảo $\Leftrightarrow a(a+2)+b(b+2)=0 \Leftrightarrow (a+1)^2+(b+1)^2=2$ nên tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn phương trình $(x+1)^2+(y+1)^2=2$ có tâm $I(-1;-1)$.",,,
+14,SP-14 (Trang 73 - Câu 42),Số phức,"Có bao nhiêu số phức $z$ thỏa mãn $|z|^2 = 2|z+\overline{z}|+4$ và $|z-1-i| = |z-3+3i|$?
+
+A. 4.
+B. 3.
+C. 1.
+D. 2.",B. 3.,"Gọi $z=x+yi$ $(x;y\in\mathbb{R})$.
+$|z|^2=2|z+\overline{z}|+4 \Leftrightarrow x^2+y^2=4|x|+4 \Leftrightarrow \begin{cases} x^2+y^2-4x-4=0, x\geq 0 & (1)\\ x^2+y^2+4x-4=0, x<0 & (2)\end{cases}$.
+$|z-1-i|=|z-3+3i| \Leftrightarrow (x-1)^2+(y-1)^2=(x-3)^2+(y+3)^2 \Leftrightarrow 4x=8y+16 \Leftrightarrow x=2y+4$ $(3)$.
++ Thay $(3)$ vào $(1)$ ta được: $(2y+4)^2+y^2-4(2y+4)-4=0 \Leftrightarrow 5y^2+8y-4=0 \Leftrightarrow \begin{bmatrix} y=\dfrac{2}{5} \Rightarrow x=\dfrac{24}{5} \text{ (nhận)} \\ y=-2 \Rightarrow x=0 \text{ (nhận)} \end{bmatrix}$.
++ Thay $(3)$ vào $(2)$ ta được: $(2y+4)^2+y^2+4(2y+4)-4=0 \Leftrightarrow 5y^2+24y+28=0 \Leftrightarrow \begin{bmatrix} y=-2 \Rightarrow x=0 \text{ (loại)} \\ y=-\dfrac{14}{5} \Rightarrow x=-\dfrac{8}{5} \text{ (nhận)} \end{bmatrix}$.
+Vậy có 3 số phức thỏa điều kiện.",,,
+15,SP-15 (Trang 80 - Câu 12),Số phức,"Môđun của số phức $1+2i$ bằng
+
+A. 5.
+B. $\sqrt{3}$.
+C. $\sqrt{5}$.
+D. 3.",C. $\sqrt{5}$.,Ta có: $|1+2i| = \sqrt{1^2+2^2} = \sqrt{5}$.,,,
+16,SP-16 (Trang 84 - Câu 30),Số phức,"Cho hai số phức $z_1 = -3+i$ và $z_2 = 1-i$. Phần ảo của số phức $z_1+\overline{z_2}$ bằng
+
+A. $-2$.
+B. $2i$.
+C. $2$.
+D. $-2i$.",C. 2.,Ta có: $z_1+\overline{z_2} = -3+i+1+i = -2+2i$. Phần ảo của số phức $z_1+\overline{z_2}$ là $2$.,,,
+17,SP-17 (Trang 84 - Câu 31),Số phức,"Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (1+2i)^2$ là điểm nào dưới đây?
+
+A. $P(-3;4)$.
+B. $Q(5;4)$.
+C. $N(4;-3)$.
+D. $M(4;5)$.",A. $P(-3;4)$.,"Ta có: $z = (1+2i)^2 = 1+4i+4i^2 = 1+4i-4 = -3+4i$.
+Vậy, điểm biểu diễn số phức $z$ là $P(-3;4)$.",,,
+18,SP-18 (Trang 96 - Câu 19),Số phức,"Số phức liên hợp của số phức $z = 2+i$ là
+
+A. $\overline{z} = -2+i$.
+B. $\overline{z} = -2-i$.
+C. $\overline{z} = 2-i$.
+D. $\overline{z} = 2+i$.",C. $\overline{z} = 2-i$.,Số phức liên hợp của số phức $z = 2+i$ là $\overline{z} = 2-i$.,,,
+19,SP-19 (Trang 96 - Câu 20),Số phức,"Cho hai số phức $z_1 = 2+i$ và $z_2 = 1+3i$. Phần thực của số phức $z_1+z_2$ bằng
+
+A. 1.
+B. 3.
+C. 4.
+D. $-2$.",B. 3.,"Ta có $z_1+z_2 = 3+4i$.
+Phần thực của số phức $z_1+z_2$ bằng $3$.",,,
+20,SP-20 (Trang 97 - Câu 21),Số phức,"Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = -1+2i$ là điểm nào dưới đây?
+
+A. $Q(1;2)$.
+B. $P(-1;2)$.
+C. $N(1;-2)$.
+D. $M(-1;-2)$.",B. $P(-1;2)$.,Điểm biểu diễn số phức $z = -1+2i$ là điểm $P(-1;2)$.,,,
+21,SP-21 (Trang 100 - Câu 35),Số phức,"Cho hai số phức $z_1 = 3-i$ và $z_2 = -1+i$. Phần ảo của số phức $z_1z_2$ bằng
+
+A. 4.
+B. $4i$.
+C. $-1$.
+D. $-i$.",A. 4.,"Ta có $z_1z_2 = (3-i)(-1+i) = -2+4i$.
+Suy ra phần ảo của $z_1z_2$ bằng $4$.",,,
+22,SP-22 (Trang 108 - Câu 1),Số phức,"Môđun của số phức $z = 3-i$ bằng
+
+A. 8.
+B. $\sqrt{10}$.
+C. 10.
+D. $2\sqrt{2}$.",B. $\sqrt{10}$.,Ta có $z = 3-i \Rightarrow |z| = \sqrt{10}$.,,,
+23,SP-23 (Trang 109 - Câu 12),Số phức,"Cho số phức $z = 3-2i$, khi đó $2z$ bằng
+
+A. $6-2i$.
+B. $6-4i$.
+C. $3-4i$.
+D. $-6+4i$.",B. $6-4i$.,Ta có $2z = 2(3-2i) = 6-4i$.,,,
+24,SP-24 (Trang 110 - Câu 15),Số phức,"Trên mặt phẳng tọa độ, cho $M(2;3)$ là điểm biểu diễn của số phức $z$. Phần thực của $z$ bằng
+
+A. $2$.
+B. $3$.
+C. $-3$.
+D. $-2$.",A. $2$.,"Vì $M(2;3)$ là điểm biểu diễn của số phức $z$ nên $z = 2+3i$.
+
+Vậy phần thực của số phức $z$ là $2$.",,,
+25,SP-25 (Trang 113 - Câu 35),Số phức,"Cho số phức $z$ thỏa mãn $i\bar{z} = 5+2i$. Phần ảo của $z$ bằng
+
+A. $5$.
+B. $2$.
+C. $-5$.
+D. $-2$.",A. $5$.,"Ta có $\bar{z} = \dfrac{5+2i}{i} = 2-5i$.
+
+Suy ra $z = 2+5i$, do đó phần ảo của $z$ là $5$.",,,
+26,SP-26 (Trang 116 - Câu 43),Số phức,"Trên tập hợp các số phức, xét phương trình $z^2 - 2mz + 8m - 12 = 0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?
+
+A. $5$.
+B. $6$.
+C. $3$.
+D. $4$.",D. $4$.,"Ta có $\Delta' = m^2 - 8m + 12$.
+
+Nếu $\Delta' > 0$ thì phương trình có hai nghiệm thực. Khi đó, $|z_1| = |z_2| \Leftrightarrow z_1 = -z_2 \Leftrightarrow z_1 + z_2 = 0 \Leftrightarrow m = 0$ (thỏa mãn).
+
+Nếu $\Delta' < 0$, thì phương trình có hai nghiệm phức. Khi đó, là hai số phức liên hợp nên ta luôn có $|z_1| = |z_2|$ hay $m^2 - 8m + 12 < 0 \Leftrightarrow 2 < m < 6$ luôn thỏa mãn.
+
+Vậy có 4 giá trị nguyên của tham số thỏa mãn.",,,
+27,SP-27 (Trang 116 - Câu 44),Số phức,"Gọi $S$ là tập hợp tất cả các số phức $z$ sao cho số phức $w = \dfrac{1}{|z|-z}$ có phần thực bằng $\dfrac{1}{8}$. Xét các số phức $z_1, z_2 \in S$ thỏa mãn $|z_1-z_2|=2$, giá trị lớn nhất của $P = |z_1-5i|^2 - |z_2-5i|^2$ bằng
+
+A. $16$.
+B. $20$.
+C. $10$.
+D. $32$.",B. $20$.,"Gọi $z = x+yi$ suy ra $w = \dfrac{1}{(\sqrt{x^2+y^2}-x)-yi}$.
+
+Từ đó suy ra phần thực của $w$ là $\dfrac{\sqrt{x^2+y^2}-x}{2\sqrt{x^2+y^2}\left(\sqrt{x^2+y^2}-x\right)} = \dfrac{1}{8} \Leftrightarrow \sqrt{x^2+y^2} = 4 \Leftrightarrow x^2+y^2 = 16$.
+
+Vậy tập hợp điểm biểu diễn số phức $z$ là đường tròn $(O;4)$ với $O(0;0)$.
+
+Gọi $A, B$ lần lượt là hai điểm biểu diễn số phức $z_1$ và $z_2$. Khi đó $AB = 2$ (vì $|z_1-z_2|=2$).
+
+Gọi $I(0;5) \Rightarrow \begin{cases} |z_1-5i| = AI \\ |z_2-5i| = BI \end{cases}$.
+
+Khi đó $P = AI^2 - BI^2 = (\overrightarrow{AO}+\overrightarrow{OI})^2 - (\overrightarrow{BO}+\overrightarrow{OI})^2 = 2\overrightarrow{OI}\cdot\overrightarrow{AB} \le 2OI\cdot AB = 20$.
+
+Dấu ""="" xảy ra khi $\overrightarrow{OI}$ và $\overrightarrow{AB}$ cùng hướng.",,,
+28,SP-28 (Trang 121 - Câu 1),Số phức,"Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=7-6i$ có tọa độ là
+
+A. $(-6;7)$.
+B. $(6;7)$.
+C. $(7;6)$.
+D. $(7;-6)$.",D. $(7;-6)$.,Điểm biểu diễn số phức $z=7-6i$ có tọa độ là $(7;-6)$.,,,
+29,SP-29 (Trang 123 - Câu 12),Số phức,"Cho số phức $z = 2+9i$, phần thực của số phức $z^2$ bằng
+
+A. $-77$.
+B. $4$.
+C. $36$.
+D. $85$.",A. $-77$.,Ta có $z^2 = (2+9i)^2 = 4+36i+81i^2 = -77+36i$ nên phần thực của số phức $z^2$ bằng $-77$.,,,
+30,SP-30 (Trang 123 - Câu 16),Số phức,"Phần ảo của số phức $z = 2-3i$ là
+
+A. $-3$.
+B. $-2$.
+C. $2$.
+D. $3$.",A. $-3$.,Phần ảo của số phức $z = 2-3i$ là $-3$.,,,
+31,SP-31 (Trang 127 - Câu 35),Số phức,"Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+2i|=1$ là một đường tròn. Tâm của đường tròn đó có tọa độ là
+
+A. $(0;2)$.
+B. $(-2;0)$.
+C. $(0;-2)$.
+D. $(2;0)$.",C. $(0;-2)$.,"Gọi $z = x+yi$, với $x,y \in \mathbb{R}$. Khi đó $z+2i = x+(y+2)i$.
+
+Ta có $|z+2i|=1 \Leftrightarrow \sqrt{x^2+(y+2)^2}=1 \Leftrightarrow x^2+(y+2)^2=1$.
+
+Vậy tập hợp điểm biểu diễn các số phức $z$ là đường tròn tâm $I(0;-2)$ bán kính $R=1$.",,,
+32,SP-32 (Trang 130 - Câu 42),Số phức,"Xét các số phức $z$ thỏa mãn $|z^2-3-4i| = 2|z|$. Gọi $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của $|z|$. Giá trị của $M^2+m^2$ bằng
+
+A. $28$.
+B. $18+4\sqrt{6}$.
+C. $14$.
+D. $11+4\sqrt{6}$.",C. $14$.,"Gọi $z=x+yi$, với $x,y\in\mathbb{R}$. Ta có
+
+$|z^2-3-4i|=2|z|$
+
+$\Leftrightarrow |z^2-(2+i)^2|=2|z|$
+
+$\Leftrightarrow \left((x-2)^2+(y-1)^2\right)\left((x+2)^2+(y+1)^2\right)=4(x^2+y^2)$
+
+$\Leftrightarrow (t+5)^2-(4x+2y)^2=4t$, với $t=x^2+y^2$
+
+$\Leftrightarrow (4x+2y)^2=t^2+6t+25$
+
+$\Leftrightarrow 20t \ge t^2+6t+25$ (bất đẳng thức B.C.S)
+
+$\Leftrightarrow t^2-14t+25 \le 0$
+
+$\Leftrightarrow 7-2\sqrt{6} \le t \le 7+2\sqrt{6}$
+
+$\Leftrightarrow \sqrt{6}-1 \le |z| \le \sqrt{6}+1$.
+
+Suy ra giá trị lớn nhất của $|z|$ là $M=1+\sqrt{6}$ và giá trị nhỏ nhất là $m=1-\sqrt{6}$.
+
+Vậy $M^2+m^2=14$.",,,
+33,SP-33 (Trang 132 - Câu 45),Số phức,"Trên tập hợp số phức, xét phương trình $z^2 - 2(m+1)z + m^2 = 0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=2$?
+
+A. $1$.
+B. $4$.
+C. $2$.
+D. $3$.",C. $2$.,"Ta có $\Delta' = (m+1)^2-m^2=2m+1$. Ta có các trường hợp (TH) sau:
+
+TH1. $\Delta<0 \Leftrightarrow m<-\dfrac{1}{2}$. Khi đó $z_1=\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=2 \Rightarrow |z_1|=1 \Rightarrow m^2=z_1z_2=|z_1|^2=1 \Rightarrow m=\pm1$.
+
+Kết hợp với điều kiện, $m<-\dfrac{1}{2}$, ta được $m=-1$.
+
+TH2. $\Delta \ge 0 \Leftrightarrow m \ge -\dfrac{1}{2}$. Khi đó phương trình đã cho có hai nghiệm thực thỏa mãn $z_1+z_2=2(m+1)$ và $z_1z_2=m^2$. Do đó
+
+$4=(|z_1|+|z_2|)^2=z_1^2+z_2^2+2|z_1z_2|=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|$
+
+$\Leftrightarrow 4(m+1)^2-2m^2+2m^2=4 \Leftrightarrow \left[\begin{array}{l} m=0 \\ m=-2 \end{array}\right.$
+
+Kết hợp điều kiện $m>-\dfrac{1}{2}$, ta được $m=0$.
+
+Vậy có 2 giá trị $m=0$ hoặc $m=-1$ thỏa mãn bài toán.",,,
+34,SP-34 (Trang 137 - Câu 3),Số phức,"Số phức nào dưới đây là số thuần ảo?
+
+A. $z=-2+3i$.
+B. $z=3i$.
+C. $z=-2$.
+D. $z=\sqrt{3}+i$.",B. $z=3i$.,Số phức là số thuần ảo nếu phần thực bằng $0$.,,,
+35,SP-35 (Trang 138 - Câu 7),Số phức,"Cho hai số phức $z_1 = 5-7i$ và $z_2 = 2+3i$. Tìm số phức $z=z_1+z_2$.
+
+A. $z=7-4i$.
+B. $z=2+5i$.
+C. $z=-2+5i$.
+D. $z=3-10i$.",A. $z=7-4i$.,Ta có $z = 5-7i+2+3i = 7-4i$.,,,
+36,SP-36 (Trang 141 - Câu 22),Số phức,"Phương trình nào dưới đây nhận hai số phức $z=1+\sqrt{2}i$ và $1-\sqrt{2}i$ là nghiệm?
+
+A. $z^2+2z+3=0$.
+B. $z^2-2z-3=0$.
+C. $z^2-2z+3=0$.
+D. $z^2+2z-3=0$.",C. $z^2-2z+3=0$.,Áp dụng định lý Vi-ét có tổng hai số phức là $2$ và tích của chúng là $3$ $\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-2z+3=0$.,,,
+37,SP-37 (Trang 142 - Câu 30),Số phức,"Cho số phức $z=1-2i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?
+
+A. $Q(1;2)$.
+B. $N(2;1)$.
+C. $M(1;-2)$.
+D. $P(-2;1)$.",B. $N(2;1)$.,$w=iz=2+i$. Điểm biểu diễn số phức $w$ là $N(2;1)$.,,,
+38,SP-38 (Trang 144 - Câu 36),Số phức,"Cho số phức $z=a+bi$ ($a,b \in \mathbb{R}$) thỏa mãn $z+1+3i-|z|i=0$. Tính $S=a+3b$.
+
+A. $S=\dfrac{7}{3}$.
+B. $S=-5$.
+C. $S=5$.
+D. $S=-\dfrac{7}{3}$.",B. $S=-5$.,"$z+1+3i-|z|i=0 \Leftrightarrow a+bi+1+3i-\sqrt{a^2+b^2}i=0 \Leftrightarrow a+1+\left(b+3-\sqrt{a^2+b^2}\right)i=0$
+
+$\Leftrightarrow \begin{cases} a+1=0 \\ b+3-\sqrt{a^2+b^2}=0 \end{cases} \Leftrightarrow \begin{cases} a=-1 \\ \sqrt{b^2+1}=b+3 \end{cases} \Leftrightarrow \begin{cases} a=-1 \\ b=-\dfrac{4}{3} \end{cases}$.
+
+$S=a+3b=-5$.",,,
+39,SP-39 (Trang 148 - Câu 46),Số phức,"Có bao nhiêu số phức $z$ thỏa mãn $|z-3i|=5$ và $\dfrac{z}{z-4}$ là số thuần ảo?
+
+A. $0$.
+B. Vô số.
+C. $1$.
+D. $2$.",C. $1$.,"$\begin{cases} |z-3i|=5 \\ \dfrac{z}{z-4} \text{ là số thuần ảo} \end{cases} \Leftrightarrow \begin{cases} \sqrt{a^2+(b-3)^2}=5 \\ \dfrac{(a+bi)(a-4-bi)}{(a-4+bi)(a-4-bi)} \text{ là số thuần ảo} \end{cases}$
+
+$\Leftrightarrow \begin{cases} a^2+b^2-6b=16 \\ a^2+b^2-4a=0 \\ a\ne4, b\ne0 \end{cases} \Leftrightarrow \begin{cases} 4a-6b=16 \\ a^2+b^2-4a=0 \\ a\ne4, b\ne0 \end{cases} \Leftrightarrow \begin{cases} b=\dfrac{2a-8}{3} \\ a^2+\left(\dfrac{2a-8}{3}\right)^2-4a=0 \\ a\ne4, b\ne0 \end{cases}$
+
+$\Leftrightarrow \begin{cases} b=\dfrac{2a-8}{3} \\ 13a^2-68a+64=0 \\ a\ne4, b\ne0 \end{cases} \Leftrightarrow \begin{cases} a=\dfrac{16}{13} \\ b=-\dfrac{24}{13} \end{cases}$
+
+Vậy có một số phức thỏa yêu cầu bài toán.",,,
+40,SP-40 (Trang 153 - Câu 6),Số phức,"Số phức có phần thực bằng $3$ và phần ảo bằng $4$ là
+
+A. $3+4i$.
+B. $4-3i$.
+C. $3-4i$.
+D. $4+3i$.",A. $3+4i$.,Số phức có phần thực bằng $3$ và phần ảo bằng $4$ là $z = 3+4i$.,,,
+41,SP-41 (Trang 160 - Câu 33),Số phức,"Xét các số phức $z$ thỏa mãn $(\bar{z}+3i)(z-3)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng
+
+A. $\dfrac{9}{2}$.
+B. $3\sqrt{2}$.
+C. $3$.
+D. $\dfrac{3\sqrt{2}}{2}$.",D. $\dfrac{3\sqrt{2}}{2}$.,"Giả sử $z=x+yi \Rightarrow \bar{z}=x-yi$ trong đó $x,y\in\mathbb{R}$.
+
+Ta có $(\bar{z}+3i)(z-3) = x^2+y^2-3x-3y+(3x+3y-9)i$.
+
+Số phức $(\bar{z}+3i)(z-3)$ là số thuần ảo khi chỉ khi $x^2+y^2-3x-3y=0 \Leftrightarrow \left(x-\dfrac{3}{2}\right)^2+\left(y-\dfrac{3}{2}\right)^2=\dfrac{9}{2}$.
+
+Vậy tập hợp tất cả các điểm biểu diễn số phức $z$ thỏa mãn yêu cầu bài toán là đường tròn có bán kính bằng $\dfrac{3\sqrt{2}}{2}$.",,,
+42,SP-42 (Trang 168 - Câu 49),Số phức,"Có bao nhiêu số phức $z$ thỏa mãn $|z|(z-3-i)+2i=(4-i)z$?
+
+A. $1$.
+B. $3$.
+C. $2$.
+D. $4$.",B. $3$.,"Ta có $|z|(z-3-i)+2i=(4-i)z \Leftrightarrow z(4-|z|-i)=-3|z|+(2-|z|)i$.
+
+Đặt $t=|z|$, điều kiện $t\ge0, t\in\mathbb{R}$. Lấy mô-đun hai vế ta được
+
+$t|4-t-i| = |-3t+(2-t)i|$
+
+$\Leftrightarrow t\sqrt{(4-t)^2+1} = \sqrt{9t^2+(2-t)^2}$
+
+$\Leftrightarrow t^4-8t^3+6t^2+4t-3=0$
+
+$\Leftrightarrow (t-1)(t^3-7t^2-t+3)=0$
+
+$\Leftrightarrow \left[\begin{array}{l} t=1 \\ t\approx7,081 \\ t\approx0,61146 \\ t\approx-0,6928. \end{array}\right.$
+
+Do đó, có 3 giá trị $t$ thỏa mãn.
+
+Mặt khác, với mỗi $t\ge0$, ta có $z=\dfrac{-3t+(2-t)i}{4-t-i}$ nên có duy nhất một số phức $z$ thỏa mãn.
+
+Vậy có 3 số phức thỏa mãn yêu cầu bài toán.",,,"[Lỗi toán học trong tài liệu gốc] Bản chuyển đổi TRUNG THỰC với ảnh gốc (trang 169), nhưng lời giải trong tài liệu gốc có lỗi tính toán: phương trình bậc bốn ghi là t^4-8t^3+6t^2+4t-3=0 (và phân tích thành (t-1)(t^3-7t^2-t+3)=0) là SAI. Bình phương đúng của t·√((4-t)^2+1)=√(9t^2+(2-t)^2) cho ra t^4-8t^3+7t^2+4t-4=0 = (t-1)(t^3-7t^2+4)=0 (kiểm chứng tại t=2: VT-VP = 20-36 = -16 khớp với đa thức đúng, không khớp -19 của đa thức trong tài liệu). Dù vậy cả hai đa thức đều cho đúng 3 nghiệm t>0 nên đáp án B (3 số phức) vẫn đúng. Đây là lỗi của tài liệu gốc, không phải lỗi chuyển đổi."
+43,SP-43 (Trang 171 - Câu 4),Số phức,"Số phức liên hợp của số phức $5-3i$ là
+
+A. $-5+3i$.
+B. $-3+5i$.
+C. $-5-3i$.
+D. $5+3i$.",D. $5+3i$.,Số phức liên hợp của số phức $5-3i$ là $5+3i$.,,,
+44,SP-44 (Trang 176 - Câu 28),Số phức,"Cho hai số phức $z_1=-2+i$ và $z_2=1+i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là
+
+A. $(3;-3)$.
+B. $(2;-3)$.
+C. $(-3;3)$.
+D. $(-3;2)$.",C. $(-3;3)$.,"Ta có $2z_1+z_2=-4+2i+1+i=-3+3i$.
+
+Vậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(-3;3)$.",,,
+45,SP-45 (Trang 177 - Câu 31),Số phức,"Cho số phức $z$ thoả mãn $3(\bar{z}-i)-(2+3i)z=7-16i$. Mô-đun của $z$ bằng
+
+A. $\sqrt{5}$.
+B. $5$.
+C. $\sqrt{3}$.
+D. $3$.",A. $\sqrt{5}$.,"Đặt $z=a+bi\,(a;b\in\mathbb{R})$. Theo đề ta có
+$3(a-bi-i)-(2+3i)(a+bi)=7-16i$
+$\Leftrightarrow 3a-3bi-3i-2a-2bi-3ai+3b=7-16i$
+$\Leftrightarrow (a+3b)+(-3a-5b-3)i=7-16i$
+$\Leftrightarrow \begin{cases}a+3b=7\\-3a-5b-3=-16\end{cases}\Leftrightarrow \begin{cases}a+3b=7\\-3a-5b=-13\end{cases}\Leftrightarrow \begin{cases}a=1\\b=2.\end{cases}$
+Vậy $|z|=\sqrt{1^2+2^2}=\sqrt5$.",,,
+46,SP-46 (Trang 184 - Câu 44),Số phức,"Xét số phức $z$ thỏa mãn $|z|=\sqrt{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\dfrac{3+iz}{1+z}$ là một đường tròn có bán kính bằng
+
+A. $2\sqrt{3}$.
+B. $20$.
+C. $12$.
+D. $2\sqrt{5}$.",D. $2\sqrt{5}$.,"Ta có $w=\dfrac{3+iz}{1+z} \Leftrightarrow w+wz=3+iz \Leftrightarrow w-3=(i-w)z$. Lấy mô-đun hai vế ta được
+$|w-3|=|(i-w)z| \Leftrightarrow |w-3|=|(i-w)||z|$. $(*)$
+Gọi $w=x+yi,\, x,y\in\mathbb{R}$. Khi đó ta có
+$(*) \Leftrightarrow |w-3|=|(i-w)||z| \Leftrightarrow \sqrt{(x-3)^2+y^2}=\sqrt{x^2+(1-y)^2}\cdot\sqrt{2}$
+$\Leftrightarrow (x-3)^2+y^2=2x^2+2(1-y)^2 \Leftrightarrow x^2+y^2+6x-4y-7=0$.
+Vậy tập hợp điểm biểu diễn số phức $w$ thỏa mãn $|z|=\sqrt{2}$ là đường tròn có tâm $I(-3;2)$ và bán kính bằng $2\sqrt{5}$.",,,
+47,SP-47 (Trang 190 - Câu 4),Số phức,"Trên mặt phẳng tọa độ, biết $M(-1;3)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng
+
+A. $3$.
+B. $-1$.
+C. $-3$.
+D. $1$.",B. $-1$.,"Ta có $M(-1;3)$ là điểm biểu diễn số phức $z=-1+3i$.
+Do đó, phần thực của $z$ là $-1$.",,,
+48,SP-48 (Trang 190 - Câu 6),Số phức,"Cho hai số phức $z_1=3+2i$ và $z_2=2-i$. Số phức $z_1+z_2$ bằng
+
+A. $5-i$.
+B. $5+i$.
+C. $-5-i$.
+D. $-5+i$.",B. $5+i$.,Ta có: $z_1+z_2=(3+2i)+(2-i)=5+i$.,,,
+49,SP-49 (Trang 193 - Câu 24),Số phức,"Số phức liên hợp của số phức $z=-2+5i$ là
+
+A. $\bar{z}=2-5i$.
+B. $\bar{z}=2+5i$.
+C. $\bar{z}=-2+5i$.
+D. $\bar{z}=-2-5i$.",D. $\bar{z}=-2-5i$.,Ta có số phức liên hợp của số phức $z=-2+5i$ là $\bar{z}=-2-5i$.,,,
+50,SP-50 (Trang 195 - Câu 31),Số phức,"Cho hai số phức $z=2+2i$ và $w=2+i$. Mô-đun của số phức $z\cdot\overline{w}$ bằng
+
+A. $40$.
+B. $8$.
+C. $2\sqrt{2}$.
+D. $2\sqrt{10}$.",D. $2\sqrt{10}$.,"Ta có $z\cdot\overline{w}=(2+2i)(2-i)=6+2i$.
+Vậy $|z\cdot\overline{w}|=|6+2i|=\sqrt{6^2+2^2}=2\sqrt{10}$.",,,
+51,SP-51 (Trang 208 - Câu 12),Số phức,"Trong mặt phẳng tọa độ $Oxy$, điểm $M(-3;2)$ là điểm biểu diễn của số phức nào sau đây?
+
+A. $z_3=3-2i$.
+B. $z_4=3+2i$.
+C. $z_1=-3-2i$.
+D. $z_2=-3+2i$.",D. $z_2=-3+2i$.,"Trong mặt phẳng tọa độ $Oxy$, điểm $M(-3;2)$ biểu diễn cho số phức $z_2=-3+2i$.",,,
+52,SP-52 (Trang 209 - Câu 19),Số phức,"Cho hai số phức $z=5+2i$ và $w=1-4i$. Số phức $z+w$ bằng
+
+A. $6+2i$.
+B. $4+6i$.
+C. $6-2i$.
+D. $-4-6i$.",C. $6-2i$.,Ta có $z+w=5+2i+1-4i=(5+1)+(2-4)i=6-2i$.,,,
+53,SP-53 (Trang 210 - Câu 25),Số phức,"Phần thực của số phức $z=6-2i$ bằng
+
+A. $-2$.
+B. $2$.
+C. $6$.
+D. $-6$.",C. $6$.,Phần thực của số phức $z=6-2i$ bằng $6$.,,,
+54,SP-54 (Trang 211 - Câu 32),Số phức,"Cho số phức $z$ thỏa mãn $iz=6+5i$. Số phức liên hợp của $z$ là
+
+A. $\bar{z}=5-6i$.
+B. $\bar{z}=-5+6i$.
+C. $\bar{z}=5+6i$.
+D. $\bar{z}=-5-6i$.",C. $\bar{z}=5+6i$.,Ta có $iz=6+5i \Leftrightarrow z=\dfrac{6+5i}{i}=5-6i$. Vậy $\bar{z}=5+6i$.,,,
+55,SP-55 (Trang 214 - Câu 42),Số phức,"Xét các số phức $z, w$ thỏa mãn $|z|=1$ và $|w|=2$. Khi $|z+i\overline{w}+6+8i|$ đạt giá trị nhỏ nhất, $|z-w|$ bằng
+
+A. $\dfrac{\sqrt{29}}{5}$.
+B. $\dfrac{\sqrt{221}}{5}$.
+C. $3$.
+D. $\sqrt{5}$.",B. $\dfrac{\sqrt{221}}{5}$.,"Ta có $|z+i\overline{w}+6+8i| \ge |6+8i|-|z|-|i\overline{w}| = 10-1-2=7$.
+Dấu bằng xảy ra khi và chỉ khi $\begin{cases}z=-\dfrac{3}{5}-\dfrac{4}{5}i\\i\overline{w}=-\dfrac{6}{5}-\dfrac{8}{5}i\end{cases} \Leftrightarrow \begin{cases}z=-\dfrac{3}{5}-\dfrac{4}{5}i\\w=\dfrac{8}{5}+\dfrac{6}{5}i.\end{cases}$
+Khi đó $|z-w|=\dfrac{\sqrt{225}}{5}$.",,,"Chuyển đổi khớp hoàn toàn với tài liệu gốc (trang 214-215, Câu 42) — không có lỗi chuyển markdown. Lưu ý (không tính vào lỗi chuyển đổi): bản thân tài liệu gốc có sai sót toán học — khi giải $i\overline{w}=-\dfrac{6}{5}-\dfrac{8}{5}i$, tài liệu suy ra $w=\dfrac{8}{5}+\dfrac{6}{5}i$ (sai dấu, đúng phải là $w=-\dfrac{8}{5}-\dfrac{6}{5}i$) và $|z-w|=\dfrac{\sqrt{225}}{5}$ (đúng ra là $\dfrac{\sqrt{29}}{5}$). Đáp án B mà tài liệu chọn cũng theo lỗi tính này. Lỗi này thuộc về nội dung toán học của tài liệu gốc, không phải lỗi trong quá trình chuyển đổi sang markdown."
+56,SP-56 (Trang 217 - Câu 48),Số phức,"Trên tập hợp các số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=5$?
+
+A. $2$.
+B. $3$.
+C. $1$.
+D. $4$.",B. $3$.,"Ta có $\Delta'=2m+1$.
+- TH1: $\Delta'=0 \Leftrightarrow m=-\dfrac{1}{2}$ thì $z_0=\dfrac{1}{2}$, suy ra $m=-\dfrac{1}{2}$ (loại).
+- TH2: $\Delta'<0 \Leftrightarrow m<-\dfrac{1}{2}$ thì $z_0=m+1+\sqrt{|2m+1|}\,i$ hoặc $z_0=m+1-\sqrt{|2m+1|}\,i$.
+Theo đề bài $|z_0|=5 \Rightarrow (m+1)^2+(-2m-1)=25 \Leftrightarrow \begin{bmatrix}m=5 & (\text{loại})\\m=-5 & (\text{nhận})\end{bmatrix}$
+- TH3: $\Delta'>0 \Leftrightarrow m>-\dfrac{1}{2}$ thì phương trình có hai nghiệm thực phân biệt
+  Khi $z_0=5$: thế vào phương trình ta được $m^2-10m+15=0 \Leftrightarrow m=5\pm\sqrt{10}$ (nhận).
+  Khi $z_0=-5$: thế vào phương trình ta được $m^2+10m+35=0$ vô nghiệm.
+Vậy có 3 giá trị của $m$.",,,"[Lỗi toán học trong tài liệu gốc] Đề bài in trong ảnh gốc (trang 217) là z^2-2(m+1)z+m=0 (hệ số tự do là m), nhưng đây là lỗi in/thiếu của tài liệu gốc: toàn bộ lời giải lại dùng z^2-2(m+1)z+m^2=0 (vì Δ'=2m+1 chỉ đúng khi hệ số tự do là m^2, và bước m^2-10m+15=0 cũng dùng m^2). Bản chuyển đổi đã ghi de_bai đúng theo lời giải là m^2 (khớp bài toán chuẩn của đề TN THPT 2021, đáp án B=3 đúng). Như vậy de_bai trong dữ liệu KHÔNG khớp từng chữ với ảnh (m^2 vs m) nhưng lại là bản đúng; lệch này là do sửa lỗi in của tài liệu gốc, cần lưu ý khi đối chiếu với ảnh."
+57,SP-57 (Trang 220 - Câu 1),Số phức,"Cho hai số phức $z=4+3i$ và $w=1-i$. Số phức $z-w$ bằng
+
+A. $5+2i$.
+B. $7-i$.
+C. $3+4i$.
+D. $-3-4i$.",C. $3+4i$.,Ta có $z-w=4+3i-(1-i)=3+4i$.,,,
+58,SP-58 (Trang 222 - Câu 15),Số phức,"Phần ảo của số phức $z=3-4i$ bằng
+
+A. $4$.
+B. $-3$.
+C. $-4$.
+D. $3$.",C. $-4$.,Phần ảo của số phức $z=3-4i$ là $-4$.,,,
+59,SP-59 (Trang 225 - Câu 33),Số phức,"Cho số phức $z=4-2i$, mô-đun của số phức $(1+i)z$ bằng
+
+A. $2\sqrt{10}$.
+B. $24$.
+C. $2\sqrt{26}$.
+D. $40$.",A. $2\sqrt{10}$.,"Ta có $(1+i)z=(1+i)(4-2i)=6+2i$.
+Do đó mô-đun của $(1+i)z$ là $|6+2i|=\sqrt{6^2+2^2}=\sqrt{40}=2\sqrt{10}$.
+Vậy $|(1+i)z|=2\sqrt{10}$.",,,
+60,SP-60 (Trang 229 - Câu 43),Số phức,"Xét các số phức $z$ và $w$ thay đổi thỏa mãn $|z|=|w|=4$ và $|z-w|=4\sqrt{2}$. Giá trị nhỏ nhất của $P=|z-1-i|+|w+3-4i|$ bằng
+
+A. $\sqrt{41}$.
+B. $5-2\sqrt{2}$.
+C. $5-\sqrt{2}$.
+D. $\sqrt{13}$.",D. $\sqrt{13}$.,"Đặt $\dfrac{z}{w}=x+yi\,(x,y\in\mathbb{R})$.
+Ta có $\begin{cases}\dfrac{|z|}{|w|}=1\\\dfrac{|z-w|}{|w|}=\sqrt{2}\end{cases} \Leftrightarrow \begin{cases}\left|\dfrac{z}{w}\right|=1\\\left|\dfrac{z-w}{w}\right|=\sqrt{2}\end{cases} \Leftrightarrow \begin{cases}\sqrt{x^2+y^2}=1\\\left|\dfrac{z}{w}-1\right|=\sqrt{2}\end{cases} \Leftrightarrow \begin{cases}\sqrt{x^2+y^2}=1\\\sqrt{(x-1)^2+y^2}=\sqrt{2}\end{cases} \Leftrightarrow \begin{cases}x^2+y^2=1\\(x-1)^2+y^2=2\end{cases} \Leftrightarrow \begin{cases}x=0\\y=\pm 1.\end{cases}$
+Suy ra $z=iw$ hoặc $z=-iw$.
+
+Trường hợp 1:
+$z=iw \Rightarrow P=|iw-1-i|+|w+3-4i|$
+$=|w-1+i|+|-w-3+4i|$
+$\ge |w-1+i-w-3+4i|=\sqrt{41}.$ (1)
+
+Trường hợp 2:
+$z=-iw \Rightarrow P=|-iw-1-i|+|w+3-4i|$
+$=|-w-1+i|+|w+3-4i| \ge |-w-1+i+w+3-4i|=\sqrt{13}.$ (2)
+
+Từ (1) và (2) $\Rightarrow \min P=\sqrt{13}$ đạt được $\Leftrightarrow \begin{cases}z=\dfrac{2-9\sqrt{23}}{13}-\dfrac{3+6\sqrt{23}}{13}i\\w=-\dfrac{3+6\sqrt{23}}{13}-\dfrac{2-9\sqrt{23}}{13}i.\end{cases}$",,,
+61,SP-61 (Trang 232 - Câu 48),Số phức,"Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=3+3i$?
+
+A. $4$.
+B. $1$.
+C. $2$.
+D. $3$.",D. $3$.,"Trường hợp 1: $z_1$ và $z_2$ là hai nghiệm thực.
+Ta có $z_1+2iz_2=3+3i \Leftrightarrow \begin{cases}z_1=3\\z_2=\dfrac{3}{2}.\end{cases}$
+Khi đó $-4a=z_1+z_2=3+\dfrac{3}{2} \Leftrightarrow a=-\dfrac{9}{8}$ và $b^2+2=z_1\cdot z_2=3\cdot\dfrac{3}{2} \Leftrightarrow b=\pm\dfrac{\sqrt{10}}{2}$.
+Như vậy, trường hợp 1 có $(a;b)\in\left\{\left(-\dfrac{9}{8};-\dfrac{\sqrt{10}}{2}\right);\left(-\dfrac{9}{8};\dfrac{\sqrt{10}}{2}\right)\right\}$.
+
+Trường hợp 2: $z_1$ và $z_2$ là hai nghiệm phức.
+Đặt $z_1=x+yi\,(x,y\in\mathbb{R})$ thì $z_2=x-yi$. Ta có
+$z_1+2iz_2=3+3i \Leftrightarrow x+yi+2i(x-yi)=3+3i \Leftrightarrow \begin{cases}x+2y=3\\2x+y=3\end{cases} \Leftrightarrow \begin{cases}x=1\\y=1\end{cases} \Rightarrow \begin{cases}z_1=1+i\\z_2=1-i.\end{cases}$
+Khi đó $-4a=z_1+z_2=2 \Leftrightarrow a=-\dfrac{1}{2}$ và $b^2+2=z_1\cdot z_2=2 \Leftrightarrow b=0$.
+Như vậy, trường hợp 2 có $(a;b)=\left(-\dfrac{1}{2};0\right)$.
+
+Vậy có 3 cặp số thực $(a;b)$ thỏa mãn yêu cầu bài toán.",,,
+62,SP-62 (Trang 237 - Câu 14),Số phức,"Môđun của số phức $z=3+4i$ bằng
+
+A. $25$.
+B. $\sqrt{7}$.
+C. $5$.
+D. $7$.",C. $5$.,Ta có $|z|=\sqrt{3^2+4^2}=\sqrt{25}=5$.,,,
+63,SP-63 (Trang 239 - Câu 25),Số phức,"Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=2-7i$ có tọa độ là
+
+A. $(2;7)$.
+B. $(-2;7)$.
+C. $(2;-7)$.
+D. $(-7;2)$.",C. $(2;-7)$.,"Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=2-7i$ có tọa độ là $(2;-7)$.",,,
+64,SP-64 (Trang 239 - Câu 26),Số phức,"Cho hai số phức $z_1=2+3i, z_2=1-i$. Số phức $z_1+z_2$ bằng
+
+A. $5+i$.
+B. $3+2i$.
+C. $1+4i$.
+D. $3+4i$.",B. $3+2i$.,Ta có $z_1+z_2=2+3i+1-i=3+2i$.,,,
+65,SP-65 (Trang 244 - Câu 45),Số phức,"Cho các số phức $z_1, z_2, z_3$ thỏa mãn $|z_1|=|z_2|=2|z_3|=2$ và $8(z_1+z_2)z_3=3z_1z_2$. Gọi $A, B, C$ lần lượt là các điểm biểu diễn của $z_1, z_2, z_3$ trên mặt phẳng tọa độ. Diện tích tam giác $ABC$ bằng
+
+A. $\dfrac{\sqrt{55}}{32}$.
+B. $\dfrac{\sqrt{55}}{16}$.
+C. $\dfrac{\sqrt{55}}{24}$.
+D. $\dfrac{\sqrt{55}}{8}$.",B. $\dfrac{\sqrt{55}}{16}$.,"Ta có $8(z_1+z_2)z_3=3z_1z_2 \Leftrightarrow \dfrac{8}{z_2}+\dfrac{8}{z_1}=\dfrac{3}{z_3} \Leftrightarrow \dfrac{8\overline{z_2}}{z_2\overline{z_2}}+\dfrac{8\overline{z_1}}{z_1\overline{z_1}}=\dfrac{3\overline{z_3}}{z_3\overline{z_3}} \Leftrightarrow \dfrac{8\overline{z_2}}{|z_2|^2}+\dfrac{8\overline{z_1}}{|z_1|^2}=\dfrac{3\overline{z_3}}{|z_3|^2}$
+$\Leftrightarrow \dfrac{8\overline{z_2}}{4}+\dfrac{8\overline{z_1}}{4}=\dfrac{3\overline{z_3}}{1} \Leftrightarrow \overline{z_2}+\overline{z_1}=\dfrac{3\overline{z_3}}{2}.$ (1)
+Gọi $A', B', C'$ lần lượt là các điểm biểu diễn của $\overline{z_1}, -z_2, -z_3$ suy ra $A', B', C'$ lần lượt đối xứng với $A, B, C$ qua trục $Ox \Rightarrow S_{\triangle ABC}=S_{\triangle A'B'C'}$.
+Ta có $(1) \Leftrightarrow \overrightarrow{OA'}+\overrightarrow{OB'}=\dfrac{3}{2}\overrightarrow{OC'}=\overrightarrow{OD}$, trong đó $OA'=OB'=2OC'=2, \overrightarrow{OD}=\dfrac{3}{2}\overrightarrow{OC'}$, suy ra tứ giác $OA'DB'$ là hình thoi có $OA'=OB'=2, OD=\dfrac{3}{2}$ và $C'\in OD: OC'=1$.
+Ta có $DC'=\dfrac{1}{2} \Rightarrow IC'=ID-DC'=\dfrac{3}{4}-\dfrac{1}{2}=\dfrac{1}{4} \Rightarrow IC'=\dfrac{1}{3}ID \Rightarrow S_{\triangle A'B'C'}=\dfrac{1}{3}S_{\triangle OA'B'}$.
+$S_{\triangle OA'B'}=2S_{\triangle OA'I}=OI\cdot\sqrt{OA'^2-OI^2}=\dfrac{3}{4}\cdot\sqrt{4-\dfrac{9}{16}}=\dfrac{3\sqrt{55}}{16}$.
+Vậy $S_{\triangle ABC}=S_{\triangle A'B'C'}=\dfrac{\sqrt{55}}{16}$.",,,
+66,SP-66 (Trang 245 - Câu 48),Số phức,"Có bao nhiêu số phức $z$ thỏa mãn $|z^2|=2|z-\bar{z}|$ và $|(z-4)(\bar{z}-4i)|=|z+4i|^2$?
+
+A. $3$.
+B. $1$.
+C. $2$.
+D. $4$.",D. $4$.,"Ta có $\overline{z}-4i=\overline{z+4i} \Rightarrow |\overline{z}-4i|=|\overline{z+4i}|=|z+4i|$. Do đó $|(z-4)(\overline{z}-4i)|=|z+4i|^2 \Leftrightarrow |z-4|\cdot|\overline{z}-4i|=|z+4i|^2 \Leftrightarrow |z-4|\cdot|z+4i|=|z+4i|^2$
+$\Leftrightarrow \begin{bmatrix}|z+4i|=0\\|z-4|=|z+4i|.\end{bmatrix}$
+Xét (1): $|z+4i|=0 \Leftrightarrow z+4i=0 \Leftrightarrow z=-4i \Rightarrow \overline{z}=4i$.
+Khi đó $\begin{cases}z^2=-16 \Rightarrow |z^2|=16\\|z-\overline{z}|=|-8i|=8\end{cases}$ suy ra $|z^2|=2|z-\overline{z}|$ (thỏa mãn yêu cầu bài toán).
+Xét (2): $|z-4|=|z+4i|$.
+Giả sử $z=a+bi$, với $a, b\in\mathbb{R}$.
+Ta có (2) $\Leftrightarrow (a-4)^2+b^2=a^2+(b+4)^2 \Leftrightarrow b=-a$.
+Hay $z=a-ai \Rightarrow z^2=-2a^2i \Rightarrow |z^2|=2a^2$ và $z-\overline{z}=-2ai \Rightarrow |z-\overline{z}|=2|a|$.
+Khi đó $|z^2|=2|z-\overline{z}| \Leftrightarrow 2a^2=4|a| \Leftrightarrow \begin{bmatrix}a=0\\a=\pm 2\end{bmatrix} \Rightarrow \begin{bmatrix}z=0\\z=2-2i\\z=-2+2i\\z=-4i.\end{bmatrix}$
+Vậy có 4 số phức $z=0, z=2-2i, z=-2+2i, z=-4i$ thỏa mãn yêu cầu bài toán.",,,
+67,KT-01 (Trang 2 - Câu 3),Hàm số - Đạo hàm - Khảo sát,"**Câu 3:** Hỏi hàm số $y = 2x^4 + 1$ đồng biến trên khoảng nào?
+A. $\left(-\infty; -\dfrac{1}{2}\right)$.
+B. $(0; +\infty)$.
+C. $\left(-\dfrac{1}{2}; +\infty\right)$.
+D. $(-\infty; 0)$.",B. $(0;+\infty)$.,"Tập xác định $\mathscr{D} = \mathbb{R}$.
+
+$y' = 8x^3$; $y' = 0 \Leftrightarrow x = 0$.
+
+Bảng biến thiên
+
+$$\begin{array}{c|ccccc} x & -\infty & & 0 & & +\infty \\ \hline y' & & - & 0 & + & \\ \hline y & +\infty & \searrow & & \nearrow & +\infty \\ & & & 1 & & \end{array}$$
+
+- Dựa vào bảng biến thiên ta được hàm số đồng biến trên khoảng $(0;+\infty)$.",,,
+68,KT-02 (Trang 8 - Câu 23),Tích phân - Nguyên hàm,"**Câu 23:** Tìm nguyên hàm của hàm số $f(x) = \sqrt{2x-1}$.
+A. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{2}{3}(2x-1)\sqrt{2x-1} + C$.
+B. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{1}{3}(2x-1)\sqrt{2x-1} + C$.
+C. $\displaystyle\int f(x)\,\mathrm{d}x = -\dfrac{1}{3}\sqrt{2x-1} + C$.
+D. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{1}{2}\sqrt{2x-1} + C$.","B. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{1}{3}(2x-1)\sqrt{2x-1} + C$.","Ta có
+
+$$\int f(x)\mathrm{d}x = \int \sqrt{2x-1}\mathrm{d}x = \frac{1}{2}\int (2x-1)^{\frac{1}{2}}\,\mathrm{d}(2x-1)$$
+
+$$= \frac{1}{2}\cdot\frac{2}{3}(2x-1)^{\frac{3}{2}} + C$$
+
+$$= \frac{1}{3}(2x-1)\sqrt{2x-1} + C.$$",,,
+69,KT-03 (Trang 9 - Câu 26),Tích phân - Nguyên hàm,"**Câu 26:** Tính tích phân $\displaystyle\int_1^e x\ln x\,\mathrm{d}x$.
+A. $I = \dfrac{1}{2}$.
+B. $I = \dfrac{e^2-2}{2}$.
+C. $I = \dfrac{e^2+1}{4}$.
+D. $I = \dfrac{e^2-1}{4}$.",C. $I = \dfrac{e^2+1}{4}$.,"Đặt $\begin{cases} u = \ln x \\ \mathrm{d}v = x\,\mathrm{d}x \end{cases} \Rightarrow \begin{cases} \mathrm{d}u = \dfrac{1}{x}\mathrm{d}x \\ v = \dfrac{1}{2}x^2 \end{cases}$. Khi đó
+
+$$I = \frac{1}{2}x^2\ln x\Big|_1^e - \int_1^e \frac{1}{2}x\,\mathrm{d}x = \frac{1}{2}x^2\ln x\Big|_1^e - \frac{1}{4}x^2\Big|_1^e = \frac{1}{2}e^2 - \left(\frac{1}{4}e^2 - \frac{1}{4}\right) = \frac{e^2+1}{4}.$$",,,
+70,KT-04 (Trang 14 - Câu 43),Hình giải tích Oxyz,"**Câu 43:** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 3x - z + 2 = 0$. Vectơ nào dưới đây là một vectơ pháp tuyến của $(P)$?
+A. $\vec{n_4} = (-1;0;-1)$.
+B. $\vec{n_1} = (3;-1;2)$.
+C. $\vec{n_3} = (3;-1;0)$.
+D. $\vec{n_2} = (3;0;-1)$.",D. $\vec{n_2} = (3;0;-1)$.,Ta có: $(P): 3x + 0y - z + 2 = 0$ nên $(3;0;-1)$ là tọa độ vectơ pháp tuyến của $(P)$.,,,
+71,KT-05 (Trang 16 - Câu 1),Hàm số - Đạo hàm - Khảo sát,"**Câu 1:** Đường thẳng nào dưới đây là tiệm cận đứng của đồ thị hàm số $y = \dfrac{2x+1}{x+1}$?
+A. $x = 1$.
+B. $y = -1$.
+C. $y = 2$.
+D. $x = -1$.",D. $x = -1$.,Ta thấy $\displaystyle\lim_{x\to(-1)^-}\frac{2x+1}{x+1} = +\infty$ và $\displaystyle\lim_{x\to(-1)^+}\frac{2x+1}{x+1} = -\infty$. Nên đường thẳng $x = -1$ là tiệm cận đứng của đồ thị.,,,
+72,KT-06 (Trang 22 - Câu 23),Hàm số - Đạo hàm - Khảo sát,"**Câu 23:** Cho hàm số $f(x)$ có đạo hàm trên đoạn $[1;2]$, $f(1) = 1$ và $f(2) = 2$. Tính $I = \displaystyle\int_1^2 f'(x)\,\mathrm{d}x$.
+A. $I = 1$.
+B. $I = -1$.
+C. $I = 3$.
+D. $I = \dfrac{7}{2}$.",A. $I = 1$.,Ta có $I = f(x)\Big|_1^2 = f(2) - f(1) = 2 - 1 = 1$.,,,
+73,KT-07 (Trang 29 - Câu 46),Hình giải tích Oxyz,"**Câu 46:** Trong không gian với hệ tọa độ $Oxyz$, phương trình nào dưới đây là phương trình của mặt cầu tâm $I(1;2;-1)$ và tiếp xúc với mặt phẳng $(P): x - 2y - 2z - 8 = 0$?
+A. $(x+1)^2 + (y+2)^2 + (z-1)^2 = 3$.
+B. $(x-1)^2 + (y-2)^2 + (z+1)^2 = 3$.
+C. $(x-1)^2 + (y-2)^2 + (z+1)^2 = 9$.
+D. $(x+1)^2 + (y+2)^2 + (z-1)^2 = 9$.",C. $(x-1)^2 + (y-2)^2 + (z+1)^2 = 9$.,"Gọi mặt cầu cần tìm là $(S)$.
+
+Ta có $(S)$ là mặt cầu có tâm $I(1;2;-1)$ và bán kính $R$.
+
+Vì $(S)$ tiếp xúc với mặt phẳng $(P): x - 2y - 2z - 8 = 0$ nên ta có:
+
+$$E = d(I;(P)) = \frac{|1 - 2\cdot 2 - 2\cdot(-1) - 8|}{\sqrt{1^2 + (-2)^2 + (-2)^2}} = 3.$$
+
+Vậy, phương trình mặt cầu cần tìm là $(x-1)^2 + (y-2)^2 + (z+1)^2 = 9$.",,,
+74,KT-08 (Trang 32 - Câu 10),Tích phân - Nguyên hàm,"**Câu 10:** Tìm nguyên hàm của hàm số $f(x) = x^2 + \dfrac{2}{x^2}$.
+A. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{x^3}{3} - \dfrac{2}{x} + C$.
+B. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{x^3}{3} - \dfrac{1}{x} + C$.
+C. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{x^3}{3} + \dfrac{2}{x} + C$.
+D. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{x^3}{3} + \dfrac{1}{x} + C$.","A. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{x^3}{3} - \dfrac{2}{x} + C$.",Ta có: $\displaystyle\int \left(x^2 + \frac{2}{x^2}\right)\mathrm{d}x = \frac{x^3}{3} - \frac{2}{x} + C$.,,,
+75,KT-09 (Trang 34 - Câu 16),Hình học không gian,"**Câu 16:** Tính thể tích $V$ của khối lăng trụ tam giác đều có tất cả các cạnh bằng $a$.
+A. $V = \dfrac{a^3\sqrt{3}}{6}$.
+B. $V = \dfrac{a^3\sqrt{3}}{12}$.
+C. $V = \dfrac{a^3\sqrt{3}}{2}$.
+D. $V = \dfrac{a^3\sqrt{3}}{4}$.",D. $V = \dfrac{a^3\sqrt{3}}{4}$.,Ta có: $V = B \cdot h = a \cdot \dfrac{a^2\sqrt{3}}{4} = \dfrac{a^2\sqrt{3}}{4}$.,,,"[Lỗi toán học trong tài liệu gốc] Dòng kết quả của lời giải ghi $V = a \cdot \dfrac{a^2\sqrt{3}}{4} = \dfrac{a^2\sqrt{3}}{4}$ — kết quả cuối bị sai số mũ (viết $a^2$ thay vì $a^3$). Đối chiếu ảnh gốc trang 34: bản gốc CŨNG in $\dfrac{a^2\sqrt{3}}{4}$, nên đây là lỗi in/typo có sẵn trong tài liệu, không phải do chuyển đổi. Đáp án D ($V = \dfrac{a^3\sqrt{3}}{4}$) là đúng. Nên sửa kết quả cuối của lời giải thành $\dfrac{a^3\sqrt{3}}{4}$."
+76,KT-10 (Trang 41 - Câu 42),Hình giải tích Oxyz,"**Câu 42:** Trong không gian với hệ tọa độ $Oxyz$, cho mặt phẳng $(P): 6x - 2y + z - 35 = 0$ và điểm $A(-1;3;6)$. Gọi $A'$ là điểm đối xứng với $A$ qua $(P)$, tính $OA'$.
+A. $OA' = 3\sqrt{26}$.
+B. $OA' = 5\sqrt{3}$.
+C. $OA' = \sqrt{46}$.
+D. $OA' = \sqrt{186}$.",D. $OA' = \sqrt{186}$.,"Gọi $d$ là đường thẳng qua $A$ và vuông góc với mp$(P)$ nên $d$ có VTCP là $\vec{u_d} = \vec{n_P} = (6;-2;1)$.
+
+Phương trình tham số của $d$: $\begin{cases} x = -1 + 6t \\ y = 3 - 2t \\ z = 6 + t \end{cases}$.
+
+Gọi $H$ là hình chiếu của $A$ trên mp$(P)$. Khi đó tọa độ điểm $H$ là nghiệm của hệ phương trình:
+
+$$\begin{cases} x = -1 + 6t \\ y = 3 - 2t \\ z = 6 + t \\ 6x - 2y + z - 35 = 0 \end{cases} \Leftrightarrow \begin{cases} t = 1 \\ x = 5 \\ y = 1 \\ z = 7 \end{cases} \Rightarrow H(5;1;7).$$
+
+Vì $A'$ là điểm đối xứng của $A$ qua $(P)$ nên $H$ là trung điểm của $AA'$. Suy ra $A'(11;-1;8)$.
+
+Vậy, $OA' = \sqrt{186}$.",,,
+77,KT-11 (Trang 49 - Câu 11),Tích phân - Nguyên hàm,"**Câu 11:** Họ nguyên hàm của hàm số $f(x) = 3x^2 + 1$ là
+A. $x^3 + C$.
+B. $\dfrac{x^3}{3} + x + C$.
+C. $6x + C$.
+D. $x^3 + x + C$.",D. $x^3 + x + C$.,"Ta có $\displaystyle\int (3x^2+1)\,\mathrm{d}x = x^3 + x + C$, với $C$ là hằng số.",,,
+78,KT-12 (Trang 62 - Câu 50),Hàm số - Đạo hàm - Khảo sát,"**Câu 50:** Cho hàm số $f(x)$ có đạo hàm liên tục trên đoạn $[0;1]$ thỏa mãn
+
+$$f(1) = 0,\ \int_0^1 [f'(x)]^2\,\mathrm{d}x = 7,\ \int_0^1 x^2 f(x)\,\mathrm{d}x = \frac{1}{3}.$$
+
+Tích phân $\displaystyle\int_0^1 f(x)\,\mathrm{d}x$ bằng
+A. $\dfrac{7}{5}$.
+B. $1$.
+C. $\dfrac{7}{4}$.
+D. $4$.",A. $\dfrac{7}{5}$.,"**Cách 1.** Đặt $\begin{cases} u = f(x) \\ \mathrm{d}v = x^2\,\mathrm{d}x \end{cases} \Rightarrow \begin{cases} \mathrm{d}u = f'(x)\,\mathrm{d}x \\ v = \dfrac{x^3}{3} \end{cases}$.
+
+Khi đó: $\dfrac{1}{3} = \displaystyle\int_0^1 x^2 f(x)\,\mathrm{d}x = \left[\dfrac{x^3}{3}f(x)\right]\Big|_0^1 - \int_0^1 \dfrac{x^3}{3}f'(x)\,\mathrm{d}x$.
+
+Suy ra $\displaystyle\int_0^1 x^3 f'(x)\,\mathrm{d}x = -1$.  (1)
+
+Mặt khác, do $\displaystyle\int_0^1 [f'(x)]^2\,\mathrm{d}x = 7$ nên
+
+$$\int_0^1 \left[[f'(x)]^2 + 14x^3 f'(x) + 49x^6\right]\mathrm{d}x = 0 = 7 - 14 + 7 = 0.$$
+
+Hay $\displaystyle\int_0^1 \left(f'(x) + 7x^3\right)^2\mathrm{d}x = 0$.  (2)
+
+Suy ra $f'(x) + 7x^3 = 0 \Rightarrow f'(x) = -7x^3 \Rightarrow f(x) = -\dfrac{7}{4}x^4 + C$.
+
+Mà $f(1) = 0$ nên $C = \dfrac{7}{4}$, suy ra $f(x) = \dfrac{7}{4}(1 - x^4)$. Khi đó $\displaystyle\int_0^1 f(x)\,\mathrm{d}x = \dfrac{7}{5}$.
+
+**Lưu ý.** Có thể giải thích vì sao từ (2) suy ra $f'(x) + 7x^3 = 0$, $\forall x \in [0;1]$ như sau: Theo giả thiết ta có hàm số $y = (f'(x) + 7x^3)^2$ liên tục và không âm trên đoạn $[0;1]$ (do đó, đồ thị hàm số này là một đường nét liền trên đoạn $[0;1]$ và không có điểm nào nằm bên dưới trục $Ox$). Tích phân ở (2) có giá trị bằng diện tích hình phẳng giới hạn bởi đồ thị hàm số $y = (f'(x)+7x^3)^2$, trục hoành, đường thẳng $x=0$, đường thẳng $x=1$. Mà theo (2) thì hình phẳng này có diện tích bằng 0 nên $f'(x) + 7x^3 = 0$, $\forall x \in [0;1]$.
+
+**Cách 2 (tiếp nối từ (1)).** Ta có bất đẳng thức Bunhiacovski đối với tích phân: Nếu hai hàm số $f(x)$, $g(x)$ liên tục trên đoạn $[a;b]$ thì ta luôn có
+
+$$\left[\int_a^b f(x).g(x)\mathrm{d}x\right]^2 \le \left(\int_a^b f^2(x)\mathrm{d}x\right)\cdot \int_a^b g^2(x)\mathrm{d}x.$$
+
+Dấu ""="" xảy ra khi và chỉ khi $g(x) = kf(x)$, $\forall x \in [a;b]$. Trở lại bài toán. Từ (1), ta có:
+
+$$1 = \left(\int_0^1 x^3 f'(x)\mathrm{d}x\right)^2 \le \int_0^1 x^6\mathrm{d}x \cdot \int_0^1 [f'(x)]^2\mathrm{d}x = \frac{1}{7}\cdot 7 = 1.$$
+
+Như vậy dấu ""="" xảy ra, tức là $f'(x) = kx^3$. Thay trở lại vào (1), ta được:
+
+$$k\int_0^1 x^6\mathrm{d}x = -1 \Rightarrow \frac{k}{7} = -1 \Rightarrow k = -7.$$
+
+[GHI CHÚ: Trang 63 kết thúc tại đây (Cách 2 dừng ở bước tìm $k=-7$, dòng ""Chọn đáp án"" tường minh không xuất hiện trên trang này); tuy nhiên đáp án đã được xác định rõ ràng và không mơ hồ từ Cách 1: $\int_0^1 f(x)\,\mathrm{d}x = \dfrac{7}{5}$, khớp với phương án A.]",,,
+79,KT-13 (Trang 65 - Câu 1),Hình học không gian,"**Câu 1:** Thể tích khối lập phương cạnh $2a$ bằng
+A. $8a^3$.
+B. $2a^3$.
+C. $a^3$.
+D. $6a^3$.",A. $8a^3$.,Thể tích khối lập phương cạnh $2a$ là $V = (2a)^3 = 8a^3$.,,,
+80,KT-14 (Trang 65 - Câu 3),Hình giải tích Oxyz,"**Câu 3:** Trong không gian $Oxyz$, Cho hai điểm $A(1;1;-1)$ và $B(2;3;2)$. Véctơ $\overrightarrow{AB}$ có tọa độ
+A. $(1;2;3)$.
+B. $(-1;-2;3)$.
+C. $(3;5;1)$.
+D. $(3;4;1)$.",A. $(1;2;3)$.,$\overrightarrow{AB} = (2-1;3-1;2+1) = (1;2;3)$,,,
+81,KT-15 (Trang 66 - Câu 10),Tích phân - Nguyên hàm,"Họ nguyên hàm của hàm số $f(x) = e^x + x$ là
+A. $e^x + x^2 + C$.
+B. $e^x + \frac{1}{2}x^2 + C$.
+C. $\frac{1}{x+1}e^x + \frac{1}{2}x^2 + C$.
+D. $e^x + 1 + C$.",B. $e^x + \frac{1}{2}x^2 + C$.,"$\int f(x)\,\mathrm{d}x = \int (e^x + x)\,\mathrm{d}x = e^x + \frac{1}{2}x^2 + C$",,,
+82,KT-16 (Trang 66 - Câu 13),Cấp số,"Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1 = 2$ và công sai $d = 5$. Giá trị của $u_4$ bằng
+A. 22.
+B. 17.
+C. 12.
+D. 250.",B. 17.,"[GHI CHÚ: Trang 66 kết thúc ngay sau tiêu đề ""Lời giải."", không có nội dung lời giải nào hiển thị trong ảnh, và cũng không thấy dòng ""Chọn đáp án"". Đáp án B. 17 ở trên được suy ra từ công thức cấp số cộng ($u_4 = u_1 + 3d = 2 + 15 = 17$), không phải lấy trực tiếp từ ""Chọn đáp án"" trong tài liệu vì phần đó bị cắt sang trang sau (không có ảnh).]",,,
+83,KT-17 (Trang 69 - Câu 27),Hình học không gian,"Cho khối chóp tứ giác đều có tất cả các cạnh bằng $2a$. Thể tích của khối chóp đã cho bằng
+A. $\frac{4\sqrt{2}a^3}{3}$.
+B. $\frac{8a^3}{3}$.
+C. $\frac{8\sqrt{2}a^3}{3}$.
+D. $\frac{2\sqrt{2}a^3}{3}$.",A. $\frac{4\sqrt{2}a^3}{3}$.,"Diện tích đáy $S_{ABCD} = (2a)^2 = 4a^2$.
+Đường chéo đáy $AC = 2\sqrt{2}a$ nên $AO = a\sqrt{2}$ do đó chiều cao $SO = \sqrt{SA^2 - AO^2} = \sqrt{4a^2 - 2a^2} = a\sqrt{2}$.
+Vậy thể tích là $V = \frac{1}{3}S_{ABCD}.SO = \frac{1}{3}4a^2 a\sqrt{2} = \frac{4\sqrt{2}a^3}{3}$.",,,
+84,KT-18 (Trang 78 - Câu 2),Cấp số,"Cho cấp số nhân $(u_n)$ với $u_1 = 2$ và $u_2 = 6$. Công bội của cấp số nhân đã cho bằng
+A. 3.
+B. $-4$.
+C. 4.
+D. $\frac{1}{3}$.",A. 3.,Công bội của của cấp số nhân đã cho là $q = \dfrac{u_2}{u_1} = \dfrac{6}{2} = 3.$,,,
+85,KT-19 (Trang 82 - Câu 24),Tích phân - Nguyên hàm,"Họ tất cả các nguyên hàm của hàm số $f(x) = \dfrac{x+2}{x-1}$ trên khoảng $(1;+\infty)$ là
+A. $x + 3\ln(x-1) + C$.
+B. $x - 3\ln(x-1) + C$.
+C. $x - \dfrac{3}{(x-1)^2} + C$.
+D. $x + \dfrac{3}{(x-1)^2} + C$.",A. $x + 3\ln(x-1) + C$.,"Ta có: $\int \dfrac{x+2}{x-1}\mathrm{d}x = \int \dfrac{x-1+3}{x-1}\mathrm{d}x = \int \left(1+\dfrac{3}{x-1}\right)\mathrm{d}x$
+$= x + 3\ln|x-1| + C = x + 3\ln(x-1) + C$ (vì $x>1$).",,,
+86,KT-20 (Trang 83 - Câu 26),Hình học không gian,"Cho khối lăng trụ đứng $ABCD.A'B'C'D'$ có đáy là hình thoi cạnh $a$, $BD = \sqrt{3}a$ và $AA' = 4a$ (minh họa như hình bên). Thể tích của khối lăng trụ đã cho bằng
+A. $2\sqrt{3}a^3$.
+B. $4\sqrt{3}a^3$.
+C. $\dfrac{2\sqrt{3}a^3}{3}$.
+D. $\dfrac{4\sqrt{3}a^3}{3}$.",A. $2\sqrt{3}a^3$.,"Gọi $O = AC \cap BD$. Ta có: $BO = \dfrac{1}{2}BD = \dfrac{a\sqrt{3}}{2}$.
+Xét tam giác vuông $ABO$ có: $AO = \sqrt{AB^2 - BO^2} = \sqrt{a^2 - \left(\dfrac{a\sqrt{3}}{2}\right)^2} = \dfrac{a}{2} \Rightarrow AC = a$.
+Diện tích hình thoi $ABCD$ là $S_{ABCD} = \dfrac{1}{2}AC \cdot BD = \dfrac{1}{2}a \cdot a\sqrt{3} = \dfrac{a^2\sqrt{3}}{2}$.
+Thể tích khối lăng trụ $ABCD.A'B'C'D'$ là $V = S_{ABCD} \cdot AA' = \dfrac{a^2\sqrt{3}}{2} \cdot 4a = 2\sqrt{3}a^3$.",,,
+87,KT-21 (Trang 83 - Câu 27),Hàm số - Đạo hàm - Khảo sát,"Tổng số tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y = \dfrac{5x^2-4x-1}{x^2-1}$ là
+A. 0.
+B. 1.
+C. 2.
+D. 3.",C. 2.,"Tập xác định $D = \mathbb{R} \setminus \{-1;1\}$.
+Ta có: $\lim_{x\to+\infty}\dfrac{5x^2-4x-1}{x^2-1} = \lim_{x\to+\infty}\dfrac{5-\frac{4}{x}-\frac{1}{x^2}}{1-\frac{1}{x^2}} = 5$; $\lim_{x\to-\infty}\dfrac{5x^2-4x-1}{x^2-1} = \lim_{x\to-\infty}\dfrac{5-\frac{4}{x}-\frac{1}{x^2}}{1-\frac{1}{x^2}} = 5$
+nên $y=5$ là tiệm cận ngang của đồ thị hàm số.
+$\lim_{x\to(-1)^+}y = \lim_{x\to(-1)^+}\dfrac{5x^2-4x-1}{x^2-1} = \lim_{x\to(-1)^+}\dfrac{(x-1)(5x+1)}{(x-1)(x+1)} = \lim_{x\to(-1)^+}\dfrac{5x+1}{x+1} = -\infty$
+$\lim_{x\to(-1)^-}y = \lim_{x\to(-1)^-}\dfrac{5x^2-4x-1}{x^2-1} = \lim_{x\to(-1)^-}\dfrac{5x+1}{x+1} = +\infty$
+Suy ra $x=-1$ là tiệm cận đứng của đồ thị hàm số.
+[GHI CHÚ: Lời giải bị cắt cụt tại đây do hết trang 83, không có ảnh trang 84 để lấy phần kết luận và dòng ""Chọn đáp án"". Đáp án C được suy luận từ toán học (1 tiệm cận ngang $y=5$ + 1 tiệm cận đứng $x=-1$, vì tại $x=1$ là điểm gián đoạn khử được nên không phải tiệm cận đứng), không phải lấy trực tiếp từ ""Chọn đáp án"" trong tài liệu.]",,,
+88,KT-22 (Trang 87 - Câu 40),Hình giải tích Oxyz,"Cho hình nón có chiều cao bằng $2\sqrt{5}$. Một mặt phẳng đi qua đỉnh hình nón và cắt hình nón theo một thiết diện là tam giác đều có diện tích bằng $9\sqrt{3}$. Thể tích của khối nón được giới hạn bởi hình nón đã cho bằng
+A. $\dfrac{32\sqrt{5}\pi}{3}$.
+B. $32\pi$.
+C. $32\sqrt{5}\pi$.
+D. $96\pi$.",A. $\dfrac{32\sqrt{5}\pi}{3}$.,"Mặt phẳng qua đỉnh của hình nón và cắt hình nón theo thiết diện là tam giác đều $SAB$.
+Gọi $H$ là trung điểm của $AB$, ta có $SH \perp AB$ và $OH \perp AB$.
+Theo đề ta có $h = SO = 2\sqrt{5}$.
+$S_{\Delta SAB} = \dfrac{1}{2}AB \cdot SH = 9\sqrt{3}$ mà $SH = \dfrac{AB\sqrt{3}}{2}$.
+$S_{\Delta SAB} = \dfrac{1}{2}AB \cdot \dfrac{AB\sqrt{3}}{2} = 9\sqrt{3} \Leftrightarrow \dfrac{AB^2\sqrt{3}}{4} = 9\sqrt{3} \Leftrightarrow AB^2 = 36 \Leftrightarrow AB = 6.$
+$\Rightarrow SA = SB = AB = 6.$
+$\Delta SAO$ vuông tại $O$ có: $SA^2 = OA^2 + SO^2 \Rightarrow OA^2 = SA^2 - SO^2 = 16$
+$\Rightarrow r = OA = 4$ ($OA>0$).
+$V = \dfrac{1}{3}\pi r^2 h = \dfrac{1}{3}\pi \cdot 4^2 \cdot 2\sqrt{5} = \dfrac{32\sqrt{5}\pi}{3}.$",,,
+89,KT-23 (Trang 93 - Câu 2),Cấp số,"Cho cấp số cộng $(u_n)$ với $u_1 = 3$, $u_2 = 9$. Công sai của cấp số cộng đã cho bằng
+A. 6.
+B. 3.
+C. 12.
+D. $-6$.",A. 6.,"Cấp số cộng $(u_n)$ có số hạng tổng quát là: $u_n = u_1 + (n-1)d$ (với $u_1$ là số hạng đầu và $d$ là công sai).
+Suy ra có: $u_2 = u_1 + d \Leftrightarrow 9 = 3 + d \Leftrightarrow d = 6.$
+Vậy công sai của cấp số cộng đã cho bằng 6.",,,
+90,KT-24 (Trang 93 - Câu 4),Hình học không gian,"Thể tích khối lập phương cạnh 2 bằng
+A. 6.
+B. 8.
+C. 4.
+D. 2.",B. 8.,"Thể tích của khối lập phương cạnh $a$ là $V = a^3$.
+Vậy thể tích khối lập phương cạnh 2 là $V = 2^3 = 8.$",,,
+91,KT-25 (Trang 93 - Câu 6),Tích phân - Nguyên hàm,"Hàm số $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên khoảng $K$ nếu
+A. $F'(x) = -f(x), \forall x \in K$.
+B. $f'(x) = F(x), \forall x \in K$.
+C. $F'(x) = f(x), \forall x \in K$.
+D. $f'(x) = -F(x), \forall x \in K$.","C. $F'(x) = f(x), \forall x \in K$.","Theo định nghĩa thì hàm số $F(x)$ là một nguyên hàm của hàm số $f(x)$ trên khoảng $K$ nếu $F'(x) = f(x), \forall x \in K.$",,,
+92,KT-26 (Trang 111 - Câu 21),Hình học không gian,"Cho khối lăng trụ có diện tích đáy $B$ và chiều cao $h$. Thể tích $V$ của khối lăng trụ đã cho được tính theo công thức nào dưới đây?
+A. $V = \dfrac{1}{3}Bh$.
+B. $V = \dfrac{4}{3}Bh$.
+C. $V = 6Bh$.
+D. $V = Bh$.",D. $V = Bh$.,Thể tích $V$ của khối lăng trụ có diện tích đáy $B$ và chiều cao $h$ là $V = B \cdot h$.,,,
+93,KT-27 (Trang 112 - Câu 26),Cấp số,"Cho cấp số cộng $(u_n)$ với $u_1 = 7$ và công sai $d = 4$. Giá trị của $u_2$ bằng
+A. 11.
+B. 3.
+C. $\dfrac{7}{4}$.
+D. 28.",A. 11.,Ta có $u_2 = u_1 + d = 7 + 4 = 11.$,,,
+94,KT-28 (Trang 115 - Câu 41),Hàm số - Đạo hàm - Khảo sát,"Cho hàm số $y=f(x)$ có đạo hàm là $f'(x)=12x^2+2, \forall x \in \mathbb{R}$ và $f(1)=3$. Biết $F(x)$ là nguyên hàm của $f(x)$ thỏa mãn $F(0)=2$, khi đó $F(1)$ bằng
+A. $-3$.
+B. $1$.
+C. $2$.
+D. $7$.",B. $1$.,"Ta có $f(x)=\int f'(x)\,\mathrm{d}x=4x^3+2x+C_1$. Vì $f(1)=3$ nên $C_1=-3$.
+Khi đó $f(x)=4x^3+2x-3$.
+Ta có $F(x)=\int f(x)\,\mathrm{d}x=x^4+x^2-3x+C_2$. Vì $F(0)=2$ nên $C_2=2$.
+Khi đó $F(x)=x^4+x^2-3x+2$.
+Vậy $F(1)=1$.",,,
+95,KT-29 (Trang 126 - Câu 32),Hàm số - Đạo hàm - Khảo sát,"Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=(x-2)^2(1-x)$ với mọi $x \in \mathbb{R}$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?
+A. $(1;2)$.
+B. $(1;+\infty)$.
+C. $(2;+\infty)$.
+D. $(-\infty;1)$.",D. $(-\infty;1)$.,"Ta có $f'(x) = (x-2)^2(1-x) = 0 \Leftrightarrow \begin{bmatrix} x=2 \\ x=1 \end{bmatrix}$.
+Bảng xét dấu
+
+| $x$ | $-\infty$ | | $1$ | | $2$ | | $+\infty$ |
+|---|---|---|---|---|---|---|---|
+| $f'(x)$ | | $+$ | $0$ | $-$ | $0$ | $-$ | |
+
+Dựa vào bảng xét dấu hàm số $y=f(x)$ đồng biến trên khoảng $(-\infty;1)$.",,,
+96,KT-30 (Trang 131 - Câu 43),Hình học không gian,"Cho khối lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông cân tại $B$, $AB=a$. Biết khoảng cách từ $A$ đến mặt phẳng $(A'BC)$ bằng $\dfrac{\sqrt{6}}{3}a$, thể tích khối lăng trụ đã cho bằng
+A. $\dfrac{\sqrt{2}}{6}a^3$.
+B. $\dfrac{\sqrt{2}}{2}a^3$.
+C. $\sqrt{2}a^3$.
+D. $\dfrac{\sqrt{2}}{4}a^3$.",B. $\dfrac{\sqrt{2}}{2}a^3$.,"Dựng $AH \perp A'B$ tại $H$.
+Ta có $\begin{cases} BC \perp AB \\ BC \perp AA' \end{cases} \Rightarrow BC \perp (AA'B'B)$,
+mà $AH \subset (AA'B'B)$ nên $BC \perp AH$.
+Ta có $\begin{cases} AH \perp A'B \\ AH \perp BC \end{cases} \Rightarrow AH \perp (A'BC)$.
+$\Rightarrow AH = \mathrm{d}(A,(A'BC)) = \dfrac{a\sqrt{6}}{3}$.
+Xét $\triangle AA'B$ vuông tại $A$, đường cao $AH$, ta có
+$\dfrac{1}{AA'^2} = \dfrac{1}{AH^2} - \dfrac{1}{AB^2} = \dfrac{1}{\left(\dfrac{a\sqrt{6}}{3}\right)^2} - \dfrac{1}{a^2} = \dfrac{1}{2a^2} \Rightarrow AA' = a\sqrt{2}$.
+Thể tích khối lăng trụ $ABC.A'B'C'$ là
+$V = AA' \cdot S_{\triangle ABC} = a\sqrt{2} \cdot \dfrac{1}{2}a \cdot a = \dfrac{\sqrt{2}}{2}a^3$.",,,
+97,KT-31 (Trang 140 - Câu 20),Hình giải tích Oxyz,"Trong không gian với hệ tọa độ $Oxyz$, phương trình nào dưới đây là phương trình của đường thẳng đi qua điểm $A(2;3;0)$ và vuông góc với mặt phẳng $(P): x+3y-z+5=0$?
+A. $\begin{cases} x=1+3t \\ y=3t \\ z=1-t \end{cases}$.
+B. $\begin{cases} x=1+t \\ y=3t \\ z=1-t \end{cases}$.
+C. $\begin{cases} x=1+t \\ y=1+3t \\ z=1-t \end{cases}$.
+D. $\begin{cases} x=1+3t \\ y=3t \\ z=1+t \end{cases}$.",B. $\begin{cases} x=1+t \\ y=3t \\ z=1-t \end{cases}$.,"$(d)$ đi qua $A(2;3;0)$ và vuông góc với mặt phẳng $(P): x+3y-z+5=0$.
+$(d)$ đi qua $A(2;3;0)$ và nhận $\overrightarrow{n_{(P)}} = (1;3;-1)$ làm vectơ chỉ phương $\Rightarrow$ Loại đáp án A, D vì sai VTCP. Loại đáp án C vì điểm $A$ không thuộc đường thẳng.",,,
+98,KT-32 (Trang 143 - Câu 32),Tích phân - Nguyên hàm,"Cho $F(x)=x^2$ là một nguyên hàm của hàm số $f(x)\mathrm{e}^{2x}$. Tìm nguyên hàm của hàm số $f'(x)\mathrm{e}^{2x}$.
+A. $\displaystyle\int f'(x)\mathrm{e}^{2x}\,\mathrm{d}x = -x^2+2x+C$.
+B. $\displaystyle\int f'(x)\mathrm{e}^{2x}\,\mathrm{d}x = -x^2+x+C$.
+C. $\displaystyle\int f'(x)\mathrm{e}^{2x}\,\mathrm{d}x = 2x^2-2x+C$.
+D. $\displaystyle\int f'(x)\mathrm{e}^{2x}\,\mathrm{d}x = -2x^2+2x+C$.",D. $-2x^2+2x+C$.,"Theo đề cho, ta có: $\displaystyle\int f(x)\cdot \mathrm{e}^{2x}\,\mathrm{d}x = x^2+C$.
+$\left(\displaystyle\int f(x)\mathrm{e}^{2x}\,\mathrm{d}x\right)' = f(x)\mathrm{e}^{2x} \Rightarrow (x^2+C)' = 2x = f(x)\mathrm{e}^{2x}$.
+$I = \displaystyle\int f'(x)\mathrm{e}^{2x}\,\mathrm{d}x$?
+Đặt $\begin{cases} u=\mathrm{e}^{2x} \\ \mathrm{d}v=f'(x)\,\mathrm{d}x \end{cases} \Rightarrow \begin{cases} \mathrm{d}u=2\mathrm{e}^{2x}\mathrm{d}x \\ v=f(x) \end{cases}$.
+$I = f(x)\mathrm{e}^{2x} - \displaystyle\int 2f(x)\mathrm{e}^{2x}\,\mathrm{d}x = f(x)\mathrm{e}^{2x} - 2\displaystyle\int f(x)\mathrm{e}^{2x}\,\mathrm{d}x = 2x - 2(x^2+C) = -2x^2+2x+C$.",,,
+99,KT-33 (Trang 146 - Câu 43),Hình học không gian,"Cho khối chóp $S.ABCD$ có đáy là hình vuông cạnh $a$, $SA$ vuông góc với đáy và $SC$ tạo với mặt phẳng $(SAB)$ một góc $30^0$. Tính thể tích $V$ của khối chóp đã cho.
+A. $V = \dfrac{\sqrt{6}a^3}{3}$.
+B. $V = \dfrac{\sqrt{2}a^3}{3}$.
+C. $V = \dfrac{2a^3}{3}$.
+D. $V = \sqrt{2}a^3$.",B. $V = \dfrac{\sqrt{2}a^3}{3}$.,"$\begin{cases} BC\perp BA & (ABCD \text{ là hình vuông}) \\ BC\perp SA & (SA\perp(ABCD)) \end{cases}$
+$\Rightarrow BC\perp(SAB) \Rightarrow (BC,(SAB)) = \widehat{BSC} = 30^0$.
+$\triangle SBC$ vuông tại $B$: $\tan 30^0 = \dfrac{BC}{SB} \Rightarrow SB = \sqrt{3}a$.
+$\triangle SAB$ vuông tại $A$: $SA = \sqrt{2}a$.
+$V = \dfrac{1}{3}SA.S_{ABCD} = \dfrac{1}{3}.\sqrt{2}a.a^2 = \dfrac{\sqrt{2}}{3}a^3$.",,,
+100,KT-34 (Trang 156 - Câu 22),Hàm số - Đạo hàm - Khảo sát,"Số tiệm cận đứng của đồ thị hàm số $y = \dfrac{\sqrt{x+4}-2}{x^2+x}$ là
+A. $3$.
+B. $0$.
+C. $2$.
+D. $1$.",D. $1$.,"Tập xác định hàm số $\mathscr{D} = [-4;+\infty) \setminus \{-1;0\}$.
+Ta có $\lim_{x\to -1^+} y = +\infty$, $\lim_{x\to 0^+} y = 1$ và $\lim_{x\to 0^-} y = 1$.
+Suy ra đồ thị hàm số chỉ có 1 tiệm cận đứng là $x=-1$.",,,"[Lỗi toán học trong tài liệu gốc] Trong lời giải, giá trị giới hạn tại x=0 bị sai: ghi ""lim(x→0+) y = 1 và lim(x→0-) y = 1"", nhưng giá trị đúng phải là 1/4 (vì y = (√(x+4)-2)/(x²+x) = 1/[(x+1)(√(x+4)+2)] → 1/(1·4) = 1/4 khi x→0). Lỗi này ĐÃ CÓ SẴN trong ảnh gốc (trang 156), bản chuyển đổi chép trung thực nên không phải lỗi chuyển đổi. Không ảnh hưởng đáp án cuối (vẫn là D. 1, vì tại x=0 giới hạn hữu hạn nên không có tiệm cận, chỉ có 1 tiệm cận đứng x=-1). Nên sửa ""= 1"" thành ""= 1/4"" cho đúng."
+101,KT-35 (Trang 165 - Câu 44),Hình giải tích Oxyz,"Trong không gian $Oxyz$ cho đường thẳng $d: \begin{cases} x=1+3t \\ y=-3 \\ z=5+4t \end{cases}$. Gọi $\Delta$ là đường thẳng đi qua điểm $A(1;-3;5)$ và có véc-tơ chỉ phương là $\vec{u}=(1;2;-2)$. Đường phân giác góc nhọn tạo bởi hai đường thẳng $d$ và $\Delta$ là
+A. $\begin{cases} x=-1+2t \\ y=2-5t \\ z=6+11t \end{cases}$.
+B. $\begin{cases} x=-1+2t \\ y=2-5t \\ z=-6+11t \end{cases}$.
+C. $\begin{cases} x=1+7t \\ y=3-5t \\ z=5+t \end{cases}$.
+D. $\begin{cases} x=1-t \\ y=-3 \\ z=5+7t \end{cases}$.",B. $\begin{cases} x=-1+2t \\ y=2-5t \\ z=-6+11t \end{cases}$.,"Ta có điểm $A(1;-3;5)$ thuộc đường thẳng $d$ nên $A$ là giao điểm của $d$ và $\Delta$.
+Một véc-tơ chỉ phương của đường thẳng $d$ là $\vec{v} = (-3;0;-4)$.
+Đặt $\vec{u'} = \dfrac{1}{|\vec u|}\vec u = \left(\dfrac{1}{3};\dfrac{2}{3};-\dfrac{2}{3}\right)$, $\vec{v'} = \dfrac{1}{|\vec v|}\vec v = \left(-\dfrac{3}{5};0;-\dfrac{4}{5}\right)$. Ta có $\vec{u'}\cdot\vec{v'}>0$ nên góc tạo bởi hai véc-tơ $\vec{u'}, \vec{v'}$ là góc nhọn tạo bởi $d$ và $\Delta$.
+Suy ra $\vec w = \vec{u'}+\vec{v'} = \left(-\dfrac{4}{15};\dfrac{10}{15};-\dfrac{22}{15}\right) = -\dfrac{2}{15}(2;-5;11)$ là véc-tơ chỉ phương của đường phân giác cần tìm. Phương trình đường phân giác cần tìm là
+$\begin{cases} x=1+2t \\ y=-3-5t \\ z=5+11t. \end{cases}$
+Chọn $t=-2$ suy ra điểm $M(-1;2;-6)$ thuộc đường phân giác. Khi đó, đường phân giác có phương trình
+$\begin{cases} x=-1+2t \\ y=2-5t \\ z=-6+11t. \end{cases}$",,,"[Lỗi toán học trong tài liệu gốc] Trong lời giải ghi ""Chọn t=-2 suy ra điểm M(-1;2;-6)"", nhưng với phương trình tham số x=1+2t, y=-3-5t, z=5+11t thì điểm M(-1;2;-6) ứng với t=-1 chứ không phải t=-2 (t=-2 cho ra (-3;7;-17)). Đây là lỗi typo số liệu CÓ SẴN trong ảnh gốc (trang 166), bản chuyển đổi chép trung thực nên không phải lỗi chuyển đổi. Không ảnh hưởng đáp án cuối (vẫn là B). Nên sửa ""t=-2"" thành ""t=-1""."
+102,KT-36 (Trang 172 - Câu 11),Cấp số,"Cho cấp số cộng $(u_n)$ với $u_1=2$ và $u_2=8$. Công sai của cấp số cộng đã cho bằng
+A. $4$.
+B. $-6$.
+C. $10$.
+D. $6$.",D. $6$.,Vì $(u_n)$ là cấp số cộng nên ta có $u_2 = u_1 + d \Leftrightarrow d = u_2 - u_1 = 8-2=6$.,,,
+103,KT-37 (Trang 181 - Câu 40),Xác suất - Tổ hợp,"Chọn ngẫu nhiên hai số khác nhau từ 27 số nguyên dương đầu tiên. Xác suất để chọn được hai số có tổng là một số chẵn bằng
+A. $\dfrac{13}{27}$.
+B. $\dfrac{14}{27}$.
+C. $\dfrac{1}{2}$.
+D. $\dfrac{365}{729}$.",A. $\dfrac{13}{27}$.,"Gọi $A$ là tập hợp 27 số nguyên dương đầu tiên, ta có $A = \{1;2;3;\ldots;26;27\}$.
+Phép thử chọn ngẫu nhiên hai số khác nhau từ $A$ có $n(\Omega) = \mathrm{C}_{27}^2 = 351$.
+Tổng hai số chọn được là số chẵn khi và chỉ khi cả hai số đó đều chẵn hoặc đều lẻ. Do đó ta có các khả năng sau:
+- Hai số lấy được từ $A$ là hai số chẵn, có $\mathrm{C}_{13}^2 = 78$ khả năng.
+- Hai số lấy được từ $A$ là hai số lẻ, có $\mathrm{C}_{14}^2 = 91$ khả năng.
+Do đó khả năng để chọn được hai số có tổng là một số chẵn là $78+91=169$.
+Xác suất cần tìm là $p(A) = \dfrac{169}{351} = \dfrac{13}{27}$.",,,
+104,KT-38 (Trang 212 - Câu 34),Hình giải tích Oxyz,"Trong không gian $Oxyz$, cho điểm $M(2;1;-1)$ và mặt phẳng $(P): x-3y+2z+1=0$. Đường thẳng đi qua $M$ và vuông góc với $(P)$ có phương trình là
+A. $\dfrac{x-2}{1} = \dfrac{y-1}{-3} = \dfrac{z+1}{1}$.
+B. $\dfrac{x-2}{1} = \dfrac{y-1}{-3} = \dfrac{z+1}{2}$.
+C. $\dfrac{x+2}{1} = \dfrac{y+1}{-3} = \dfrac{z-1}{1}$.
+D. $\dfrac{x+2}{1} = \dfrac{y+1}{-3} = \dfrac{z-1}{2}$.",B. $\dfrac{x-2}{1} = \dfrac{y-1}{-3} = \dfrac{z+1}{2}$.,"Đường thẳng $d$ đi qua $M(2;1;-1)$ và vuông với $(P)$ nên có véc-tơ chỉ phương $\vec{u} = \vec{n}_P = (1;-3;2)$.
+Do đó $d$ có phương trình là $\dfrac{x-2}{1} = \dfrac{y-1}{-3} = \dfrac{z+1}{2}$.",,,
+105,KT-39 (Trang 236 - Câu 9),Cấp số,"Cho cấp số nhân $(u_n)$ với $u_1=1$ và $u_2=2$. Công bội của cấp số nhân đã cho là
+A. $q=\dfrac{1}{2}$.
+B. $q=2$.
+C. $q=-2$.
+D. $q=-\dfrac{1}{2}$.",B. $q=2$.,"Ta có $u_2 = u_1 \cdot q \Rightarrow q = \dfrac{u_2}{u_1} = 2$.
+Vậy $q=2$.",,,
+106,KT-40 (Trang 238 - Câu 18),Xác suất - Tổ hợp,"Số các tổ hợp chập 3 của 12 phần tử là
+A. $1320$.
+B. $36$.
+C. $220$.
+D. $1728$.",C. $220$.,Số các tổ hợp chập 3 của 12 phần tử là $\mathrm{C}_{12}^3 = 220$.,,,
+107,KT-41 (Trang 241 - Câu 38),Xác suất - Tổ hợp,"Chọn ngẫu nhiên một số từ tập hợp các số tự nhiên thuộc đoạn $[40;60]$. Xác suất để chọn được số có chữ số hàng đơn vị lớn hơn chữ số hàng chục bằng
+A. $\dfrac{4}{7}$.
+B. $\dfrac{2}{5}$.
+C. $\dfrac{3}{5}$.
+D. $\dfrac{3}{7}$.",D. $\dfrac{3}{7}$.,"Gọi số tự nhiên chọn được theo yêu cầu có dạng $\overline{ab}$, ta có:
+Với $a=4 \Rightarrow b \in \{5;6;7;8;9\}$.
+Với $a=5 \Rightarrow b\in\{6;7;8;9\}$.
+$\Rightarrow$ Có 9 số thỏa mãn yêu cầu.
+Vậy xác suất chọn được số theo yêu cầu đề bài là $P = \dfrac{9}{21} = \dfrac{3}{7}$.",,,
+108,KT-42 (Trang 5 - Câu 11),Hàm số - Đạo hàm - Khảo sát,"Tìm tất cả các giá trị thực của tham số $m$ sao cho hàm số $y = \dfrac{\tan x - 2}{\tan x - m}$ đồng biến trên khoảng $\left(0; \dfrac{\pi}{4}\right)$.
+A. $m \le 0$ hoặc $1 \le m < 2$.
+B. $m \le 0$.
+C. $1 \le m < 2$.
+D. $m \ge 2$.",A. m ≤ 0 hoặc 1 ≤ m < 2.,"Đặt $t = \tan x$, khi đó $t \in (0;1)$.
+Ta được hàm số $y = \dfrac{t-2}{t-m}$ với $0 < t < 1$.
+Khi đó $y' = \dfrac{(2-m)}{(t-m)^2}$.
+Hàm số đồng biến trên $(0;1)$ thì $\begin{cases} y' > 0 \\ m \notin (0;1) \end{cases} \Leftrightarrow \begin{cases} m < 2 \\ m \notin (0;1) \end{cases} \Leftrightarrow \begin{bmatrix} 1 \le m < 2 \\ m \le 0. \end{bmatrix}$",,,
+109,KT-43 (Trang 9 - Câu 25),Tích phân - Nguyên hàm,"Tích phân $I = \displaystyle\int_{0}^{\pi} \cos^3 x \cdot \sin x \, \mathrm{d}x$.
+A. $I = -\dfrac{1}{4}\pi^4$.
+B. $I = -\pi^4$.
+C. $I = 0$.
+D. $I = -\dfrac{1}{4}$.",C. I = 0.,"Đặt $u = \cos x \Rightarrow \mathrm{d}u = -\sin x\,\mathrm{d}x \Rightarrow \sin x\,\mathrm{d}x = -\mathrm{d}u$.
+• Đổi cận: $x=0 \Rightarrow u=1$; $x=\pi \Rightarrow u=-1$.
+• Nên $I = \displaystyle\int_{1}^{-1} u^3 \cdot (-\mathrm{d}u) = \int_{-1}^{1} u^3\,\mathrm{d}u = \dfrac{1}{4}u^4\Big|_{-1}^{1} = 0$.",,,
+110,KT-44 (Trang 14 - Câu 44),Hình giải tích Oxyz,"Trong không gian với hệ tọa độ $Oxyz$, cho mặt cầu $(S): (x+1)^2+(y-2)^2+(z-1)^2 = 9$. Tìm tọa độ tâm $I$ và bán kính $R$ của $(S)$.
+A. $I(-1;2;1)$ và $R = 3$.
+B. $I(1;-2;-1)$ và $R = 3$.
+C. $I(-1;2;1)$ và $R = 9$.
+D. $I(1;-2;-1)$ và $R = 9$.",A. I(-1;2;1) và R = 3.,Dựa vào dạng tổng quát của phương trình mặt cầu $(x-a)^2+(y-b)^2+(z-c)^2 = R^2$.,,,
+111,KT-45 (Trang 47 - Câu 4),Hình học không gian,"Thể tích của khối chóp có chiều cao bằng $h$ và diện tích đáy bằng $B$ là
+A. $V = \dfrac{1}{3}Bh$.
+B. $V = \dfrac{1}{6}Bh$.
+C. $V = Bh$.
+D. $V = \dfrac{1}{2}Bh$.",A. V = 1/3 Bh.,Dựa vào công thức tính thể tích khối chóp ta có $V = \dfrac{1}{3}Bh$.,,,
+112,KT-46 (Trang 50 - Câu 16),Hàm số - Đạo hàm - Khảo sát,"Đồ thị của hàm số nào dưới đây có tiệm cận đứng?
+A. $y = \dfrac{x^2-3x+2}{x-1}$.
+B. $y = \dfrac{x^2}{x^2+1}$.
+C. $y = \sqrt{x^2-1}$.
+D. $y = \dfrac{x}{x+1}$.",D. y = x/(x+1).,"• Hàm số $y = \dfrac{x}{x+1}$ có tiệm cận đứng $x=-1$ vì $\lim\limits_{x\to -1^{+}} \dfrac{x}{x+1} = -\infty$; $\lim\limits_{x\to -1^{-}} \dfrac{x}{x+1} = +\infty$.
+• Hàm số $y = \dfrac{x^2-3x+2}{x-1}$ xác định trên $\mathscr{D} = (-\infty;1)\cup(1;+\infty)$, nhưng không có tiệm cận đứng vì $\lim\limits_{x\to 1} \dfrac{x^2-3x+2}{x-1} = \lim\limits_{x\to 1}(x-2) = -1$.
+• Hàm số $y = \dfrac{x^2}{x^2+1}$ xác định và liên tục trên $\mathbb{R}$ nên không có tiệm cận.
+• Hàm số $y = \sqrt{x^2-1}$ xác định trên $\mathscr{D} = (-\infty;-1]\cup[1;+\infty)$ và
+$$\lim_{x\to -1^{-}} \sqrt{x^2-1} = \lim_{x\to 1^{+}} \sqrt{x^2-1} = 0$$
+nên không có tiệm cận.",,,
+113,KT-47 (Trang 60 - Câu 44),Hình giải tích Oxyz,"Trong không gian $Oxyz$, cho hai điểm $A(2,2,1)$, $B\left(-\dfrac{8}{3},\dfrac{4}{3},\dfrac{8}{3}\right)$. Đường thẳng đi qua tâm đường tròn nội tiếp tam giác $OAB$ và vuông góc với mặt phẳng $(OAB)$ có phương trình là
+A. $\dfrac{x+1}{1} = \dfrac{y-3}{-2} = \dfrac{z+1}{2}$.
+B. $\dfrac{x+1}{1} = \dfrac{y-8}{-2} = \dfrac{z-4}{2}$.
+C. $\dfrac{x+\frac{1}{3}}{1} = \dfrac{y-\frac{5}{3}}{-2} = \dfrac{z-\frac{11}{6}}{2}$.
+D. $\dfrac{x+\frac{2}{9}}{1} = \dfrac{y-\frac{2}{9}}{-2} = \dfrac{z-\frac{5}{9}}{2}$.",A. (x+1)/1 = (y-3)/(-2) = (z+1)/2.,"Ta có $OA = 3, OB = 4, AB = 5$ suy ra tam giác $OAB$ vuông tại $O$. Gọi $I$ là tâm đường tròn nội tiếp tam giác $OAB$. Khi đó ta có
+$$OB.\vec{IA} + OA.\vec{IB} + AB.\vec{IO} = \vec{0}.$$
+Suy ra
+$$\begin{cases} x_I = \dfrac{OB.x_A + BA.x_O + AO.x_B}{OA+OB+AB} = 0 \\ y_I = \dfrac{OB.y_A + BA.y_O + AO.y_B}{OA+OB+AB} = 1 \\ z_I = \dfrac{OB.z_A + BA.z_O + AO.z_B}{OA+OB+AB} = 1. \end{cases}$$
+Do đó $I(0,1,1)$. Lại có $[\vec{OA},\vec{OB}] = 4(1,-2,2)$ là một vectơ chỉ phương của đường thẳng cần tìm. Thay tọa độ $I$ vào phương án A thấy thỏa mãn.",,,
+114,KT-48 (Trang 71 - Câu 33),Tích phân - Nguyên hàm,"Họ nguyên hàm của hàm số $f(x) = 4x(1+\ln x)$ là
+A. $2x^2\ln x + 3x^2$.
+B. $2x^2\ln x + x^2$.
+C. $2x^2\ln x + 3x^2 + C$.
+D. $2x^2\ln x + x^2 + C$.",D. 2x^2 ln x + x^2 + C.,"$\displaystyle\int 4x(1+\ln x)\,\mathrm{d}x = \int (1+\ln x)\,\mathrm{d}(2x^2) = 2x^2(1+\ln x) - \int 2x^2\dfrac{1}{x}\,\mathrm{d}x = 2x^2(1+\ln x) - x^2 + C = 2x^2\ln x + x^2 + C$",,,
+115,KT-49 (Trang 94 - Câu 7),Hình học không gian,"Cho khối chóp có diện tích đáy $B = 3$ và chiều cao $h = 4$. Thể tích của khối chóp đã cho bằng
+A. 6.
+B. 12.
+C. 36.
+D. 4.",D. 4.,Ta có công thức thể tích của khối chóp $V = \dfrac{1}{3}\cdot B \cdot h = \dfrac{1}{3}\cdot 3\cdot 4 = 4$.,,,
+116,KT-50 (Trang 112 - Câu 30),Hàm số - Đạo hàm - Khảo sát,"Hàm số nào dưới đây nghịch biến trên $\mathbb{R}$?
+A. $y = -x^3 - x$.
+B. $y = -x^4 - x^2$.
+C. $y = -x^3 + x$.
+D. $y = \dfrac{x+2}{x-1}$.",A. y = -x^3 - x.,"Ta thấy hàm số $y=-x^3-x$ có
+• Tập xác định $\mathscr{D} = \mathbb{R}$.
+• $y' = -3x^2 - 1 < 0, \forall x \in \mathbb{R}$.
+Vậy hàm số $y = -x^3 - x$ nghịch biến trên $\mathbb{R}$.",,,
+117,KT-51 (Trang 156 - Câu 21),Hình giải tích Oxyz,"Trong không gian $Oxyz$, mặt phẳng đi qua điểm $A(1;2;-2)$ và vuông góc với đường thẳng $\Delta: \dfrac{x+1}{2} = \dfrac{y-2}{1} = \dfrac{z+3}{3}$ có phương trình là
+A. $3x + 2y + z - 5 = 0$.
+B. $2x + y + 3z + 2 = 0$.
+C. $x + 2y + 3z + 1 = 0$.
+D. $2x + y + 3z - 2 = 0$.",B. 2x + y + 3z + 2 = 0.,"Một véc-tơ chỉ phương của đường thẳng $\Delta$ là $\vec{u} = (2;1;3)$.
+Vì mặt phẳng cần tìm vuông góc với đường thẳng $\Delta$ nên có véc-tơ pháp tuyến là $\vec{n} = \vec{u} = (2;1;3)$.
+Phương trình mặt phẳng cần tìm là $2(x-1) + 1(y-2) + 3(z+2) = 0 \Leftrightarrow 2x + y + 3z + 2 = 0$.",,,
+118,KT-52 (Trang 159 - Câu 30),Hàm số - Đạo hàm - Khảo sát,"Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số $y = \dfrac{x+6}{x+5m}$ nghịch biến trên khoảng $(10;+\infty)$?
+A. 3.
+B. Vô số.
+C. 4.
+D. 5.",C. 4.,"Tập xác định $\mathscr{D} = \mathbb{R}\setminus\{-5m\}$.
+Ta có $y' = \dfrac{5m-6}{(x+5m)^2}$.
+Hàm số nghịch biến trên $(10;+\infty)$ khi chỉ khi $\begin{cases} y' < 0,\ \forall x \in \mathscr{D} \\ -5m \notin (10;+\infty) \end{cases} \Leftrightarrow \begin{cases} 5m - 6 < 0 \\ -5m \le 10 \end{cases} \Leftrightarrow \begin{cases} m < \dfrac{6}{5} \\ m \ge -2. \end{cases}$
+Vì $m \in \mathbb{Z}$ nên $m \in \{-2;-1;0;1\}$.",,,
+119,KT-53 (Trang 166 - Câu 46),Hình học không gian,"Cho khối lăng trụ $ABC.A'B'C'$, khoảng cách từ điểm $C$ đến đường thẳng $BB'$ bằng $\sqrt{5}$, khoảng cách từ $A$ đến các đường thẳng $BB'$ và $CC'$ lần lượt bằng $1$ và $2$, hình chiếu vuông góc của $A$ lên mặt phẳng $(A'B'C')$ là trung điểm $M$ của $B'C'$ và $A'M = \dfrac{\sqrt{15}}{3}$. Thể tích của khối lăng trụ đã cho bằng
+A. $\dfrac{\sqrt{15}}{3}$.
+B. $\dfrac{2\sqrt{5}}{3}$.
+C. $\sqrt{5}$.
+D. $\dfrac{2\sqrt{15}}{3}$.",D. 2√15/3.,"Kẻ $AI \perp BB'$, $AK \perp CC'$. Khoảng cách từ $A$ đến $BB', CC'$ lần lượt là $1; 2$ nên $AI=1, AK=2$.
+Gọi $F$ là trung điểm của $BC$.
+Vì $A'M = \dfrac{\sqrt{15}}{3} \Rightarrow AF = \dfrac{\sqrt{15}}{3}$.
+Ta có $\begin{cases} AI \perp BB' \\ BB' \perp AK \end{cases} \Rightarrow BB' \perp (AIK) \Rightarrow BB' \perp IK$.
+Vì $CC' \parallel BB'$ nên
+$$\mathrm{d}(C,BB') = \mathrm{d}(K,BB') = IK = \sqrt{5}$$
+$\Rightarrow \triangle AIK$ vuông tại $A$.
+Gọi $E$ là trung điểm của $IK \Rightarrow EF \parallel BB' \Rightarrow EF \perp (AIK) \Rightarrow EF \perp AE$.
+Mà $AM \perp (ABC)$ nên $\left((ABC),(AIK)\right) = \left(\widehat{EF,AM}\right) = \widehat{AME} = \widehat{FAE}$ ($\vec{EF}, \vec{AM}$ là véc-tơ pháp tuyến của của $(AKI), (ABC)$).
+Ta có $\cos\widehat{FAE} = \dfrac{AE}{AF} = \dfrac{\frac{\sqrt{5}}{2}}{\frac{\sqrt{15}}{3}} = \dfrac{\sqrt{3}}{2} \Rightarrow \widehat{FAE}=30°$ ($AE$ là đường trung tuyến của tam giác $AKI$ vuông tại $A$).
+Hình chiếu vuông góc của tam giác $ABC$ lên mặt phẳng $(AIK)$ là tam giác $AIK$ nên
+$$S_{\triangle AIK} = S_{\triangle ABC}\cdot \cos\widehat{EAF} \Rightarrow S_{\triangle ABC} = \dfrac{S_{\triangle AIK}}{\cos\widehat{EAF}} = \dfrac{2}{\sqrt3}.$$
+Xét tam giác $AMF$ vuông tại $A$, ta có $\tan\widehat{AMF} = \dfrac{AF}{AM} \Rightarrow AM = \dfrac{AF}{\tan\widehat{AMF}} = \sqrt5$.
+Vậy $V_{ABC.A'B'C'} = \sqrt5\cdot\dfrac{2}{\sqrt3} = \dfrac{2\sqrt{15}}{3}$.",,,
+120,KT-54 (Trang 172 - Câu 8),Tích phân - Nguyên hàm,"Biết tích phân $\displaystyle\int_{0}^{1} f(x)\,\mathrm{d}x = 3$ và $\displaystyle\int_{0}^{1} g(x)\,\mathrm{d}x = -4$. Khi đó $\displaystyle\int_{0}^{1} [f(x)+g(x)]\,\mathrm{d}x$ bằng
+A. $-7$.
+B. $7$.
+C. $-1$.
+D. $1$.",C. -1.,"Ta có $\displaystyle\int_{0}^{1} [f(x)+g(x)]\,\mathrm{d}x = \int_{0}^{1} f(x)\,\mathrm{d}x + \int_{0}^{1} g(x)\,\mathrm{d}x = 3 + (-4) = -1$.",,,

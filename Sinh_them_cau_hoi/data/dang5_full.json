@@ -1,0 +1,1280 @@
+[
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-6i|=9$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;-6)$.\nB. $(-6;0)$.\nC. $(0;6)$.\nD. $(6;0)$.",
+    "dap_an": "C. $(0;6)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-6i|=9 \\Leftrightarrow x^2+(y-6)^2=9^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;6)$ bán kính $R=9$.",
+    "params": {
+      "a": "-6",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+6i|=7$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;6)$.\nB. $(6;0)$.\nC. $(0;-6)$.\nD. $(-6;0)$.",
+    "dap_an": "C. $(0;-6)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+6i|=7 \\Leftrightarrow x^2+(y+6)^2=7^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;-6)$ bán kính $R=7$.",
+    "params": {
+      "a": "6",
+      "b": "-7"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+9i|=8$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;9)$.\nB. $(9;0)$.\nC. $(0;-9)$.\nD. $(-9;0)$.",
+    "dap_an": "C. $(0;-9)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+9i|=8 \\Leftrightarrow x^2+(y+9)^2=8^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;-9)$ bán kính $R=8$.",
+    "params": {
+      "a": "9",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+2i|=7$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;2)$.\nB. $(2;0)$.\nC. $(0;-2)$.\nD. $(-2;0)$.",
+    "dap_an": "C. $(0;-2)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+2i|=7 \\Leftrightarrow x^2+(y+2)^2=7^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;-2)$ bán kính $R=7$.",
+    "params": {
+      "a": "2",
+      "b": "-7"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-5i|=1$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;-5)$.\nB. $(-5;0)$.\nC. $(0;5)$.\nD. $(5;0)$.",
+    "dap_an": "C. $(0;5)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-5i|=1 \\Leftrightarrow x^2+(y-5)^2=1^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;5)$ bán kính $R=1$.",
+    "params": {
+      "a": "-5",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+6i|=7$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;6)$.\nB. $(6;0)$.\nC. $(0;-6)$.\nD. $(-6;0)$.",
+    "dap_an": "C. $(0;-6)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+6i|=7 \\Leftrightarrow x^2+(y+6)^2=7^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;-6)$ bán kính $R=7$.",
+    "params": {
+      "a": "6",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-\\dfrac{1}{2}i|=\\dfrac{5}{2}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;- \\dfrac{1}{2})$.\nB. $(- \\dfrac{1}{2};0)$.\nC. $(0;\\dfrac{1}{2})$.\nD. $(\\dfrac{1}{2};0)$.",
+    "dap_an": "C. $(0;\\dfrac{1}{2})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-\\dfrac{1}{2}i|=\\dfrac{5}{2} \\Leftrightarrow x^2+(y-\\dfrac{1}{2})^2=\\dfrac{5}{2}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;\\dfrac{1}{2})$ bán kính $R=\\dfrac{5}{2}$.",
+    "params": {
+      "a": "-1/2",
+      "b": "5/2"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-\\dfrac{5}{2}i|=\\dfrac{3}{2}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;- \\dfrac{5}{2})$.\nB. $(- \\dfrac{5}{2};0)$.\nC. $(0;\\dfrac{5}{2})$.\nD. $(\\dfrac{5}{2};0)$.",
+    "dap_an": "C. $(0;\\dfrac{5}{2})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-\\dfrac{5}{2}i|=\\dfrac{3}{2} \\Leftrightarrow x^2+(y-\\dfrac{5}{2})^2=\\dfrac{3}{2}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;\\dfrac{5}{2})$ bán kính $R=\\dfrac{3}{2}$.",
+    "params": {
+      "a": "-5/2",
+      "b": "3/2"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-\\dfrac{5}{3}i|=\\dfrac{7}{2}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;- \\dfrac{5}{3})$.\nB. $(- \\dfrac{5}{3};0)$.\nC. $(0;\\dfrac{5}{3})$.\nD. $(\\dfrac{5}{3};0)$.",
+    "dap_an": "C. $(0;\\dfrac{5}{3})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-\\dfrac{5}{3}i|=\\dfrac{7}{2} \\Leftrightarrow x^2+(y-\\dfrac{5}{3})^2=\\dfrac{7}{2}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;\\dfrac{5}{3})$ bán kính $R=\\dfrac{7}{2}$.",
+    "params": {
+      "a": "-5/3",
+      "b": "7/2"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+\\dfrac{3}{5}i|=\\dfrac{3}{5}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;\\dfrac{3}{5})$.\nB. $(\\dfrac{3}{5};0)$.\nC. $(0;- \\dfrac{3}{5})$.\nD. $(- \\dfrac{3}{5};0)$.",
+    "dap_an": "C. $(0;- \\dfrac{3}{5})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+\\dfrac{3}{5}i|=\\dfrac{3}{5} \\Leftrightarrow x^2+(y+\\dfrac{3}{5})^2=\\dfrac{3}{5}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;- \\dfrac{3}{5})$ bán kính $R=\\dfrac{3}{5}$.",
+    "params": {
+      "a": "3/5",
+      "b": "-3/5"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+\\dfrac{9}{4}i|=\\dfrac{11}{2}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;\\dfrac{9}{4})$.\nB. $(\\dfrac{9}{4};0)$.\nC. $(0;- \\dfrac{9}{4})$.\nD. $(- \\dfrac{9}{4};0)$.",
+    "dap_an": "C. $(0;- \\dfrac{9}{4})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+\\dfrac{9}{4}i|=\\dfrac{11}{2} \\Leftrightarrow x^2+(y+\\dfrac{9}{4})^2=\\dfrac{11}{2}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;- \\dfrac{9}{4})$ bán kính $R=\\dfrac{11}{2}$.",
+    "params": {
+      "a": "9/4",
+      "b": "11/2"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+\\dfrac{7}{2}i|=\\dfrac{9}{2}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;\\dfrac{7}{2})$.\nB. $(\\dfrac{7}{2};0)$.\nC. $(0;- \\dfrac{7}{2})$.\nD. $(- \\dfrac{7}{2};0)$.",
+    "dap_an": "C. $(0;- \\dfrac{7}{2})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+\\dfrac{7}{2}i|=\\dfrac{9}{2} \\Leftrightarrow x^2+(y+\\dfrac{7}{2})^2=\\dfrac{9}{2}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;- \\dfrac{7}{2})$ bán kính $R=\\dfrac{9}{2}$.",
+    "params": {
+      "a": "7/2",
+      "b": "-9/2"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-6i|=4 \\sqrt{2}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;-6)$.\nB. $(-6;0)$.\nC. $(0;6)$.\nD. $(6;0)$.",
+    "dap_an": "C. $(0;6)$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-6i|=4 \\sqrt{2} \\Leftrightarrow x^2+(y-6)^2=4 \\sqrt{2}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;6)$ bán kính $R=4 \\sqrt{2}$.",
+    "params": {
+      "a": "-6",
+      "b": "-4*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+3 \\sqrt{5}i|=4 \\sqrt{11}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;3 \\sqrt{5})$.\nB. $(3 \\sqrt{5};0)$.\nC. $(0;- 3 \\sqrt{5})$.\nD. $(- 3 \\sqrt{5};0)$.",
+    "dap_an": "C. $(0;- 3 \\sqrt{5})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+3 \\sqrt{5}i|=4 \\sqrt{11} \\Leftrightarrow x^2+(y+3 \\sqrt{5})^2=4 \\sqrt{11}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;- 3 \\sqrt{5})$ bán kính $R=4 \\sqrt{11}$.",
+    "params": {
+      "a": "3*sqrt(5)",
+      "b": "-4*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-\\sqrt{2}i|=3 \\sqrt{10}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;- \\sqrt{2})$.\nB. $(- \\sqrt{2};0)$.\nC. $(0;\\sqrt{2})$.\nD. $(\\sqrt{2};0)$.",
+    "dap_an": "C. $(0;\\sqrt{2})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-\\sqrt{2}i|=3 \\sqrt{10} \\Leftrightarrow x^2+(y-\\sqrt{2})^2=3 \\sqrt{10}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;\\sqrt{2})$ bán kính $R=3 \\sqrt{10}$.",
+    "params": {
+      "a": "-sqrt(2)",
+      "b": "-3*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z+3 \\sqrt{7}i|=2 \\sqrt{6}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;3 \\sqrt{7})$.\nB. $(3 \\sqrt{7};0)$.\nC. $(0;- 3 \\sqrt{7})$.\nD. $(- 3 \\sqrt{7};0)$.",
+    "dap_an": "C. $(0;- 3 \\sqrt{7})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z+3 \\sqrt{7}i|=2 \\sqrt{6} \\Leftrightarrow x^2+(y+3 \\sqrt{7})^2=2 \\sqrt{6}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;- 3 \\sqrt{7})$ bán kính $R=2 \\sqrt{6}$.",
+    "params": {
+      "a": "3*sqrt(7)",
+      "b": "-2*sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-2 \\sqrt{2}i|=2 \\sqrt{3}$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;- 2 \\sqrt{2})$.\nB. $(- 2 \\sqrt{2};0)$.\nC. $(0;2 \\sqrt{2})$.\nD. $(2 \\sqrt{2};0)$.",
+    "dap_an": "C. $(0;2 \\sqrt{2})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-2 \\sqrt{2}i|=2 \\sqrt{3} \\Leftrightarrow x^2+(y-2 \\sqrt{2})^2=2 \\sqrt{3}^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;2 \\sqrt{2})$ bán kính $R=2 \\sqrt{3}$.",
+    "params": {
+      "a": "-2*sqrt(2)",
+      "b": "-2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 31,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt31",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết tập hợp điểm biểu diễn các số phức $z$ thỏa mãn $|z-3 \\sqrt{10}i|=2$ là một đường tròn. Tâm của đường tròn đó có tọa độ là\n\nA. $(0;- 3 \\sqrt{10})$.\nB. $(- 3 \\sqrt{10};0)$.\nC. $(0;3 \\sqrt{10})$.\nD. $(3 \\sqrt{10};0)$.",
+    "dap_an": "C. $(0;3 \\sqrt{10})$.",
+    "loi_giai": "Gọi $z=x+yi$. Ta có $|z-3 \\sqrt{10}i|=2 \\Leftrightarrow x^2+(y-3 \\sqrt{10})^2=2^2$. Vậy tập hợp điểm biểu diễn là đường tròn tâm $I(0;3 \\sqrt{10})$ bán kính $R=2$.",
+    "params": {
+      "a": "-3*sqrt(10)",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-i)(\\overline{z}+2)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{1}{2};-1)$.\nB. $(-1;- \\dfrac{1}{2})$.\nC. $(1;\\dfrac{1}{2})$.\nD. $(-1;\\dfrac{1}{2})$.",
+    "dap_an": "D. $(-1;\\dfrac{1}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-i)(\\overline{z}+2)$ và cho phần thực bằng 0, ta được $(a-1)^2+(b+\\dfrac{1}{2})^2=\\dfrac{5}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(-1;\\dfrac{1}{2})$.",
+    "params": {
+      "a": "-1",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z+4i)(\\overline{z}+3)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(-2;- \\dfrac{3}{2})$.\nB. $(- \\dfrac{3}{2};2)$.\nC. $(\\dfrac{3}{2};-2)$.\nD. $(- \\dfrac{3}{2};-2)$.",
+    "dap_an": "D. $(- \\dfrac{3}{2};-2)$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z+4i)(\\overline{z}+3)$ và cho phần thực bằng 0, ta được $(a-\\dfrac{3}{2})^2+(b-2)^2=\\dfrac{25}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(- \\dfrac{3}{2};-2)$.",
+    "params": {
+      "a": "4",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-5i)(\\overline{z}+4)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{5}{2};-2)$.\nB. $(-2;- \\dfrac{5}{2})$.\nC. $(2;\\dfrac{5}{2})$.\nD. $(-2;\\dfrac{5}{2})$.",
+    "dap_an": "D. $(-2;\\dfrac{5}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-5i)(\\overline{z}+4)$ và cho phần thực bằng 0, ta được $(a-2)^2+(b+\\dfrac{5}{2})^2=\\dfrac{41}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(-2;\\dfrac{5}{2})$.",
+    "params": {
+      "a": "-5",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-9i)(\\overline{z}+8)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{9}{2};-4)$.\nB. $(-4;- \\dfrac{9}{2})$.\nC. $(4;\\dfrac{9}{2})$.\nD. $(-4;\\dfrac{9}{2})$.",
+    "dap_an": "D. $(-4;\\dfrac{9}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-9i)(\\overline{z}+8)$ và cho phần thực bằng 0, ta được $(a-4)^2+(b+\\dfrac{9}{2})^2=\\dfrac{145}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(-4;\\dfrac{9}{2})$.",
+    "params": {
+      "a": "-9",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z+5i)(\\overline{z}-1)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(- \\dfrac{5}{2};\\dfrac{1}{2})$.\nB. $(\\dfrac{1}{2};\\dfrac{5}{2})$.\nC. $(- \\dfrac{1}{2};- \\dfrac{5}{2})$.\nD. $(\\dfrac{1}{2};- \\dfrac{5}{2})$.",
+    "dap_an": "D. $(\\dfrac{1}{2};- \\dfrac{5}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z+5i)(\\overline{z}-1)$ và cho phần thực bằng 0, ta được $(a+\\dfrac{1}{2})^2+(b-\\dfrac{5}{2})^2=\\dfrac{13}{2}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{1}{2};- \\dfrac{5}{2})$.",
+    "params": {
+      "a": "5",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-9i)(\\overline{z}-8)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{9}{2};4)$.\nB. $(4;- \\dfrac{9}{2})$.\nC. $(-4;\\dfrac{9}{2})$.\nD. $(4;\\dfrac{9}{2})$.",
+    "dap_an": "D. $(4;\\dfrac{9}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-9i)(\\overline{z}-8)$ và cho phần thực bằng 0, ta được $(a+4)^2+(b+\\dfrac{9}{2})^2=\\dfrac{145}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(4;\\dfrac{9}{2})$.",
+    "params": {
+      "a": "-9",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z+\\dfrac{11}{3}i)(\\overline{z}+\\dfrac{1}{4})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(- \\dfrac{11}{6};- \\dfrac{1}{8})$.\nB. $(- \\dfrac{1}{8};\\dfrac{11}{6})$.\nC. $(\\dfrac{1}{8};- \\dfrac{11}{6})$.\nD. $(- \\dfrac{1}{8};- \\dfrac{11}{6})$.",
+    "dap_an": "D. $(- \\dfrac{1}{8};- \\dfrac{11}{6})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z+\\dfrac{11}{3}i)(\\overline{z}+\\dfrac{1}{4})$ và cho phần thực bằng 0, ta được $(a-\\dfrac{1}{8})^2+(b-\\dfrac{11}{6})^2=\\dfrac{1945}{576}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(- \\dfrac{1}{8};- \\dfrac{11}{6})$.",
+    "params": {
+      "a": "11/3",
+      "b": "1/4"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\dfrac{8}{5}i)(\\overline{z}+\\dfrac{9}{2})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{4}{5};- \\dfrac{9}{4})$.\nB. $(- \\dfrac{9}{4};- \\dfrac{4}{5})$.\nC. $(\\dfrac{9}{4};\\dfrac{4}{5})$.\nD. $(- \\dfrac{9}{4};\\dfrac{4}{5})$.",
+    "dap_an": "D. $(- \\dfrac{9}{4};\\dfrac{4}{5})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\dfrac{8}{5}i)(\\overline{z}+\\dfrac{9}{2})$ và cho phần thực bằng 0, ta được $(a-\\dfrac{9}{4})^2+(b+\\dfrac{4}{5})^2=\\dfrac{2281}{400}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(- \\dfrac{9}{4};\\dfrac{4}{5})$.",
+    "params": {
+      "a": "-8/5",
+      "b": "9/2"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\dfrac{7}{5}i)(\\overline{z}+\\dfrac{1}{3})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{7}{10};- \\dfrac{1}{6})$.\nB. $(- \\dfrac{1}{6};- \\dfrac{7}{10})$.\nC. $(\\dfrac{1}{6};\\dfrac{7}{10})$.\nD. $(- \\dfrac{1}{6};\\dfrac{7}{10})$.",
+    "dap_an": "D. $(- \\dfrac{1}{6};\\dfrac{7}{10})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\dfrac{7}{5}i)(\\overline{z}+\\dfrac{1}{3})$ và cho phần thực bằng 0, ta được $(a-\\dfrac{1}{6})^2+(b+\\dfrac{7}{10})^2=\\dfrac{233}{450}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(- \\dfrac{1}{6};\\dfrac{7}{10})$.",
+    "params": {
+      "a": "-7/5",
+      "b": "1/3"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\dfrac{5}{4}i)(\\overline{z}-\\dfrac{7}{2})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{5}{8};\\dfrac{7}{4})$.\nB. $(\\dfrac{7}{4};- \\dfrac{5}{8})$.\nC. $(- \\dfrac{7}{4};\\dfrac{5}{8})$.\nD. $(\\dfrac{7}{4};\\dfrac{5}{8})$.",
+    "dap_an": "D. $(\\dfrac{7}{4};\\dfrac{5}{8})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\dfrac{5}{4}i)(\\overline{z}-\\dfrac{7}{2})$ và cho phần thực bằng 0, ta được $(a+\\dfrac{7}{4})^2+(b+\\dfrac{5}{8})^2=\\dfrac{221}{64}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{7}{4};\\dfrac{5}{8})$.",
+    "params": {
+      "a": "-5/4",
+      "b": "-7/2"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\dfrac{7}{2}i)(\\overline{z}-\\dfrac{1}{2})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{7}{4};\\dfrac{1}{4})$.\nB. $(\\dfrac{1}{4};- \\dfrac{7}{4})$.\nC. $(- \\dfrac{1}{4};\\dfrac{7}{4})$.\nD. $(\\dfrac{1}{4};\\dfrac{7}{4})$.",
+    "dap_an": "D. $(\\dfrac{1}{4};\\dfrac{7}{4})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\dfrac{7}{2}i)(\\overline{z}-\\dfrac{1}{2})$ và cho phần thực bằng 0, ta được $(a+\\dfrac{1}{4})^2+(b+\\dfrac{7}{4})^2=\\dfrac{25}{8}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{1}{4};\\dfrac{7}{4})$.",
+    "params": {
+      "a": "-7/2",
+      "b": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\dfrac{1}{4}i)(\\overline{z}-\\dfrac{5}{4})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{1}{8};\\dfrac{5}{8})$.\nB. $(\\dfrac{5}{8};- \\dfrac{1}{8})$.\nC. $(- \\dfrac{5}{8};\\dfrac{1}{8})$.\nD. $(\\dfrac{5}{8};\\dfrac{1}{8})$.",
+    "dap_an": "D. $(\\dfrac{5}{8};\\dfrac{1}{8})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\dfrac{1}{4}i)(\\overline{z}-\\dfrac{5}{4})$ và cho phần thực bằng 0, ta được $(a+\\dfrac{5}{8})^2+(b+\\dfrac{1}{8})^2=\\dfrac{13}{32}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{5}{8};\\dfrac{1}{8})$.",
+    "params": {
+      "a": "-1/4",
+      "b": "-5/4"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z+2 \\sqrt{2}i)(\\overline{z}-3 \\sqrt{7})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(- \\sqrt{2};\\dfrac{3 \\sqrt{7}}{2})$.\nB. $(\\dfrac{3 \\sqrt{7}}{2};\\sqrt{2})$.\nC. $(- \\dfrac{3 \\sqrt{7}}{2};- \\sqrt{2})$.\nD. $(\\dfrac{3 \\sqrt{7}}{2};- \\sqrt{2})$.",
+    "dap_an": "D. $(\\dfrac{3 \\sqrt{7}}{2};- \\sqrt{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z+2 \\sqrt{2}i)(\\overline{z}-3 \\sqrt{7})$ và cho phần thực bằng 0, ta được $(a+\\dfrac{3 \\sqrt{7}}{2})^2+(b-\\sqrt{2})^2=\\dfrac{71}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{3 \\sqrt{7}}{2};- \\sqrt{2})$.",
+    "params": {
+      "a": "2*sqrt(2)",
+      "b": "-3*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\sqrt{3}i)(\\overline{z}+2 \\sqrt{7})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{\\sqrt{3}}{2};- \\sqrt{7})$.\nB. $(- \\sqrt{7};- \\dfrac{\\sqrt{3}}{2})$.\nC. $(\\sqrt{7};\\dfrac{\\sqrt{3}}{2})$.\nD. $(- \\sqrt{7};\\dfrac{\\sqrt{3}}{2})$.",
+    "dap_an": "D. $(- \\sqrt{7};\\dfrac{\\sqrt{3}}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\sqrt{3}i)(\\overline{z}+2 \\sqrt{7})$ và cho phần thực bằng 0, ta được $(a-\\sqrt{7})^2+(b+\\dfrac{\\sqrt{3}}{2})^2=\\dfrac{31}{4}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(- \\sqrt{7};\\dfrac{\\sqrt{3}}{2})$.",
+    "params": {
+      "a": "-sqrt(3)",
+      "b": "2*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-3 \\sqrt{7}i)(\\overline{z}-9)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{3 \\sqrt{7}}{2};\\dfrac{9}{2})$.\nB. $(\\dfrac{9}{2};- \\dfrac{3 \\sqrt{7}}{2})$.\nC. $(- \\dfrac{9}{2};\\dfrac{3 \\sqrt{7}}{2})$.\nD. $(\\dfrac{9}{2};\\dfrac{3 \\sqrt{7}}{2})$.",
+    "dap_an": "D. $(\\dfrac{9}{2};\\dfrac{3 \\sqrt{7}}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-3 \\sqrt{7}i)(\\overline{z}-9)$ và cho phần thực bằng 0, ta được $(a+\\dfrac{9}{2})^2+(b+\\dfrac{3 \\sqrt{7}}{2})^2=36$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{9}{2};\\dfrac{3 \\sqrt{7}}{2})$.",
+    "params": {
+      "a": "-3*sqrt(7)",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z-\\sqrt{3}i)(\\overline{z}-\\sqrt{11})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(\\dfrac{\\sqrt{3}}{2};\\dfrac{\\sqrt{11}}{2})$.\nB. $(\\dfrac{\\sqrt{11}}{2};- \\dfrac{\\sqrt{3}}{2})$.\nC. $(- \\dfrac{\\sqrt{11}}{2};\\dfrac{\\sqrt{3}}{2})$.\nD. $(\\dfrac{\\sqrt{11}}{2};\\dfrac{\\sqrt{3}}{2})$.",
+    "dap_an": "D. $(\\dfrac{\\sqrt{11}}{2};\\dfrac{\\sqrt{3}}{2})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z-\\sqrt{3}i)(\\overline{z}-\\sqrt{11})$ và cho phần thực bằng 0, ta được $(a+\\dfrac{\\sqrt{11}}{2})^2+(b+\\dfrac{\\sqrt{3}}{2})^2=\\dfrac{7}{2}$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\dfrac{\\sqrt{11}}{2};\\dfrac{\\sqrt{3}}{2})$.",
+    "params": {
+      "a": "-sqrt(3)",
+      "b": "-sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z+4 \\sqrt{7}i)(\\overline{z}+4)$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(- 2 \\sqrt{7};-2)$.\nB. $(-2;2 \\sqrt{7})$.\nC. $(2;- 2 \\sqrt{7})$.\nD. $(-2;- 2 \\sqrt{7})$.",
+    "dap_an": "D. $(-2;- 2 \\sqrt{7})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z+4 \\sqrt{7}i)(\\overline{z}+4)$ và cho phần thực bằng 0, ta được $(a-2)^2+(b-2 \\sqrt{7})^2=32$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(-2;- 2 \\sqrt{7})$.",
+    "params": {
+      "a": "4*sqrt(7)",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 13,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt13",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(z+2 \\sqrt{5}i)(\\overline{z}-2 \\sqrt{7})$ là số thuần ảo. Biết rằng tập hợp tất cả các điểm biểu diễn của $z$ là một đường tròn, tâm của đường tròn đó có tọa độ là\n\nA. $(- \\sqrt{5};\\sqrt{7})$.\nB. $(\\sqrt{7};\\sqrt{5})$.\nC. $(- \\sqrt{7};- \\sqrt{5})$.\nD. $(\\sqrt{7};- \\sqrt{5})$.",
+    "dap_an": "D. $(\\sqrt{7};- \\sqrt{5})$.",
+    "loi_giai": "Giả sử $z=a+bi$. Khai triển $(z+2 \\sqrt{5}i)(\\overline{z}-2 \\sqrt{7})$ và cho phần thực bằng 0, ta được $(a+\\sqrt{7})^2+(b-\\sqrt{5})^2=12$, nên tập hợp điểm biểu diễn là đường tròn tâm $I(\\sqrt{7};- \\sqrt{5})$.",
+    "params": {
+      "a": "2*sqrt(5)",
+      "b": "-2*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+6i)(z-1)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $37$.\nB. $7$.\nC. $\\sqrt{37}$.\nD. $\\dfrac{\\sqrt{37}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{37}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+6i)(z-1)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{37}}{2}$.",
+    "params": {
+      "a": "6",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+6i)(z-9)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $117$.\nB. $15$.\nC. $3 \\sqrt{13}$.\nD. $\\dfrac{3 \\sqrt{13}}{2}$.",
+    "dap_an": "D. $\\dfrac{3 \\sqrt{13}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+6i)(z-9)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{117}}{2} = \\dfrac{3 \\sqrt{13}}{2}$.",
+    "params": {
+      "a": "6",
+      "b": "9"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+4i)(z+8)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $80$.\nB. $12$.\nC. $4 \\sqrt{5}$.\nD. $2 \\sqrt{5}$.",
+    "dap_an": "D. $2 \\sqrt{5}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+4i)(z+8)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{80}}{2} = 2 \\sqrt{5}$.",
+    "params": {
+      "a": "4",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-8i)(z-5)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $89$.\nB. $13$.\nC. $\\sqrt{89}$.\nD. $\\dfrac{\\sqrt{89}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{89}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-8i)(z-5)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{89}}{2}$.",
+    "params": {
+      "a": "-8",
+      "b": "5"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+i)(z+6)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $37$.\nB. $7$.\nC. $\\sqrt{37}$.\nD. $\\dfrac{\\sqrt{37}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{37}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+i)(z+6)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{37}}{2}$.",
+    "params": {
+      "a": "1",
+      "b": "-6"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-i)(z-2)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $5$.\nB. $3$.\nC. $\\sqrt{5}$.\nD. $\\dfrac{\\sqrt{5}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{5}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-i)(z-2)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{5}}{2}$.",
+    "params": {
+      "a": "-1",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-\\dfrac{2}{3}i)(z-\\dfrac{2}{5})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{136}{225}$.\nB. $\\dfrac{16}{15}$.\nC. $\\dfrac{2 \\sqrt{34}}{15}$.\nD. $\\dfrac{\\sqrt{34}}{15}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{34}}{15}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-\\dfrac{2}{3}i)(z-\\dfrac{2}{5})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{\\dfrac{136}{225}}}{2} = \\dfrac{\\sqrt{34}}{15}$.",
+    "params": {
+      "a": "-2/3",
+      "b": "2/5"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-\\dfrac{1}{4}i)(z-\\dfrac{11}{5})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{1961}{400}$.\nB. $\\dfrac{49}{20}$.\nC. $\\dfrac{\\sqrt{1961}}{20}$.\nD. $\\dfrac{\\sqrt{1961}}{40}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{1961}}{40}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-\\dfrac{1}{4}i)(z-\\dfrac{11}{5})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{\\dfrac{1961}{400}}}{2} = \\dfrac{\\sqrt{1961}}{40}$.",
+    "params": {
+      "a": "-1/4",
+      "b": "11/5"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+\\dfrac{11}{4}i)(z+\\dfrac{8}{3})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{2113}{144}$.\nB. $\\dfrac{65}{12}$.\nC. $\\dfrac{\\sqrt{2113}}{12}$.\nD. $\\dfrac{\\sqrt{2113}}{24}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{2113}}{24}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+\\dfrac{11}{4}i)(z+\\dfrac{8}{3})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{\\dfrac{2113}{144}}}{2} = \\dfrac{\\sqrt{2113}}{24}$.",
+    "params": {
+      "a": "11/4",
+      "b": "-8/3"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+\\dfrac{2}{5}i)(z+\\dfrac{7}{4})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{1289}{400}$.\nB. $\\dfrac{43}{20}$.\nC. $\\dfrac{\\sqrt{1289}}{20}$.\nD. $\\dfrac{\\sqrt{1289}}{40}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{1289}}{40}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+\\dfrac{2}{5}i)(z+\\dfrac{7}{4})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{\\dfrac{1289}{400}}}{2} = \\dfrac{\\sqrt{1289}}{40}$.",
+    "params": {
+      "a": "2/5",
+      "b": "-7/4"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-\\dfrac{5}{3}i)(z+\\dfrac{3}{2})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{181}{36}$.\nB. $\\dfrac{19}{6}$.\nC. $\\dfrac{\\sqrt{181}}{6}$.\nD. $\\dfrac{\\sqrt{181}}{12}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{181}}{12}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-\\dfrac{5}{3}i)(z+\\dfrac{3}{2})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{\\dfrac{181}{36}}}{2} = \\dfrac{\\sqrt{181}}{12}$.",
+    "params": {
+      "a": "-5/3",
+      "b": "-3/2"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-\\dfrac{11}{3}i)(z-\\dfrac{7}{4})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{2377}{144}$.\nB. $\\dfrac{65}{12}$.\nC. $\\dfrac{\\sqrt{2377}}{12}$.\nD. $\\dfrac{\\sqrt{2377}}{24}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{2377}}{24}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-\\dfrac{11}{3}i)(z-\\dfrac{7}{4})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{\\dfrac{2377}{144}}}{2} = \\dfrac{\\sqrt{2377}}{24}$.",
+    "params": {
+      "a": "-11/3",
+      "b": "7/4"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-3 \\sqrt{3}i)(z+8)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $91$.\nB. $3 \\sqrt{3} + 8$.\nC. $\\sqrt{91}$.\nD. $\\dfrac{\\sqrt{91}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{91}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-3 \\sqrt{3}i)(z+8)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{91}}{2}$.",
+    "params": {
+      "a": "-3*sqrt(3)",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-2 \\sqrt{6}i)(z+9)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $105$.\nB. $2 \\sqrt{6} + 9$.\nC. $\\sqrt{105}$.\nD. $\\dfrac{\\sqrt{105}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{105}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-2 \\sqrt{6}i)(z+9)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{105}}{2}$.",
+    "params": {
+      "a": "-2*sqrt(6)",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}+4 \\sqrt{10}i)(z+8)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $224$.\nB. $8 + 4 \\sqrt{10}$.\nC. $4 \\sqrt{14}$.\nD. $2 \\sqrt{14}$.",
+    "dap_an": "D. $2 \\sqrt{14}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}+4 \\sqrt{10}i)(z+8)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{224}}{2} = 2 \\sqrt{14}$.",
+    "params": {
+      "a": "4*sqrt(10)",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-5i)(z-2 \\sqrt{3})$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $37$.\nB. $2 \\sqrt{3} + 5$.\nC. $\\sqrt{37}$.\nD. $\\dfrac{\\sqrt{37}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{37}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-5i)(z-2 \\sqrt{3})$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{37}}{2}$.",
+    "params": {
+      "a": "-5",
+      "b": "2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-3 \\sqrt{3}i)(z-2)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $31$.\nB. $2 + 3 \\sqrt{3}$.\nC. $\\sqrt{31}$.\nD. $\\dfrac{\\sqrt{31}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{31}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-3 \\sqrt{3}i)(z-2)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{31}}{2}$.",
+    "params": {
+      "a": "-3*sqrt(3)",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 41,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt41",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét các số phức $z$ thỏa mãn $(\\overline{z}-3 \\sqrt{3}i)(z+4)$ là số thuần ảo. Trên mặt phẳng tọa độ, tập hợp tất cả các điểm biểu diễn các số phức $z$ là một đường tròn có bán kính bằng\n\nA. $43$.\nB. $4 + 3 \\sqrt{3}$.\nC. $\\sqrt{43}$.\nD. $\\dfrac{\\sqrt{43}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{43}}{2}$.",
+    "loi_giai": "Giả sử $z=x+yi$. Khai triển và cho phần thực của $(\\overline{z}-3 \\sqrt{3}i)(z+4)$ bằng 0, ta được phương trình đường tròn có bán kính $R=\\dfrac{\\sqrt{43}}{2}$.",
+    "params": {
+      "a": "-3*sqrt(3)",
+      "b": "-4"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (-5+9i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{106}$.\nB. $r = 2 \\sqrt{106}$.\nC. $r = 212$.\nD. $r = 424$.",
+    "dap_an": "B. $r = 2 \\sqrt{106}$.",
+    "loi_giai": "Ta có $w=(-5+9i)z+i \\Leftrightarrow z=\\dfrac{w-i}{-5+9i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|-5+9i| = 2 \\sqrt{106}$.",
+    "params": {
+      "R": "2",
+      "a": "-5",
+      "b": "9"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 3$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (-3-5i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{34}$.\nB. $r = 3 \\sqrt{34}$.\nC. $r = 102$.\nD. $r = 306$.",
+    "dap_an": "B. $r = 3 \\sqrt{34}$.",
+    "loi_giai": "Ta có $w=(-3-5i)z+i \\Leftrightarrow z=\\dfrac{w-i}{-3-5i}$. Do $|z|=3$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 3\\cdot|-3-5i| = 3 \\sqrt{34}$.",
+    "params": {
+      "R": "3",
+      "a": "-3",
+      "b": "-5"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 4$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (-7+3i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{58}$.\nB. $r = 4 \\sqrt{58}$.\nC. $r = 232$.\nD. $r = 928$.",
+    "dap_an": "B. $r = 4 \\sqrt{58}$.",
+    "loi_giai": "Ta có $w=(-7+3i)z+i \\Leftrightarrow z=\\dfrac{w-i}{-7+3i}$. Do $|z|=4$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 4\\cdot|-7+3i| = 4 \\sqrt{58}$.",
+    "params": {
+      "R": "4",
+      "a": "-7",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (1+i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{2}$.\nB. $r = 2 \\sqrt{2}$.\nC. $r = 4$.\nD. $r = 8$.",
+    "dap_an": "B. $r = 2 \\sqrt{2}$.",
+    "loi_giai": "Ta có $w=(1+i)z+i \\Leftrightarrow z=\\dfrac{w-i}{1+i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|1+i| = 2 \\sqrt{2}$.",
+    "params": {
+      "R": "2",
+      "a": "1",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 1$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (7-8i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = 1 + \\sqrt{113}$.\nB. $r = \\sqrt{113}$.\nC. $r = 113$.\nD. $r = 114$.",
+    "dap_an": "B. $r = \\sqrt{113}$.",
+    "loi_giai": "Ta có $w=(7-8i)z+i \\Leftrightarrow z=\\dfrac{w-i}{7-8i}$. Do $|z|=1$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 1\\cdot|7-8i| = \\sqrt{113}$.",
+    "params": {
+      "R": "1",
+      "a": "7",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 1$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (2+i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = 1 + \\sqrt{5}$.\nB. $r = \\sqrt{5}$.\nC. $r = 5$.\nD. $r = 6$.",
+    "dap_an": "B. $r = \\sqrt{5}$.",
+    "loi_giai": "Ta có $w=(2+i)z+i \\Leftrightarrow z=\\dfrac{w-i}{2+i}$. Do $|z|=1$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 1\\cdot|2+i| = \\sqrt{5}$.",
+    "params": {
+      "R": "1",
+      "a": "2",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 3$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (\\dfrac{9}{4}+\\dfrac{7}{5}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\dfrac{53}{20}$.\nB. $r = \\dfrac{159}{20}$.\nC. $r = \\dfrac{8427}{400}$.\nD. $r = \\dfrac{25281}{400}$.",
+    "dap_an": "B. $r = \\dfrac{159}{20}$.",
+    "loi_giai": "Ta có $w=(\\dfrac{9}{4}+\\dfrac{7}{5}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{\\dfrac{9}{4}+\\dfrac{7}{5}i}$. Do $|z|=3$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 3\\cdot|\\dfrac{9}{4}+\\dfrac{7}{5}i| = \\dfrac{159}{20}$.",
+    "params": {
+      "R": "3",
+      "a": "9/4",
+      "b": "7/5"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (\\dfrac{3}{2}+\\dfrac{1}{5}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\dfrac{\\sqrt{229}}{10}$.\nB. $r = \\dfrac{\\sqrt{229}}{5}$.\nC. $r = \\dfrac{229}{50}$.\nD. $r = \\dfrac{229}{25}$.",
+    "dap_an": "B. $r = \\dfrac{\\sqrt{229}}{5}$.",
+    "loi_giai": "Ta có $w=(\\dfrac{3}{2}+\\dfrac{1}{5}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{\\dfrac{3}{2}+\\dfrac{1}{5}i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|\\dfrac{3}{2}+\\dfrac{1}{5}i| = \\dfrac{\\sqrt{229}}{5}$.",
+    "params": {
+      "R": "2",
+      "a": "3/2",
+      "b": "1/5"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 1$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (- \\dfrac{1}{4}-\\dfrac{1}{2}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\dfrac{\\sqrt{5}}{4} + 1$.\nB. $r = \\dfrac{\\sqrt{5}}{4}$.\nC. $r = \\dfrac{5}{16}$.\nD. $r = \\dfrac{21}{16}$.",
+    "dap_an": "B. $r = \\dfrac{\\sqrt{5}}{4}$.",
+    "loi_giai": "Ta có $w=(- \\dfrac{1}{4}-\\dfrac{1}{2}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{- \\dfrac{1}{4}-\\dfrac{1}{2}i}$. Do $|z|=1$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 1\\cdot|- \\dfrac{1}{4}-\\dfrac{1}{2}i| = \\dfrac{\\sqrt{5}}{4}$.",
+    "params": {
+      "R": "1",
+      "a": "-1/4",
+      "b": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 3$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (- \\dfrac{3}{2}-\\dfrac{11}{4}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\dfrac{\\sqrt{157}}{4}$.\nB. $r = \\dfrac{3 \\sqrt{157}}{4}$.\nC. $r = \\dfrac{471}{16}$.\nD. $r = \\dfrac{1413}{16}$.",
+    "dap_an": "B. $r = \\dfrac{3 \\sqrt{157}}{4}$.",
+    "loi_giai": "Ta có $w=(- \\dfrac{3}{2}-\\dfrac{11}{4}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{- \\dfrac{3}{2}-\\dfrac{11}{4}i}$. Do $|z|=3$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 3\\cdot|- \\dfrac{3}{2}-\\dfrac{11}{4}i| = \\dfrac{3 \\sqrt{157}}{4}$.",
+    "params": {
+      "R": "3",
+      "a": "-3/2",
+      "b": "-11/4"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (\\dfrac{6}{5}+\\dfrac{9}{4}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\dfrac{51}{20}$.\nB. $r = \\dfrac{51}{10}$.\nC. $r = \\dfrac{2601}{200}$.\nD. $r = \\dfrac{2601}{100}$.",
+    "dap_an": "B. $r = \\dfrac{51}{10}$.",
+    "loi_giai": "Ta có $w=(\\dfrac{6}{5}+\\dfrac{9}{4}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{\\dfrac{6}{5}+\\dfrac{9}{4}i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|\\dfrac{6}{5}+\\dfrac{9}{4}i| = \\dfrac{51}{10}$.",
+    "params": {
+      "R": "2",
+      "a": "6/5",
+      "b": "9/4"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 4$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (\\dfrac{11}{3}+\\dfrac{9}{5}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\dfrac{\\sqrt{3754}}{15}$.\nB. $r = \\dfrac{4 \\sqrt{3754}}{15}$.\nC. $r = \\dfrac{15016}{225}$.\nD. $r = \\dfrac{60064}{225}$.",
+    "dap_an": "B. $r = \\dfrac{4 \\sqrt{3754}}{15}$.",
+    "loi_giai": "Ta có $w=(\\dfrac{11}{3}+\\dfrac{9}{5}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{\\dfrac{11}{3}+\\dfrac{9}{5}i}$. Do $|z|=4$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 4\\cdot|\\dfrac{11}{3}+\\dfrac{9}{5}i| = \\dfrac{4 \\sqrt{3754}}{15}$.",
+    "params": {
+      "R": "4",
+      "a": "11/3",
+      "b": "9/5"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 1$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (4-3 \\sqrt{5}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = 1 + \\sqrt{61}$.\nB. $r = \\sqrt{61}$.\nC. $r = 61$.\nD. $r = 62$.",
+    "dap_an": "B. $r = \\sqrt{61}$.",
+    "loi_giai": "Ta có $w=(4-3 \\sqrt{5}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{4-3 \\sqrt{5}i}$. Do $|z|=1$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 1\\cdot|4-3 \\sqrt{5}i| = \\sqrt{61}$.",
+    "params": {
+      "R": "1",
+      "a": "4",
+      "b": "-3*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 4$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (- \\sqrt{6}+3 \\sqrt{11}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{105}$.\nB. $r = 4 \\sqrt{105}$.\nC. $r = 420$.\nD. $r = 1680$.",
+    "dap_an": "B. $r = 4 \\sqrt{105}$.",
+    "loi_giai": "Ta có $w=(- \\sqrt{6}+3 \\sqrt{11}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{- \\sqrt{6}+3 \\sqrt{11}i}$. Do $|z|=4$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 4\\cdot|- \\sqrt{6}+3 \\sqrt{11}i| = 4 \\sqrt{105}$.",
+    "params": {
+      "R": "4",
+      "a": "-sqrt(6)",
+      "b": "3*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (-8+3 \\sqrt{6}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{118}$.\nB. $r = 2 \\sqrt{118}$.\nC. $r = 236$.\nD. $r = 472$.",
+    "dap_an": "B. $r = 2 \\sqrt{118}$.",
+    "loi_giai": "Ta có $w=(-8+3 \\sqrt{6}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{-8+3 \\sqrt{6}i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|-8+3 \\sqrt{6}i| = 2 \\sqrt{118}$.",
+    "params": {
+      "R": "2",
+      "a": "-8",
+      "b": "3*sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (- 2 \\sqrt{2}+5i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = \\sqrt{33}$.\nB. $r = 2 \\sqrt{33}$.\nC. $r = 66$.\nD. $r = 132$.",
+    "dap_an": "B. $r = 2 \\sqrt{33}$.",
+    "loi_giai": "Ta có $w=(- 2 \\sqrt{2}+5i)z+i \\Leftrightarrow z=\\dfrac{w-i}{- 2 \\sqrt{2}+5i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|- 2 \\sqrt{2}+5i| = 2 \\sqrt{33}$.",
+    "params": {
+      "R": "2",
+      "a": "-2*sqrt(2)",
+      "b": "5"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 2$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (-6-4 \\sqrt{10}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = 14$.\nB. $r = 28$.\nC. $r = 392$.\nD. $r = 784$.",
+    "dap_an": "B. $r = 28$.",
+    "loi_giai": "Ta có $w=(-6-4 \\sqrt{10}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{-6-4 \\sqrt{10}i}$. Do $|z|=2$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 2\\cdot|-6-4 \\sqrt{10}i| = 28$.",
+    "params": {
+      "R": "2",
+      "a": "-6",
+      "b": "-4*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 4,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt4",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z$ thỏa mãn $|z| = 1$. Biết rằng tập hợp các điểm biểu diễn các số phức $w = (4 \\sqrt{10}+2 \\sqrt{2}i)z+i$ là một đường tròn. Tính bán kính $r$ của đường tròn đó.\n\nA. $r = 1 + 2 \\sqrt{42}$.\nB. $r = 2 \\sqrt{42}$.\nC. $r = 168$.\nD. $r = 169$.",
+    "dap_an": "B. $r = 2 \\sqrt{42}$.",
+    "loi_giai": "Ta có $w=(4 \\sqrt{10}+2 \\sqrt{2}i)z+i \\Leftrightarrow z=\\dfrac{w-i}{4 \\sqrt{10}+2 \\sqrt{2}i}$. Do $|z|=1$ nên tập hợp điểm biểu diễn $w$ là đường tròn bán kính $r = 1\\cdot|4 \\sqrt{10}+2 \\sqrt{2}i| = 2 \\sqrt{42}$.",
+    "params": {
+      "R": "1",
+      "a": "4*sqrt(10)",
+      "b": "2*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=5$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{-2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{9}{8}$.\nB. $\\dfrac{125}{576}$.\nC. $\\dfrac{5 \\sqrt{5}}{12}$.\nD. $\\dfrac{5 \\sqrt{5}}{24}$.",
+    "dap_an": "D. $\\dfrac{5 \\sqrt{5}}{24}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{-2+iz}{1+z}$ suy ra $z=\\dfrac{w+2}{i-w}$, lấy môđun và thay $|z|=5$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{5 \\sqrt{5}}{24}$.",
+    "params": {
+      "r": "5",
+      "p": "-2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=2$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{-2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $2$.\nB. $\\dfrac{20}{9}$.\nC. $\\dfrac{4 \\sqrt{5}}{3}$.\nD. $\\dfrac{2 \\sqrt{5}}{3}$.",
+    "dap_an": "D. $\\dfrac{2 \\sqrt{5}}{3}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{-2+iz}{1+z}$ suy ra $z=\\dfrac{w+2}{i-w}$, lấy môđun và thay $|z|=2$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{2 \\sqrt{5}}{3}$.",
+    "params": {
+      "r": "2",
+      "p": "-2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=5$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{9}{8}$.\nB. $\\dfrac{125}{576}$.\nC. $\\dfrac{5 \\sqrt{5}}{12}$.\nD. $\\dfrac{5 \\sqrt{5}}{24}$.",
+    "dap_an": "D. $\\dfrac{5 \\sqrt{5}}{24}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{2+iz}{1+z}$ suy ra $z=\\dfrac{w-2}{i-w}$, lấy môđun và thay $|z|=5$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{5 \\sqrt{5}}{24}$.",
+    "params": {
+      "r": "5",
+      "p": "2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=3$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{1+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{5}{4}$.\nB. $\\dfrac{9}{32}$.\nC. $\\dfrac{3 \\sqrt{2}}{4}$.\nD. $\\dfrac{3 \\sqrt{2}}{8}$.",
+    "dap_an": "D. $\\dfrac{3 \\sqrt{2}}{8}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{1+iz}{1+z}$ suy ra $z=\\dfrac{w-1}{i-w}$, lấy môđun và thay $|z|=3$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{3 \\sqrt{2}}{8}$.",
+    "params": {
+      "r": "3",
+      "p": "1"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=3$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{3+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{3}{2}$.\nB. $\\dfrac{45}{32}$.\nC. $\\dfrac{3 \\sqrt{10}}{4}$.\nD. $\\dfrac{3 \\sqrt{10}}{8}$.",
+    "dap_an": "D. $\\dfrac{3 \\sqrt{10}}{8}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{3+iz}{1+z}$ suy ra $z=\\dfrac{w-3}{i-w}$, lấy môđun và thay $|z|=3$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{3 \\sqrt{10}}{8}$.",
+    "params": {
+      "r": "3",
+      "p": "3"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=3$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{1+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{5}{4}$.\nB. $\\dfrac{9}{32}$.\nC. $\\dfrac{3 \\sqrt{2}}{4}$.\nD. $\\dfrac{3 \\sqrt{2}}{8}$.",
+    "dap_an": "D. $\\dfrac{3 \\sqrt{2}}{8}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{1+iz}{1+z}$ suy ra $z=\\dfrac{w-1}{i-w}$, lấy môđun và thay $|z|=3$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{3 \\sqrt{2}}{8}$.",
+    "params": {
+      "r": "3",
+      "p": "1"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\dfrac{5}{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{43}{16}$.\nB. $\\dfrac{1125}{256}$.\nC. $\\dfrac{15 \\sqrt{5}}{8}$.\nD. $\\dfrac{15 \\sqrt{5}}{16}$.",
+    "dap_an": "D. $\\dfrac{15 \\sqrt{5}}{16}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{2+iz}{1+z}$ suy ra $z=\\dfrac{w-2}{i-w}$, lấy môđun và thay $|z|=\\dfrac{5}{3}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{15 \\sqrt{5}}{16}$.",
+    "params": {
+      "r": "5/3",
+      "p": "2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\dfrac{5}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{-2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{11}{7}$.\nB. $\\dfrac{500}{441}$.\nC. $\\dfrac{20 \\sqrt{5}}{21}$.\nD. $\\dfrac{10 \\sqrt{5}}{21}$.",
+    "dap_an": "D. $\\dfrac{10 \\sqrt{5}}{21}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{-2+iz}{1+z}$ suy ra $z=\\dfrac{w+2}{i-w}$, lấy môđun và thay $|z|=\\dfrac{5}{2}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{10 \\sqrt{5}}{21}$.",
+    "params": {
+      "r": "5/2",
+      "p": "-2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\dfrac{5}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{1+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{29}{21}$.\nB. $\\dfrac{200}{441}$.\nC. $\\dfrac{20 \\sqrt{2}}{21}$.\nD. $\\dfrac{10 \\sqrt{2}}{21}$.",
+    "dap_an": "D. $\\dfrac{10 \\sqrt{2}}{21}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{1+iz}{1+z}$ suy ra $z=\\dfrac{w-1}{i-w}$, lấy môđun và thay $|z|=\\dfrac{5}{2}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{10 \\sqrt{2}}{21}$.",
+    "params": {
+      "r": "5/2",
+      "p": "1"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\dfrac{5}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{11}{7}$.\nB. $\\dfrac{500}{441}$.\nC. $\\dfrac{20 \\sqrt{5}}{21}$.\nD. $\\dfrac{10 \\sqrt{5}}{21}$.",
+    "dap_an": "D. $\\dfrac{10 \\sqrt{5}}{21}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{2+iz}{1+z}$ suy ra $z=\\dfrac{w-2}{i-w}$, lấy môđun và thay $|z|=\\dfrac{5}{2}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{10 \\sqrt{5}}{21}$.",
+    "params": {
+      "r": "5/2",
+      "p": "2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\dfrac{9}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{-2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{89}{77}$.\nB. $\\dfrac{1620}{5929}$.\nC. $\\dfrac{36 \\sqrt{5}}{77}$.\nD. $\\dfrac{18 \\sqrt{5}}{77}$.",
+    "dap_an": "D. $\\dfrac{18 \\sqrt{5}}{77}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{-2+iz}{1+z}$ suy ra $z=\\dfrac{w+2}{i-w}$, lấy môđun và thay $|z|=\\dfrac{9}{2}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{18 \\sqrt{5}}{77}$.",
+    "params": {
+      "r": "9/2",
+      "p": "-2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\dfrac{5}{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{11}{7}$.\nB. $\\dfrac{500}{441}$.\nC. $\\dfrac{20 \\sqrt{5}}{21}$.\nD. $\\dfrac{10 \\sqrt{5}}{21}$.",
+    "dap_an": "D. $\\dfrac{10 \\sqrt{5}}{21}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{2+iz}{1+z}$ suy ra $z=\\dfrac{w-2}{i-w}$, lấy môđun và thay $|z|=\\dfrac{5}{2}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{10 \\sqrt{5}}{21}$.",
+    "params": {
+      "r": "5/2",
+      "p": "2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\sqrt{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{2+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $4$.\nB. $10$.\nC. $2 \\sqrt{10}$.\nD. $\\sqrt{10}$.",
+    "dap_an": "D. $\\sqrt{10}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{2+iz}{1+z}$ suy ra $z=\\dfrac{w-2}{i-w}$, lấy môđun và thay $|z|=\\sqrt{2}$, biến đổi được phương trình đường tròn với bán kính $R=\\sqrt{10}$.",
+    "params": {
+      "r": "sqrt(2)",
+      "p": "2"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\sqrt{7}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{-1+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{4}{3}$.\nB. $\\dfrac{7}{18}$.\nC. $\\dfrac{\\sqrt{14}}{3}$.\nD. $\\dfrac{\\sqrt{14}}{6}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{14}}{6}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{-1+iz}{1+z}$ suy ra $z=\\dfrac{w+1}{i-w}$, lấy môđun và thay $|z|=\\sqrt{7}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{\\sqrt{14}}{6}$.",
+    "params": {
+      "r": "sqrt(7)",
+      "p": "-1"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\sqrt{7}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{3+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $\\dfrac{5}{3}$.\nB. $\\dfrac{35}{18}$.\nC. $\\dfrac{\\sqrt{70}}{3}$.\nD. $\\dfrac{\\sqrt{70}}{6}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{70}}{6}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{3+iz}{1+z}$ suy ra $z=\\dfrac{w-3}{i-w}$, lấy môđun và thay $|z|=\\sqrt{7}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{\\sqrt{70}}{6}$.",
+    "params": {
+      "r": "sqrt(7)",
+      "p": "3"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\sqrt{5}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{3+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $2$.\nB. $\\dfrac{25}{8}$.\nC. $\\dfrac{5 \\sqrt{2}}{2}$.\nD. $\\dfrac{5 \\sqrt{2}}{4}$.",
+    "dap_an": "D. $\\dfrac{5 \\sqrt{2}}{4}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{3+iz}{1+z}$ suy ra $z=\\dfrac{w-3}{i-w}$, lấy môđun và thay $|z|=\\sqrt{5}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{5 \\sqrt{2}}{4}$.",
+    "params": {
+      "r": "sqrt(5)",
+      "p": "3"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\sqrt{3}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{3+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $3$.\nB. $\\dfrac{15}{2}$.\nC. $\\sqrt{30}$.\nD. $\\dfrac{\\sqrt{30}}{2}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{30}}{2}$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{3+iz}{1+z}$ suy ra $z=\\dfrac{w-3}{i-w}$, lấy môđun và thay $|z|=\\sqrt{3}$, biến đổi được phương trình đường tròn với bán kính $R=\\dfrac{\\sqrt{30}}{2}$.",
+    "params": {
+      "r": "sqrt(3)",
+      "p": "3"
+    }
+  },
+  {
+    "stt_goc": 46,
+    "dang": "Dạng 5 - Tập hợp điểm biểu diễn (quỹ tích)",
+    "mau_ta": "mau_stt46",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Xét số phức $z$ thỏa mãn $|z|=\\sqrt{2}$. Trên mặt phẳng tọa độ $Oxy$, tập hợp điểm biểu diễn các số phức $w=\\dfrac{-1+iz}{1+z}$ là một đường tròn có bán kính bằng\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $2$.",
+    "dap_an": "D. $2$.",
+    "loi_giai": "Đặt $w=X+Yi$. Từ $w=\\dfrac{-1+iz}{1+z}$ suy ra $z=\\dfrac{w+1}{i-w}$, lấy môđun và thay $|z|=\\sqrt{2}$, biến đổi được phương trình đường tròn với bán kính $R=2$.",
+    "params": {
+      "r": "sqrt(2)",
+      "p": "-1"
+    }
+  }
+]

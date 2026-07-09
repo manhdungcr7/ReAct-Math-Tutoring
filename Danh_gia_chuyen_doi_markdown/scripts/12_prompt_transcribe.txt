@@ -1,0 +1,44 @@
+PROMPT DÙNG ĐỂ CHUYỂN ĐỔI (TRANSCRIBE) ĐỀ BÀI/LỜI GIẢI TỪ ẢNH TRANG PDF
+SANG MARKDOWN/LATEX (dùng cho cả 66 câu số phức và 41 câu chủ đề khác)
+================================================================================
+
+Công cụ thực hiện: mô hình Claude (Anthropic) — khả năng đọc ảnh (vision) trực
+tiếp từ trang PDF đã được render thành PNG (dùng PyMuPDF, script 02_render_pages.py),
+KHÔNG dùng phần mềm OCR/convert tự động (Mathpix, pandoc...).
+
+--------------------------------------------------------------------------------
+PROMPT (nguyên văn, áp dụng cho từng cặp "trang - số câu"):
+--------------------------------------------------------------------------------
+
+Đọc ảnh trang PDF đã cho (đường dẫn ảnh cụ thể). Mỗi trang có nhiều câu hỏi
+("Câu N:") kèm 4 phương án A/B/C/D, tiếp theo là "Lời giải" và kết thúc bằng
+"Chọn đáp án X" (chữ khoanh tròn trong ảnh).
+
+Với câu hỏi số [N] trên trang [P], transcribe thành 1 object JSON gồm:
+
+- "trang": số trang (int)
+- "cau": số câu (int)
+- "de_bai": TOÀN BỘ đề bài kèm 4 phương án A/B/C/D, viết dưới dạng Markdown,
+  công thức toán đặt trong dấu $...$. Giữ mỗi phương án trên 1 dòng, không
+  xuống dòng quá nhiều lần bên trong 1 biểu thức (vd dấu ngoặc vuông, phân số).
+- "dap_an": đáp án đúng, dạng "X. <nội dung phương án X>" — lấy từ dòng
+  "Chọn đáp án X" trong lời giải rồi khớp với nội dung phương án X tương ứng.
+- "loi_giai": TOÀN BỘ lời giải gốc trong tài liệu, transcribe trung thực,
+  KHÔNG diễn giải lại, KHÔNG tự sửa nội dung dù thấy có vẻ sai.
+
+Yêu cầu bắt buộc:
+1. Transcribe đúng y hệt những gì thấy trong ảnh — đây là nguồn xác thực duy
+   nhất, không suy diễn hay "sửa hộ" công thức trông lạ.
+2. Nếu lời giải bị cắt sang trang sau mà không có ảnh trang đó, ghi chú rõ
+   lời giải bị cắt ở cuối, không tự bịa đoạn kết luận.
+3. Giữ nguyên cấu trúc phân số, căn thức, chỉ số dưới bằng LaTeX chuẩn.
+
+--------------------------------------------------------------------------------
+GHI CHÚ MINH BẠCH:
+--------------------------------------------------------------------------------
+Prompt này được thực thi bằng cách giao việc trực tiếp cho Claude (qua cơ chế
+Agent/Task của Claude Code) kèm đường dẫn ảnh cụ thể trong mỗi lần gọi — không
+gọi qua script Python độc lập như solve_with_models.py, vì bước này cần khả
+năng đọc ảnh (vision) mà không thông qua API text-only. Đây là lý do nhóm cần
+kiểm chứng lại (bảng đánh giá 2 người: Nhận xét A, Nhận xét B) chứ không mặc
+định tin tưởng 100% kết quả.

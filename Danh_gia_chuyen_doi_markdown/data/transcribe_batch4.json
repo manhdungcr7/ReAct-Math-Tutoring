@@ -1,0 +1,93 @@
+[
+  {
+    "trang": 5,
+    "cau": 11,
+    "de_bai": "Tìm tất cả các giá trị thực của tham số $m$ sao cho hàm số $y = \\dfrac{\\tan x - 2}{\\tan x - m}$ đồng biến trên khoảng $\\left(0; \\dfrac{\\pi}{4}\\right)$.\nA. $m \\le 0$ hoặc $1 \\le m < 2$.\nB. $m \\le 0$.\nC. $1 \\le m < 2$.\nD. $m \\ge 2$.",
+    "dap_an": "A. m ≤ 0 hoặc 1 ≤ m < 2.",
+    "loi_giai": "Đặt $t = \\tan x$, khi đó $t \\in (0;1)$.\nTa được hàm số $y = \\dfrac{t-2}{t-m}$ với $0 < t < 1$.\nKhi đó $y' = \\dfrac{(2-m)}{(t-m)^2}$.\nHàm số đồng biến trên $(0;1)$ thì $\\begin{cases} y' > 0 \\\\ m \\notin (0;1) \\end{cases} \\Leftrightarrow \\begin{cases} m < 2 \\\\ m \\notin (0;1) \\end{cases} \\Leftrightarrow \\begin{bmatrix} 1 \\le m < 2 \\\\ m \\le 0. \\end{bmatrix}$"
+  },
+  {
+    "trang": 9,
+    "cau": 25,
+    "de_bai": "Tích phân $I = \\displaystyle\\int_{0}^{\\pi} \\cos^3 x \\cdot \\sin x \\, \\mathrm{d}x$.\nA. $I = -\\dfrac{1}{4}\\pi^4$.\nB. $I = -\\pi^4$.\nC. $I = 0$.\nD. $I = -\\dfrac{1}{4}$.",
+    "dap_an": "C. I = 0.",
+    "loi_giai": "Đặt $u = \\cos x \\Rightarrow \\mathrm{d}u = -\\sin x\\,\\mathrm{d}x \\Rightarrow \\sin x\\,\\mathrm{d}x = -\\mathrm{d}u$.\n• Đổi cận: $x=0 \\Rightarrow u=1$; $x=\\pi \\Rightarrow u=-1$.\n• Nên $I = \\displaystyle\\int_{1}^{-1} u^3 \\cdot (-\\mathrm{d}u) = \\int_{-1}^{1} u^3\\,\\mathrm{d}u = \\dfrac{1}{4}u^4\\Big|_{-1}^{1} = 0$."
+  },
+  {
+    "trang": 14,
+    "cau": 44,
+    "de_bai": "Trong không gian với hệ tọa độ $Oxyz$, cho mặt cầu $(S): (x+1)^2+(y-2)^2+(z-1)^2 = 9$. Tìm tọa độ tâm $I$ và bán kính $R$ của $(S)$.\nA. $I(-1;2;1)$ và $R = 3$.\nB. $I(1;-2;-1)$ và $R = 3$.\nC. $I(-1;2;1)$ và $R = 9$.\nD. $I(1;-2;-1)$ và $R = 9$.",
+    "dap_an": "A. I(-1;2;1) và R = 3.",
+    "loi_giai": "Dựa vào dạng tổng quát của phương trình mặt cầu $(x-a)^2+(y-b)^2+(z-c)^2 = R^2$."
+  },
+  {
+    "trang": 47,
+    "cau": 4,
+    "de_bai": "Thể tích của khối chóp có chiều cao bằng $h$ và diện tích đáy bằng $B$ là\nA. $V = \\dfrac{1}{3}Bh$.\nB. $V = \\dfrac{1}{6}Bh$.\nC. $V = Bh$.\nD. $V = \\dfrac{1}{2}Bh$.",
+    "dap_an": "A. V = 1/3 Bh.",
+    "loi_giai": "Dựa vào công thức tính thể tích khối chóp ta có $V = \\dfrac{1}{3}Bh$."
+  },
+  {
+    "trang": 50,
+    "cau": 16,
+    "de_bai": "Đồ thị của hàm số nào dưới đây có tiệm cận đứng?\nA. $y = \\dfrac{x^2-3x+2}{x-1}$.\nB. $y = \\dfrac{x^2}{x^2+1}$.\nC. $y = \\sqrt{x^2-1}$.\nD. $y = \\dfrac{x}{x+1}$.",
+    "dap_an": "D. y = x/(x+1).",
+    "loi_giai": "• Hàm số $y = \\dfrac{x}{x+1}$ có tiệm cận đứng $x=-1$ vì $\\lim\\limits_{x\\to -1^{+}} \\dfrac{x}{x+1} = -\\infty$; $\\lim\\limits_{x\\to -1^{-}} \\dfrac{x}{x+1} = +\\infty$.\n• Hàm số $y = \\dfrac{x^2-3x+2}{x-1}$ xác định trên $\\mathscr{D} = (-\\infty;1)\\cup(1;+\\infty)$, nhưng không có tiệm cận đứng vì $\\lim\\limits_{x\\to 1} \\dfrac{x^2-3x+2}{x-1} = \\lim\\limits_{x\\to 1}(x-2) = -1$.\n• Hàm số $y = \\dfrac{x^2}{x^2+1}$ xác định và liên tục trên $\\mathbb{R}$ nên không có tiệm cận.\n• Hàm số $y = \\sqrt{x^2-1}$ xác định trên $\\mathscr{D} = (-\\infty;-1]\\cup[1;+\\infty)$ và\n$$\\lim_{x\\to -1^{-}} \\sqrt{x^2-1} = \\lim_{x\\to 1^{+}} \\sqrt{x^2-1} = 0$$\nnên không có tiệm cận."
+  },
+  {
+    "trang": 60,
+    "cau": 44,
+    "de_bai": "Trong không gian $Oxyz$, cho hai điểm $A(2,2,1)$, $B\\left(-\\dfrac{8}{3},\\dfrac{4}{3},\\dfrac{8}{3}\\right)$. Đường thẳng đi qua tâm đường tròn nội tiếp tam giác $OAB$ và vuông góc với mặt phẳng $(OAB)$ có phương trình là\nA. $\\dfrac{x+1}{1} = \\dfrac{y-3}{-2} = \\dfrac{z+1}{2}$.\nB. $\\dfrac{x+1}{1} = \\dfrac{y-8}{-2} = \\dfrac{z-4}{2}$.\nC. $\\dfrac{x+\\frac{1}{3}}{1} = \\dfrac{y-\\frac{5}{3}}{-2} = \\dfrac{z-\\frac{11}{6}}{2}$.\nD. $\\dfrac{x+\\frac{2}{9}}{1} = \\dfrac{y-\\frac{2}{9}}{-2} = \\dfrac{z-\\frac{5}{9}}{2}$.",
+    "dap_an": "A. (x+1)/1 = (y-3)/(-2) = (z+1)/2.",
+    "loi_giai": "Ta có $OA = 3, OB = 4, AB = 5$ suy ra tam giác $OAB$ vuông tại $O$. Gọi $I$ là tâm đường tròn nội tiếp tam giác $OAB$. Khi đó ta có\n$$OB.\\vec{IA} + OA.\\vec{IB} + AB.\\vec{IO} = \\vec{0}.$$\nSuy ra\n$$\\begin{cases} x_I = \\dfrac{OB.x_A + BA.x_O + AO.x_B}{OA+OB+AB} = 0 \\\\ y_I = \\dfrac{OB.y_A + BA.y_O + AO.y_B}{OA+OB+AB} = 1 \\\\ z_I = \\dfrac{OB.z_A + BA.z_O + AO.z_B}{OA+OB+AB} = 1. \\end{cases}$$\nDo đó $I(0,1,1)$. Lại có $[\\vec{OA},\\vec{OB}] = 4(1,-2,2)$ là một vectơ chỉ phương của đường thẳng cần tìm. Thay tọa độ $I$ vào phương án A thấy thỏa mãn."
+  },
+  {
+    "trang": 71,
+    "cau": 33,
+    "de_bai": "Họ nguyên hàm của hàm số $f(x) = 4x(1+\\ln x)$ là\nA. $2x^2\\ln x + 3x^2$.\nB. $2x^2\\ln x + x^2$.\nC. $2x^2\\ln x + 3x^2 + C$.\nD. $2x^2\\ln x + x^2 + C$.",
+    "dap_an": "D. 2x^2 ln x + x^2 + C.",
+    "loi_giai": "$\\displaystyle\\int 4x(1+\\ln x)\\,\\mathrm{d}x = \\int (1+\\ln x)\\,\\mathrm{d}(2x^2) = 2x^2(1+\\ln x) - \\int 2x^2\\dfrac{1}{x}\\,\\mathrm{d}x = 2x^2(1+\\ln x) - x^2 + C = 2x^2\\ln x + x^2 + C$"
+  },
+  {
+    "trang": 94,
+    "cau": 7,
+    "de_bai": "Cho khối chóp có diện tích đáy $B = 3$ và chiều cao $h = 4$. Thể tích của khối chóp đã cho bằng\nA. 6.\nB. 12.\nC. 36.\nD. 4.",
+    "dap_an": "D. 4.",
+    "loi_giai": "Ta có công thức thể tích của khối chóp $V = \\dfrac{1}{3}\\cdot B \\cdot h = \\dfrac{1}{3}\\cdot 3\\cdot 4 = 4$."
+  },
+  {
+    "trang": 112,
+    "cau": 30,
+    "de_bai": "Hàm số nào dưới đây nghịch biến trên $\\mathbb{R}$?\nA. $y = -x^3 - x$.\nB. $y = -x^4 - x^2$.\nC. $y = -x^3 + x$.\nD. $y = \\dfrac{x+2}{x-1}$.",
+    "dap_an": "A. y = -x^3 - x.",
+    "loi_giai": "Ta thấy hàm số $y=-x^3-x$ có\n• Tập xác định $\\mathscr{D} = \\mathbb{R}$.\n• $y' = -3x^2 - 1 < 0, \\forall x \\in \\mathbb{R}$.\nVậy hàm số $y = -x^3 - x$ nghịch biến trên $\\mathbb{R}$."
+  },
+  {
+    "trang": 156,
+    "cau": 21,
+    "de_bai": "Trong không gian $Oxyz$, mặt phẳng đi qua điểm $A(1;2;-2)$ và vuông góc với đường thẳng $\\Delta: \\dfrac{x+1}{2} = \\dfrac{y-2}{1} = \\dfrac{z+3}{3}$ có phương trình là\nA. $3x + 2y + z - 5 = 0$.\nB. $2x + y + 3z + 2 = 0$.\nC. $x + 2y + 3z + 1 = 0$.\nD. $2x + y + 3z - 2 = 0$.",
+    "dap_an": "B. 2x + y + 3z + 2 = 0.",
+    "loi_giai": "Một véc-tơ chỉ phương của đường thẳng $\\Delta$ là $\\vec{u} = (2;1;3)$.\nVì mặt phẳng cần tìm vuông góc với đường thẳng $\\Delta$ nên có véc-tơ pháp tuyến là $\\vec{n} = \\vec{u} = (2;1;3)$.\nPhương trình mặt phẳng cần tìm là $2(x-1) + 1(y-2) + 3(z+2) = 0 \\Leftrightarrow 2x + y + 3z + 2 = 0$."
+  },
+  {
+    "trang": 159,
+    "cau": 30,
+    "de_bai": "Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số $y = \\dfrac{x+6}{x+5m}$ nghịch biến trên khoảng $(10;+\\infty)$?\nA. 3.\nB. Vô số.\nC. 4.\nD. 5.",
+    "dap_an": "C. 4.",
+    "loi_giai": "Tập xác định $\\mathscr{D} = \\mathbb{R}\\setminus\\{-5m\\}$.\nTa có $y' = \\dfrac{5m-6}{(x+5m)^2}$.\nHàm số nghịch biến trên $(10;+\\infty)$ khi chỉ khi $\\begin{cases} y' < 0,\\ \\forall x \\in \\mathscr{D} \\\\ -5m \\notin (10;+\\infty) \\end{cases} \\Leftrightarrow \\begin{cases} 5m - 6 < 0 \\\\ -5m \\le 10 \\end{cases} \\Leftrightarrow \\begin{cases} m < \\dfrac{6}{5} \\\\ m \\ge -2. \\end{cases}$\nVì $m \\in \\mathbb{Z}$ nên $m \\in \\{-2;-1;0;1\\}$."
+  },
+  {
+    "trang": 166,
+    "cau": 46,
+    "de_bai": "Cho khối lăng trụ $ABC.A'B'C'$, khoảng cách từ điểm $C$ đến đường thẳng $BB'$ bằng $\\sqrt{5}$, khoảng cách từ $A$ đến các đường thẳng $BB'$ và $CC'$ lần lượt bằng $1$ và $2$, hình chiếu vuông góc của $A$ lên mặt phẳng $(A'B'C')$ là trung điểm $M$ của $B'C'$ và $A'M = \\dfrac{\\sqrt{15}}{3}$. Thể tích của khối lăng trụ đã cho bằng\nA. $\\dfrac{\\sqrt{15}}{3}$.\nB. $\\dfrac{2\\sqrt{5}}{3}$.\nC. $\\sqrt{5}$.\nD. $\\dfrac{2\\sqrt{15}}{3}$.",
+    "dap_an": "D. 2√15/3.",
+    "loi_giai": "Kẻ $AI \\perp BB'$, $AK \\perp CC'$. Khoảng cách từ $A$ đến $BB', CC'$ lần lượt là $1; 2$ nên $AI=1, AK=2$.\nGọi $F$ là trung điểm của $BC$.\nVì $A'M = \\dfrac{\\sqrt{15}}{3} \\Rightarrow AF = \\dfrac{\\sqrt{15}}{3}$.\nTa có $\\begin{cases} AI \\perp BB' \\\\ BB' \\perp AK \\end{cases} \\Rightarrow BB' \\perp (AIK) \\Rightarrow BB' \\perp IK$.\nVì $CC' \\parallel BB'$ nên\n$$\\mathrm{d}(C,BB') = \\mathrm{d}(K,BB') = IK = \\sqrt{5}$$\n$\\Rightarrow \\triangle AIK$ vuông tại $A$.\nGọi $E$ là trung điểm của $IK \\Rightarrow EF \\parallel BB' \\Rightarrow EF \\perp (AIK) \\Rightarrow EF \\perp AE$.\nMà $AM \\perp (ABC)$ nên $\\left((ABC),(AIK)\\right) = \\left(\\widehat{EF,AM}\\right) = \\widehat{AME} = \\widehat{FAE}$ ($\\vec{EF}, \\vec{AM}$ là véc-tơ pháp tuyến của của $(AKI), (ABC)$).\nTa có $\\cos\\widehat{FAE} = \\dfrac{AE}{AF} = \\dfrac{\\frac{\\sqrt{5}}{2}}{\\frac{\\sqrt{15}}{3}} = \\dfrac{\\sqrt{3}}{2} \\Rightarrow \\widehat{FAE}=30°$ ($AE$ là đường trung tuyến của tam giác $AKI$ vuông tại $A$).\nHình chiếu vuông góc của tam giác $ABC$ lên mặt phẳng $(AIK)$ là tam giác $AIK$ nên\n$$S_{\\triangle AIK} = S_{\\triangle ABC}\\cdot \\cos\\widehat{EAF} \\Rightarrow S_{\\triangle ABC} = \\dfrac{S_{\\triangle AIK}}{\\cos\\widehat{EAF}} = \\dfrac{2}{\\sqrt3}.$$\nXét tam giác $AMF$ vuông tại $A$, ta có $\\tan\\widehat{AMF} = \\dfrac{AF}{AM} \\Rightarrow AM = \\dfrac{AF}{\\tan\\widehat{AMF}} = \\sqrt5$.\nVậy $V_{ABC.A'B'C'} = \\sqrt5\\cdot\\dfrac{2}{\\sqrt3} = \\dfrac{2\\sqrt{15}}{3}$."
+  },
+  {
+    "trang": 172,
+    "cau": 8,
+    "de_bai": "Biết tích phân $\\displaystyle\\int_{0}^{1} f(x)\\,\\mathrm{d}x = 3$ và $\\displaystyle\\int_{0}^{1} g(x)\\,\\mathrm{d}x = -4$. Khi đó $\\displaystyle\\int_{0}^{1} [f(x)+g(x)]\\,\\mathrm{d}x$ bằng\nA. $-7$.\nB. $7$.\nC. $-1$.\nD. $1$.",
+    "dap_an": "C. -1.",
+    "loi_giai": "Ta có $\\displaystyle\\int_{0}^{1} [f(x)+g(x)]\\,\\mathrm{d}x = \\int_{0}^{1} f(x)\\,\\mathrm{d}x + \\int_{0}^{1} g(x)\\,\\mathrm{d}x = 3 + (-4) = -1$."
+  }
+]

@@ -1,0 +1,53 @@
+--- STT 1 | SP-01 (Trang 10 - Câu 29) | Số phức ---
+De bai:
+Cho số phức $z = 3-2i$. Tìm phần thực và phần ảo của số phức $\overline{z}$.
+
+A. Phần thực bằng $-3$ và phần ảo bằng $-2i$.
+B. Phần thực bằng $-3$ và phần ảo bằng $-2$.
+C. Phần thực bằng $3$ và phần ảo bằng $2i$.
+D. Phần thực bằng $3$ và phần ảo bằng $2$.
+Dap an: D. Phần thực bằng 3 và phần ảo bằng 2.
+Loi giai (cuoi):
+Từ $z = 3-2i$ suy ra $\overline{z} = 3+2i$. Nên phần thực của $\overline{z}$ bằng $3$ và phần ảo của $\overline{z}$ bằng $2$.
+
+--- STT 68 | KT-02 (Trang 8 - Câu 23) | Tích phân - Nguyên hàm ---
+De bai:
+**Câu 23:** Tìm nguyên hàm của hàm số $f(x) = \sqrt{2x-1}$.
+A. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{2}{3}(2x-1)\sqrt{2x-1} + C$.
+B. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{1}{3}(2x-1)\sqrt{2x-1} + C$.
+C. $\displaystyle\int f(x)\,\mathrm{d}x = -\dfrac{1}{3}\sqrt{2x-1} + C$.
+D. $\displa
+Dap an: B. $\displaystyle\int f(x)\,\mathrm{d}x = \dfrac{1}{3}(2x-1)\sqrt{2x-1} + C$.
+Loi giai (cuoi):
+\mathrm{d}x = \int \sqrt{2x-1}\mathrm{d}x = \frac{1}{2}\int (2x-1)^{\frac{1}{2}}\,\mathrm{d}(2x-1)$$
+
+$$= \frac{1}{2}\cdot\frac{2}{3}(2x-1)^{\frac{3}{2}} + C$$
+
+$$= \frac{1}{3}(2x-1)\sqrt{2x-1} + C.$$
+
+--- STT 90 | KT-24 (Trang 93 - Câu 4) | Hình học không gian ---
+De bai:
+Thể tích khối lập phương cạnh 2 bằng
+A. 6.
+B. 8.
+C. 4.
+D. 2.
+Dap an: B. 8.
+Loi giai (cuoi):
+Thể tích của khối lập phương cạnh $a$ là $V = a^3$.
+Vậy thể tích khối lập phương cạnh 2 là $V = 2^3 = 8.$
+
+--- STT 107 | KT-41 (Trang 241 - Câu 38) | Xác suất - Tổ hợp ---
+De bai:
+Chọn ngẫu nhiên một số từ tập hợp các số tự nhiên thuộc đoạn $[40;60]$. Xác suất để chọn được số có chữ số hàng đơn vị lớn hơn chữ số hàng chục bằng
+A. $\dfrac{4}{7}$.
+B. $\dfrac{2}{5}$.
+C. $\dfrac{3}{5}$.
+D. $\dfrac{3}{7}$.
+Dap an: D. $\dfrac{3}{7}$.
+Loi giai (cuoi):
+=4 \Rightarrow b \in \{5;6;7;8;9\}$.
+Với $a=5 \Rightarrow b\in\{6;7;8;9\}$.
+$\Rightarrow$ Có 9 số thỏa mãn yêu cầu.
+Vậy xác suất chọn được số theo yêu cầu đề bài là $P = \dfrac{9}{21} = \dfrac{3}{7}$.
+

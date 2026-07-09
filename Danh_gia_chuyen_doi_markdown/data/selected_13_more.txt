@@ -1,0 +1,15 @@
+Total selected: 13
+
+(5, '11', 'Hàm số - Đạo hàm - Khảo sát', 'Câu 11: Tìm tất cả các giá trị thực của tham số m sao cho hàm số y = đồng biến')
+(9, '25', 'Tích phân - Nguyên hàm', 'Câu 25: Tích phân I = cos3x·sinxdx.')
+(14, '44', 'Hình giải tích Oxyz', 'Câu 44: TrongkhônggianvớihệtọađộOxyz,chomặtcầu(S) :(x+1)2+(y −2)2+(z −1)2 =')
+(47, '4', 'Hình học không gian', 'Câu 4: Thể tích của khối chóp có chiều cao bằng h và diện tích đáy bằng B là')
+(50, '16', 'Hàm số - Đạo hàm - Khảo sát', 'Câu 16: Đồ thị của hàm số nào dưới đây có tiệm cận đứng?')
+(60, '44', 'Hình giải tích Oxyz', 'Câu 44: Trong không gian Oxyz, cho hai điểm A(2,2,1), B − , , . Đường thẳng đi qua')
+(71, '33', 'Tích phân - Nguyên hàm', 'Câu 33: Họ nguyên hàm của hàm số f(x) = 4x(1+lnx) là')
+(94, '7', 'Hình học không gian', 'Câu 7: Cho khối chóp có diện tích đáy B = 3 và chiều cao h = 4. Thể tích của khối chóp đã')
+(112, '30', 'Hàm số - Đạo hàm - Khảo sát', 'Câu 30: Hàm số nào dưới đây nghịch biến trên R?')
+(156, '21', 'Hình giải tích Oxyz', 'Câu 21: Trong không gian Oxyz, mặt phẳng đi qua điểm A(1;2;−2) và vuông góc với đường')
+(159, '30', 'Hàm số - Đạo hàm - Khảo sát', 'Câu 30: Có bao nhiêu giá trị nguyên của tham số m để hàm số y = nghịch biến trên')
+(166, '46', 'Hình học không gian', 'Câu 46: Cho khối lăng trụ ABC.A(cid:48)B(cid:48)C(cid:48), khoảng cách từ điểm C đến đường thẳng BB(')
+(172, '8', 'Tích phân - Nguyên hàm', 'Câu 8: Biết tích phân f(x)dx = 3 và g(x)dx = −4. Khi đó [f(x)+g(x)]dx bằng')

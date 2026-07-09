@@ -1,0 +1,14 @@
+[
+  {
+    "stt": 100,
+    "dinh_danh": "KT-34 (Trang 156 - Câu 22)",
+    "loai_van_de": "Lỗi toán học trong tài liệu gốc",
+    "mo_ta": "Trong lời giải, giá trị giới hạn tại x=0 bị sai: ghi \"lim(x→0+) y = 1 và lim(x→0-) y = 1\", nhưng giá trị đúng phải là 1/4 (vì y = (√(x+4)-2)/(x²+x) = 1/[(x+1)(√(x+4)+2)] → 1/(1·4) = 1/4 khi x→0). Lỗi này ĐÃ CÓ SẴN trong ảnh gốc (trang 156), bản chuyển đổi chép trung thực nên không phải lỗi chuyển đổi. Không ảnh hưởng đáp án cuối (vẫn là D. 1, vì tại x=0 giới hạn hữu hạn nên không có tiệm cận, chỉ có 1 tiệm cận đứng x=-1). Nên sửa \"= 1\" thành \"= 1/4\" cho đúng."
+  },
+  {
+    "stt": 101,
+    "dinh_danh": "KT-35 (Trang 165 - Câu 44)",
+    "loai_van_de": "Lỗi toán học trong tài liệu gốc",
+    "mo_ta": "Trong lời giải ghi \"Chọn t=-2 suy ra điểm M(-1;2;-6)\", nhưng với phương trình tham số x=1+2t, y=-3-5t, z=5+11t thì điểm M(-1;2;-6) ứng với t=-1 chứ không phải t=-2 (t=-2 cho ra (-3;7;-17)). Đây là lỗi typo số liệu CÓ SẴN trong ảnh gốc (trang 166), bản chuyển đổi chép trung thực nên không phải lỗi chuyển đổi. Không ảnh hưởng đáp án cuối (vẫn là B). Nên sửa \"t=-2\" thành \"t=-1\"."
+  }
+]

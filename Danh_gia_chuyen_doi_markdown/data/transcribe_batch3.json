@@ -1,0 +1,100 @@
+[
+  {
+    "trang": 115,
+    "cau": 41,
+    "de_bai": "Cho hàm số $y=f(x)$ có đạo hàm là $f'(x)=12x^2+2, \\forall x \\in \\mathbb{R}$ và $f(1)=3$. Biết $F(x)$ là nguyên hàm của $f(x)$ thỏa mãn $F(0)=2$, khi đó $F(1)$ bằng\nA. $-3$.\nB. $1$.\nC. $2$.\nD. $7$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $f(x)=\\int f'(x)\\,\\mathrm{d}x=4x^3+2x+C_1$. Vì $f(1)=3$ nên $C_1=-3$.\nKhi đó $f(x)=4x^3+2x-3$.\nTa có $F(x)=\\int f(x)\\,\\mathrm{d}x=x^4+x^2-3x+C_2$. Vì $F(0)=2$ nên $C_2=2$.\nKhi đó $F(x)=x^4+x^2-3x+2$.\nVậy $F(1)=1$."
+  },
+  {
+    "trang": 126,
+    "cau": 32,
+    "de_bai": "Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=(x-2)^2(1-x)$ với mọi $x \\in \\mathbb{R}$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\nA. $(1;2)$.\nB. $(1;+\\infty)$.\nC. $(2;+\\infty)$.\nD. $(-\\infty;1)$.",
+    "dap_an": "D. $(-\\infty;1)$.",
+    "loi_giai": "Ta có $f'(x) = (x-2)^2(1-x) = 0 \\Leftrightarrow \\begin{bmatrix} x=2 \\\\ x=1 \\end{bmatrix}$.\nBảng xét dấu\n\n| $x$ | $-\\infty$ | | $1$ | | $2$ | | $+\\infty$ |\n|---|---|---|---|---|---|---|---|\n| $f'(x)$ | | $+$ | $0$ | $-$ | $0$ | $-$ | |\n\nDựa vào bảng xét dấu hàm số $y=f(x)$ đồng biến trên khoảng $(-\\infty;1)$."
+  },
+  {
+    "trang": 131,
+    "cau": 43,
+    "de_bai": "Cho khối lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông cân tại $B$, $AB=a$. Biết khoảng cách từ $A$ đến mặt phẳng $(A'BC)$ bằng $\\dfrac{\\sqrt{6}}{3}a$, thể tích khối lăng trụ đã cho bằng\nA. $\\dfrac{\\sqrt{2}}{6}a^3$.\nB. $\\dfrac{\\sqrt{2}}{2}a^3$.\nC. $\\sqrt{2}a^3$.\nD. $\\dfrac{\\sqrt{2}}{4}a^3$.",
+    "dap_an": "B. $\\dfrac{\\sqrt{2}}{2}a^3$.",
+    "loi_giai": "Dựng $AH \\perp A'B$ tại $H$.\nTa có $\\begin{cases} BC \\perp AB \\\\ BC \\perp AA' \\end{cases} \\Rightarrow BC \\perp (AA'B'B)$,\nmà $AH \\subset (AA'B'B)$ nên $BC \\perp AH$.\nTa có $\\begin{cases} AH \\perp A'B \\\\ AH \\perp BC \\end{cases} \\Rightarrow AH \\perp (A'BC)$.\n$\\Rightarrow AH = \\mathrm{d}(A,(A'BC)) = \\dfrac{a\\sqrt{6}}{3}$.\nXét $\\triangle AA'B$ vuông tại $A$, đường cao $AH$, ta có\n$\\dfrac{1}{AA'^2} = \\dfrac{1}{AH^2} - \\dfrac{1}{AB^2} = \\dfrac{1}{\\left(\\dfrac{a\\sqrt{6}}{3}\\right)^2} - \\dfrac{1}{a^2} = \\dfrac{1}{2a^2} \\Rightarrow AA' = a\\sqrt{2}$.\nThể tích khối lăng trụ $ABC.A'B'C'$ là\n$V = AA' \\cdot S_{\\triangle ABC} = a\\sqrt{2} \\cdot \\dfrac{1}{2}a \\cdot a = \\dfrac{\\sqrt{2}}{2}a^3$."
+  },
+  {
+    "trang": 140,
+    "cau": 20,
+    "de_bai": "Trong không gian với hệ tọa độ $Oxyz$, phương trình nào dưới đây là phương trình của đường thẳng đi qua điểm $A(2;3;0)$ và vuông góc với mặt phẳng $(P): x+3y-z+5=0$?\nA. $\\begin{cases} x=1+3t \\\\ y=3t \\\\ z=1-t \\end{cases}$.\nB. $\\begin{cases} x=1+t \\\\ y=3t \\\\ z=1-t \\end{cases}$.\nC. $\\begin{cases} x=1+t \\\\ y=1+3t \\\\ z=1-t \\end{cases}$.\nD. $\\begin{cases} x=1+3t \\\\ y=3t \\\\ z=1+t \\end{cases}$.",
+    "dap_an": "B. $\\begin{cases} x=1+t \\\\ y=3t \\\\ z=1-t \\end{cases}$.",
+    "loi_giai": "$(d)$ đi qua $A(2;3;0)$ và vuông góc với mặt phẳng $(P): x+3y-z+5=0$.\n$(d)$ đi qua $A(2;3;0)$ và nhận $\\overrightarrow{n_{(P)}} = (1;3;-1)$ làm vectơ chỉ phương $\\Rightarrow$ Loại đáp án A, D vì sai VTCP. Loại đáp án C vì điểm $A$ không thuộc đường thẳng."
+  },
+  {
+    "trang": 143,
+    "cau": 32,
+    "de_bai": "Cho $F(x)=x^2$ là một nguyên hàm của hàm số $f(x)\\mathrm{e}^{2x}$. Tìm nguyên hàm của hàm số $f'(x)\\mathrm{e}^{2x}$.\nA. $\\displaystyle\\int f'(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x = -x^2+2x+C$.\nB. $\\displaystyle\\int f'(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x = -x^2+x+C$.\nC. $\\displaystyle\\int f'(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x = 2x^2-2x+C$.\nD. $\\displaystyle\\int f'(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x = -2x^2+2x+C$.",
+    "dap_an": "D. $-2x^2+2x+C$.",
+    "loi_giai": "Theo đề cho, ta có: $\\displaystyle\\int f(x)\\cdot \\mathrm{e}^{2x}\\,\\mathrm{d}x = x^2+C$.\n$\\left(\\displaystyle\\int f(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x\\right)' = f(x)\\mathrm{e}^{2x} \\Rightarrow (x^2+C)' = 2x = f(x)\\mathrm{e}^{2x}$.\n$I = \\displaystyle\\int f'(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x$?\nĐặt $\\begin{cases} u=\\mathrm{e}^{2x} \\\\ \\mathrm{d}v=f'(x)\\,\\mathrm{d}x \\end{cases} \\Rightarrow \\begin{cases} \\mathrm{d}u=2\\mathrm{e}^{2x}\\mathrm{d}x \\\\ v=f(x) \\end{cases}$.\n$I = f(x)\\mathrm{e}^{2x} - \\displaystyle\\int 2f(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x = f(x)\\mathrm{e}^{2x} - 2\\displaystyle\\int f(x)\\mathrm{e}^{2x}\\,\\mathrm{d}x = 2x - 2(x^2+C) = -2x^2+2x+C$."
+  },
+  {
+    "trang": 146,
+    "cau": 43,
+    "de_bai": "Cho khối chóp $S.ABCD$ có đáy là hình vuông cạnh $a$, $SA$ vuông góc với đáy và $SC$ tạo với mặt phẳng $(SAB)$ một góc $30^0$. Tính thể tích $V$ của khối chóp đã cho.\nA. $V = \\dfrac{\\sqrt{6}a^3}{3}$.\nB. $V = \\dfrac{\\sqrt{2}a^3}{3}$.\nC. $V = \\dfrac{2a^3}{3}$.\nD. $V = \\sqrt{2}a^3$.",
+    "dap_an": "B. $V = \\dfrac{\\sqrt{2}a^3}{3}$.",
+    "loi_giai": "$\\begin{cases} BC\\perp BA & (ABCD \\text{ là hình vuông}) \\\\ BC\\perp SA & (SA\\perp(ABCD)) \\end{cases}$\n$\\Rightarrow BC\\perp(SAB) \\Rightarrow (BC,(SAB)) = \\widehat{BSC} = 30^0$.\n$\\triangle SBC$ vuông tại $B$: $\\tan 30^0 = \\dfrac{BC}{SB} \\Rightarrow SB = \\sqrt{3}a$.\n$\\triangle SAB$ vuông tại $A$: $SA = \\sqrt{2}a$.\n$V = \\dfrac{1}{3}SA.S_{ABCD} = \\dfrac{1}{3}.\\sqrt{2}a.a^2 = \\dfrac{\\sqrt{2}}{3}a^3$."
+  },
+  {
+    "trang": 156,
+    "cau": 22,
+    "de_bai": "Số tiệm cận đứng của đồ thị hàm số $y = \\dfrac{\\sqrt{x+4}-2}{x^2+x}$ là\nA. $3$.\nB. $0$.\nC. $2$.\nD. $1$.",
+    "dap_an": "D. $1$.",
+    "loi_giai": "Tập xác định hàm số $\\mathscr{D} = [-4;+\\infty) \\setminus \\{-1;0\\}$.\nTa có $\\lim_{x\\to -1^+} y = +\\infty$, $\\lim_{x\\to 0^+} y = 1$ và $\\lim_{x\\to 0^-} y = 1$.\nSuy ra đồ thị hàm số chỉ có 1 tiệm cận đứng là $x=-1$."
+  },
+  {
+    "trang": 165,
+    "cau": 44,
+    "de_bai": "Trong không gian $Oxyz$ cho đường thẳng $d: \\begin{cases} x=1+3t \\\\ y=-3 \\\\ z=5+4t \\end{cases}$. Gọi $\\Delta$ là đường thẳng đi qua điểm $A(1;-3;5)$ và có véc-tơ chỉ phương là $\\vec{u}=(1;2;-2)$. Đường phân giác góc nhọn tạo bởi hai đường thẳng $d$ và $\\Delta$ là\nA. $\\begin{cases} x=-1+2t \\\\ y=2-5t \\\\ z=6+11t \\end{cases}$.\nB. $\\begin{cases} x=-1+2t \\\\ y=2-5t \\\\ z=-6+11t \\end{cases}$.\nC. $\\begin{cases} x=1+7t \\\\ y=3-5t \\\\ z=5+t \\end{cases}$.\nD. $\\begin{cases} x=1-t \\\\ y=-3 \\\\ z=5+7t \\end{cases}$.",
+    "dap_an": "B. $\\begin{cases} x=-1+2t \\\\ y=2-5t \\\\ z=-6+11t \\end{cases}$.",
+    "loi_giai": "Ta có điểm $A(1;-3;5)$ thuộc đường thẳng $d$ nên $A$ là giao điểm của $d$ và $\\Delta$.\nMột véc-tơ chỉ phương của đường thẳng $d$ là $\\vec{v} = (-3;0;-4)$.\nĐặt $\\vec{u'} = \\dfrac{1}{|\\vec u|}\\vec u = \\left(\\dfrac{1}{3};\\dfrac{2}{3};-\\dfrac{2}{3}\\right)$, $\\vec{v'} = \\dfrac{1}{|\\vec v|}\\vec v = \\left(-\\dfrac{3}{5};0;-\\dfrac{4}{5}\\right)$. Ta có $\\vec{u'}\\cdot\\vec{v'}>0$ nên góc tạo bởi hai véc-tơ $\\vec{u'}, \\vec{v'}$ là góc nhọn tạo bởi $d$ và $\\Delta$.\nSuy ra $\\vec w = \\vec{u'}+\\vec{v'} = \\left(-\\dfrac{4}{15};\\dfrac{10}{15};-\\dfrac{22}{15}\\right) = -\\dfrac{2}{15}(2;-5;11)$ là véc-tơ chỉ phương của đường phân giác cần tìm. Phương trình đường phân giác cần tìm là\n$\\begin{cases} x=1+2t \\\\ y=-3-5t \\\\ z=5+11t. \\end{cases}$\nChọn $t=-2$ suy ra điểm $M(-1;2;-6)$ thuộc đường phân giác. Khi đó, đường phân giác có phương trình\n$\\begin{cases} x=-1+2t \\\\ y=2-5t \\\\ z=-6+11t. \\end{cases}$"
+  },
+  {
+    "trang": 172,
+    "cau": 11,
+    "de_bai": "Cho cấp số cộng $(u_n)$ với $u_1=2$ và $u_2=8$. Công sai của cấp số cộng đã cho bằng\nA. $4$.\nB. $-6$.\nC. $10$.\nD. $6$.",
+    "dap_an": "D. $6$.",
+    "loi_giai": "Vì $(u_n)$ là cấp số cộng nên ta có $u_2 = u_1 + d \\Leftrightarrow d = u_2 - u_1 = 8-2=6$."
+  },
+  {
+    "trang": 181,
+    "cau": 40,
+    "de_bai": "Chọn ngẫu nhiên hai số khác nhau từ 27 số nguyên dương đầu tiên. Xác suất để chọn được hai số có tổng là một số chẵn bằng\nA. $\\dfrac{13}{27}$.\nB. $\\dfrac{14}{27}$.\nC. $\\dfrac{1}{2}$.\nD. $\\dfrac{365}{729}$.",
+    "dap_an": "A. $\\dfrac{13}{27}$.",
+    "loi_giai": "Gọi $A$ là tập hợp 27 số nguyên dương đầu tiên, ta có $A = \\{1;2;3;\\ldots;26;27\\}$.\nPhép thử chọn ngẫu nhiên hai số khác nhau từ $A$ có $n(\\Omega) = \\mathrm{C}_{27}^2 = 351$.\nTổng hai số chọn được là số chẵn khi và chỉ khi cả hai số đó đều chẵn hoặc đều lẻ. Do đó ta có các khả năng sau:\n- Hai số lấy được từ $A$ là hai số chẵn, có $\\mathrm{C}_{13}^2 = 78$ khả năng.\n- Hai số lấy được từ $A$ là hai số lẻ, có $\\mathrm{C}_{14}^2 = 91$ khả năng.\nDo đó khả năng để chọn được hai số có tổng là một số chẵn là $78+91=169$.\nXác suất cần tìm là $p(A) = \\dfrac{169}{351} = \\dfrac{13}{27}$."
+  },
+  {
+    "trang": 212,
+    "cau": 34,
+    "de_bai": "Trong không gian $Oxyz$, cho điểm $M(2;1;-1)$ và mặt phẳng $(P): x-3y+2z+1=0$. Đường thẳng đi qua $M$ và vuông góc với $(P)$ có phương trình là\nA. $\\dfrac{x-2}{1} = \\dfrac{y-1}{-3} = \\dfrac{z+1}{1}$.\nB. $\\dfrac{x-2}{1} = \\dfrac{y-1}{-3} = \\dfrac{z+1}{2}$.\nC. $\\dfrac{x+2}{1} = \\dfrac{y+1}{-3} = \\dfrac{z-1}{1}$.\nD. $\\dfrac{x+2}{1} = \\dfrac{y+1}{-3} = \\dfrac{z-1}{2}$.",
+    "dap_an": "B. $\\dfrac{x-2}{1} = \\dfrac{y-1}{-3} = \\dfrac{z+1}{2}$.",
+    "loi_giai": "Đường thẳng $d$ đi qua $M(2;1;-1)$ và vuông với $(P)$ nên có véc-tơ chỉ phương $\\vec{u} = \\vec{n}_P = (1;-3;2)$.\nDo đó $d$ có phương trình là $\\dfrac{x-2}{1} = \\dfrac{y-1}{-3} = \\dfrac{z+1}{2}$."
+  },
+  {
+    "trang": 236,
+    "cau": 9,
+    "de_bai": "Cho cấp số nhân $(u_n)$ với $u_1=1$ và $u_2=2$. Công bội của cấp số nhân đã cho là\nA. $q=\\dfrac{1}{2}$.\nB. $q=2$.\nC. $q=-2$.\nD. $q=-\\dfrac{1}{2}$.",
+    "dap_an": "B. $q=2$.",
+    "loi_giai": "Ta có $u_2 = u_1 \\cdot q \\Rightarrow q = \\dfrac{u_2}{u_1} = 2$.\nVậy $q=2$."
+  },
+  {
+    "trang": 238,
+    "cau": 18,
+    "de_bai": "Số các tổ hợp chập 3 của 12 phần tử là\nA. $1320$.\nB. $36$.\nC. $220$.\nD. $1728$.",
+    "dap_an": "C. $220$.",
+    "loi_giai": "Số các tổ hợp chập 3 của 12 phần tử là $\\mathrm{C}_{12}^3 = 220$."
+  },
+  {
+    "trang": 241,
+    "cau": 38,
+    "de_bai": "Chọn ngẫu nhiên một số từ tập hợp các số tự nhiên thuộc đoạn $[40;60]$. Xác suất để chọn được số có chữ số hàng đơn vị lớn hơn chữ số hàng chục bằng\nA. $\\dfrac{4}{7}$.\nB. $\\dfrac{2}{5}$.\nC. $\\dfrac{3}{5}$.\nD. $\\dfrac{3}{7}$.",
+    "dap_an": "D. $\\dfrac{3}{7}$.",
+    "loi_giai": "Gọi số tự nhiên chọn được theo yêu cầu có dạng $\\overline{ab}$, ta có:\nVới $a=4 \\Rightarrow b \\in \\{5;6;7;8;9\\}$.\nVới $a=5 \\Rightarrow b\\in\\{6;7;8;9\\}$.\n$\\Rightarrow$ Có 9 số thỏa mãn yêu cầu.\nVậy xác suất chọn được số theo yêu cầu đề bài là $P = \\dfrac{9}{21} = \\dfrac{3}{7}$."
+  }
+]

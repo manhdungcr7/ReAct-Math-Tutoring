@@ -1,0 +1,1262 @@
+[
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=-6-3i$ và $-6+3i$ là nghiệm?\n\nA. $z^2-12z-45=0$.\nB. $z^2+12z-45=0$.\nC. $z^2+12z+45=0$.\nD. $z^2-12z+45=0$.",
+    "dap_an": "C. $z^2+12z+45=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $-12$, tích của chúng là $45$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+12z+45=0$.",
+    "params": {
+      "a": "-6",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=8+i$ và $8-i$ là nghiệm?\n\nA. $z^2+16z-65=0$.\nB. $z^2-16z-65=0$.\nC. $z^2-16z+65=0$.\nD. $z^2+16z+65=0$.",
+    "dap_an": "C. $z^2-16z+65=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $16$, tích của chúng là $65$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-16z+65=0$.",
+    "params": {
+      "a": "8",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=4-5i$ và $4+5i$ là nghiệm?\n\nA. $z^2+8z-41=0$.\nB. $z^2-8z-41=0$.\nC. $z^2-8z+41=0$.\nD. $z^2+8z+41=0$.",
+    "dap_an": "C. $z^2-8z+41=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $8$, tích của chúng là $41$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-8z+41=0$.",
+    "params": {
+      "a": "4",
+      "b": "-5"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=-9+7i$ và $-9-7i$ là nghiệm?\n\nA. $z^2-18z-130=0$.\nB. $z^2+18z-130=0$.\nC. $z^2+18z+130=0$.\nD. $z^2-18z+130=0$.",
+    "dap_an": "C. $z^2+18z+130=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $-18$, tích của chúng là $130$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+18z+130=0$.",
+    "params": {
+      "a": "-9",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=5+2i$ và $5-2i$ là nghiệm?\n\nA. $z^2+10z-29=0$.\nB. $z^2-10z-29=0$.\nC. $z^2-10z+29=0$.\nD. $z^2+10z+29=0$.",
+    "dap_an": "C. $z^2-10z+29=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $10$, tích của chúng là $29$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-10z+29=0$.",
+    "params": {
+      "a": "5",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=-7+3i$ và $-7-3i$ là nghiệm?\n\nA. $z^2-14z-58=0$.\nB. $z^2+14z-58=0$.\nC. $z^2+14z+58=0$.\nD. $z^2-14z+58=0$.",
+    "dap_an": "C. $z^2+14z+58=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $-14$, tích của chúng là $58$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+14z+58=0$.",
+    "params": {
+      "a": "-7",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=- \\dfrac{2}{3}-\\dfrac{11}{5}i$ và $- \\dfrac{2}{3}+\\dfrac{11}{5}i$ là nghiệm?\n\nA. $z^2-\\dfrac{4}{3}z-\\dfrac{1189}{225}=0$.\nB. $z^2+\\dfrac{4}{3}z-\\dfrac{1189}{225}=0$.\nC. $z^2+\\dfrac{4}{3}z+\\dfrac{1189}{225}=0$.\nD. $z^2-\\dfrac{4}{3}z+\\dfrac{1189}{225}=0$.",
+    "dap_an": "C. $z^2+\\dfrac{4}{3}z+\\dfrac{1189}{225}=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $- \\dfrac{4}{3}$, tích của chúng là $\\dfrac{1189}{225}$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+\\dfrac{4}{3}z+\\dfrac{1189}{225}=0$.",
+    "params": {
+      "a": "-2/3",
+      "b": "-11/5"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=- \\dfrac{7}{4}-\\dfrac{7}{3}i$ và $- \\dfrac{7}{4}+\\dfrac{7}{3}i$ là nghiệm?\n\nA. $z^2-\\dfrac{7}{2}z-\\dfrac{1225}{144}=0$.\nB. $z^2+\\dfrac{7}{2}z-\\dfrac{1225}{144}=0$.\nC. $z^2+\\dfrac{7}{2}z+\\dfrac{1225}{144}=0$.\nD. $z^2-\\dfrac{7}{2}z+\\dfrac{1225}{144}=0$.",
+    "dap_an": "C. $z^2+\\dfrac{7}{2}z+\\dfrac{1225}{144}=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $- \\dfrac{7}{2}$, tích của chúng là $\\dfrac{1225}{144}$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+\\dfrac{7}{2}z+\\dfrac{1225}{144}=0$.",
+    "params": {
+      "a": "-7/4",
+      "b": "-7/3"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=- \\dfrac{1}{2}+\\dfrac{5}{2}i$ và $- \\dfrac{1}{2}-\\dfrac{5}{2}i$ là nghiệm?\n\nA. $z^2-1z-\\dfrac{13}{2}=0$.\nB. $z^2+1z-\\dfrac{13}{2}=0$.\nC. $z^2+1z+\\dfrac{13}{2}=0$.\nD. $z^2-1z+\\dfrac{13}{2}=0$.",
+    "dap_an": "C. $z^2+1z+\\dfrac{13}{2}=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $-1$, tích của chúng là $\\dfrac{13}{2}$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+1z+\\dfrac{13}{2}=0$.",
+    "params": {
+      "a": "-1/2",
+      "b": "5/2"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=\\dfrac{3}{5}-\\dfrac{3}{5}i$ và $\\dfrac{3}{5}+\\dfrac{3}{5}i$ là nghiệm?\n\nA. $z^2+\\dfrac{6}{5}z-\\dfrac{18}{25}=0$.\nB. $z^2-\\dfrac{6}{5}z-\\dfrac{18}{25}=0$.\nC. $z^2-\\dfrac{6}{5}z+\\dfrac{18}{25}=0$.\nD. $z^2+\\dfrac{6}{5}z+\\dfrac{18}{25}=0$.",
+    "dap_an": "C. $z^2-\\dfrac{6}{5}z+\\dfrac{18}{25}=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $\\dfrac{6}{5}$, tích của chúng là $\\dfrac{18}{25}$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-\\dfrac{6}{5}z+\\dfrac{18}{25}=0$.",
+    "params": {
+      "a": "3/5",
+      "b": "-3/5"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=\\dfrac{7}{4}+\\dfrac{1}{3}i$ và $\\dfrac{7}{4}-\\dfrac{1}{3}i$ là nghiệm?\n\nA. $z^2+\\dfrac{7}{2}z-\\dfrac{457}{144}=0$.\nB. $z^2-\\dfrac{7}{2}z-\\dfrac{457}{144}=0$.\nC. $z^2-\\dfrac{7}{2}z+\\dfrac{457}{144}=0$.\nD. $z^2+\\dfrac{7}{2}z+\\dfrac{457}{144}=0$.",
+    "dap_an": "C. $z^2-\\dfrac{7}{2}z+\\dfrac{457}{144}=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $\\dfrac{7}{2}$, tích của chúng là $\\dfrac{457}{144}$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-\\dfrac{7}{2}z+\\dfrac{457}{144}=0$.",
+    "params": {
+      "a": "7/4",
+      "b": "1/3"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=- \\dfrac{1}{3}+\\dfrac{7}{5}i$ và $- \\dfrac{1}{3}-\\dfrac{7}{5}i$ là nghiệm?\n\nA. $z^2-\\dfrac{2}{3}z-\\dfrac{466}{225}=0$.\nB. $z^2+\\dfrac{2}{3}z-\\dfrac{466}{225}=0$.\nC. $z^2+\\dfrac{2}{3}z+\\dfrac{466}{225}=0$.\nD. $z^2-\\dfrac{2}{3}z+\\dfrac{466}{225}=0$.",
+    "dap_an": "C. $z^2+\\dfrac{2}{3}z+\\dfrac{466}{225}=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $- \\dfrac{2}{3}$, tích của chúng là $\\dfrac{466}{225}$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+\\dfrac{2}{3}z+\\dfrac{466}{225}=0$.",
+    "params": {
+      "a": "-1/3",
+      "b": "7/5"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=4-4 \\sqrt{11}i$ và $4+4 \\sqrt{11}i$ là nghiệm?\n\nA. $z^2+8z-192=0$.\nB. $z^2-8z-192=0$.\nC. $z^2-8z+192=0$.\nD. $z^2+8z+192=0$.",
+    "dap_an": "C. $z^2-8z+192=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $8$, tích của chúng là $192$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-8z+192=0$.",
+    "params": {
+      "a": "4",
+      "b": "-4*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=- 2 \\sqrt{6}+2 \\sqrt{6}i$ và $- 2 \\sqrt{6}-2 \\sqrt{6}i$ là nghiệm?\n\nA. $z^2-4 \\sqrt{6}z-48=0$.\nB. $z^2+4 \\sqrt{6}z-48=0$.\nC. $z^2+4 \\sqrt{6}z+48=0$.\nD. $z^2-4 \\sqrt{6}z+48=0$.",
+    "dap_an": "C. $z^2+4 \\sqrt{6}z+48=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $- 4 \\sqrt{6}$, tích của chúng là $48$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+4 \\sqrt{6}z+48=0$.",
+    "params": {
+      "a": "-2*sqrt(6)",
+      "b": "2*sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=-4+4 \\sqrt{11}i$ và $-4-4 \\sqrt{11}i$ là nghiệm?\n\nA. $z^2-8z-192=0$.\nB. $z^2+8z-192=0$.\nC. $z^2+8z+192=0$.\nD. $z^2-8z+192=0$.",
+    "dap_an": "C. $z^2+8z+192=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $-8$, tích của chúng là $192$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+8z+192=0$.",
+    "params": {
+      "a": "-4",
+      "b": "4*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=- 4 \\sqrt{7}+7i$ và $- 4 \\sqrt{7}-7i$ là nghiệm?\n\nA. $z^2-8 \\sqrt{7}z-161=0$.\nB. $z^2+8 \\sqrt{7}z-161=0$.\nC. $z^2+8 \\sqrt{7}z+161=0$.\nD. $z^2-8 \\sqrt{7}z+161=0$.",
+    "dap_an": "C. $z^2+8 \\sqrt{7}z+161=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $- 8 \\sqrt{7}$, tích của chúng là $161$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+8 \\sqrt{7}z+161=0$.",
+    "params": {
+      "a": "-4*sqrt(7)",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=2-3 \\sqrt{10}i$ và $2+3 \\sqrt{10}i$ là nghiệm?\n\nA. $z^2+4z-94=0$.\nB. $z^2-4z-94=0$.\nC. $z^2-4z+94=0$.\nD. $z^2+4z+94=0$.",
+    "dap_an": "C. $z^2-4z+94=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $4$, tích của chúng là $94$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2-4z+94=0$.",
+    "params": {
+      "a": "2",
+      "b": "-3*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 36,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt36",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phương trình nào dưới đây nhận hai số phức $z=-6+2 \\sqrt{3}i$ và $-6-2 \\sqrt{3}i$ là nghiệm?\n\nA. $z^2-12z-48=0$.\nB. $z^2+12z-48=0$.\nC. $z^2+12z+48=0$.\nD. $z^2-12z+48=0$.",
+    "dap_an": "C. $z^2+12z+48=0$.",
+    "loi_giai": "Áp dụng định lý Vi-ét: tổng hai số phức là $-12$, tích của chúng là $48$ $\\Rightarrow$ hai số phức là nghiệm của phương trình $z^2+12z+48=0$.",
+    "params": {
+      "a": "-6",
+      "b": "2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-5m-9=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+5m+9$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "-5",
+      "d": "-9"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+3m-9=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-3m+9$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "3",
+      "d": "-9"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+4m-3=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-4m+3$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 2 giá trị.",
+    "params": {
+      "c": "4",
+      "d": "-3"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+3m-6=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-3m+6$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "3",
+      "d": "-6"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+8m-8=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $5$.\nB. $6$.\nC. $7$.\nD. $8$.",
+    "dap_an": "B. $6$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-8m+8$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 6 giá trị.",
+    "params": {
+      "c": "8",
+      "d": "-8"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-3m-7=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+3m+7$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "-3",
+      "d": "-7"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-2m-\\dfrac{9}{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+2m+\\dfrac{9}{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "-2",
+      "d": "-9/2"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+2m+\\dfrac{1}{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-2m-\\dfrac{1}{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 3 giá trị.",
+    "params": {
+      "c": "2",
+      "d": "1/2"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+1m+\\dfrac{9}{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-1m-\\dfrac{9}{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 4 giá trị.",
+    "params": {
+      "c": "1",
+      "d": "9/2"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-2m-\\dfrac{5}{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+2m+\\dfrac{5}{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "-2",
+      "d": "-5/2"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+\\dfrac{5}{3}m-\\dfrac{1}{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-\\dfrac{5}{3}m+\\dfrac{1}{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 2 giá trị.",
+    "params": {
+      "c": "5/3",
+      "d": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+3m-\\dfrac{4}{3}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-3m+\\dfrac{4}{3}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 3 giá trị.",
+    "params": {
+      "c": "3",
+      "d": "-4/3"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+2 \\sqrt{5}m+\\sqrt{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $4$.\nB. $5$.\nC. $6$.\nD. $7$.",
+    "dap_an": "B. $5$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-2 \\sqrt{5}m-\\sqrt{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 5 giá trị.",
+    "params": {
+      "c": "2*sqrt(5)",
+      "d": "sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+\\sqrt{5}m-\\sqrt{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-\\sqrt{5}m+\\sqrt{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "sqrt(5)",
+      "d": "-sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-2 \\sqrt{5}m-2 \\sqrt{5}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+2 \\sqrt{5}m+2 \\sqrt{5}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 2 giá trị.",
+    "params": {
+      "c": "-2*sqrt(5)",
+      "d": "-2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz+2 \\sqrt{3}m+2 \\sqrt{5}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $5$.\nB. $6$.\nC. $7$.\nD. $8$.",
+    "dap_an": "B. $6$.",
+    "loi_giai": "Ta có $\\Delta' = m^2-2 \\sqrt{3}m-2 \\sqrt{5}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 6 giá trị.",
+    "params": {
+      "c": "2*sqrt(3)",
+      "d": "2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-\\sqrt{5}m+\\sqrt{5}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+\\sqrt{5}m-\\sqrt{5}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 3 giá trị.",
+    "params": {
+      "c": "-sqrt(5)",
+      "d": "sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 26,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt26",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2mz-\\sqrt{5}m-\\sqrt{2}=0$ ($m$ là tham số thực). Có bao nhiêu giá trị nguyên của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1| = |z_2|$?\n\nA. $0$.\nB. $1$.\nC. $2$.\nD. $3$.",
+    "dap_an": "B. $1$.",
+    "loi_giai": "Ta có $\\Delta' = m^2+\\sqrt{5}m+\\sqrt{2}$.\n\nNếu $\\Delta'>0$ thì phương trình có hai nghiệm thực. Khi đó $|z_1|=|z_2| \\Leftrightarrow z_1=-z_2 \\Leftrightarrow z_1+z_2=0 \\Leftrightarrow m=0$ (nhận nếu thỏa $\\Delta'(0)>0$).\n\nNếu $\\Delta'<0$ thì phương trình có hai nghiệm phức liên hợp nên luôn có $|z_1|=|z_2|$.\n\nĐếm trực tiếp các giá trị nguyên $m$ thỏa mãn hai trường hợp trên, ta được 1 giá trị.",
+    "params": {
+      "c": "-sqrt(5)",
+      "d": "-sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+2)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=4$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+2)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=4 \\Rightarrow |z_1|=2 \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm2$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+2)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+2)^2$, suy ra $|m+2|=2 \\Rightarrow m=-(2)\\pm2$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "2",
+      "S": "4"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=6$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-3)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=6 \\Rightarrow |z_1|=3 \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm3$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-3)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-3)^2$, suy ra $|m-3|=3 \\Rightarrow m=-(-3)\\pm3$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-3",
+      "S": "6"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=8$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-4)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=8 \\Rightarrow |z_1|=4 \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm4$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-4)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-4)^2$, suy ra $|m-4|=4 \\Rightarrow m=-(-4)\\pm4$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-4",
+      "S": "8"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=6$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+4)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=6 \\Rightarrow |z_1|=3 \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm3$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+4)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+4)^2$, suy ra $|m+4|=3 \\Rightarrow m=-(4)\\pm3$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "4",
+      "S": "6"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=8$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=8 \\Rightarrow |z_1|=4 \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm4$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+1)^2$, suy ra $|m+1|=4 \\Rightarrow m=-(1)\\pm4$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "S": "8"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=8$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+3)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=8 \\Rightarrow |z_1|=4 \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm4$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+3)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+3)^2$, suy ra $|m+3|=4 \\Rightarrow m=-(3)\\pm4$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "3",
+      "S": "8"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\dfrac{7}{3}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\dfrac{7}{3} \\Rightarrow |z_1|=\\dfrac{7}{6} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{7}{6}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+1)^2$, suy ra $|m+1|=\\dfrac{7}{6} \\Rightarrow m=-(1)\\pm\\dfrac{7}{6}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "S": "7/3"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\dfrac{5}{2}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\dfrac{5}{2} \\Rightarrow |z_1|=\\dfrac{5}{4} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{5}{4}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-1)^2$, suy ra $|m-1|=\\dfrac{5}{4} \\Rightarrow m=-(-1)\\pm\\dfrac{5}{4}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-1",
+      "S": "5/2"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+2)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\dfrac{5}{2}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+2)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\dfrac{5}{2} \\Rightarrow |z_1|=\\dfrac{5}{4} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{5}{4}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+2)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+2)^2$, suy ra $|m+2|=\\dfrac{5}{4} \\Rightarrow m=-(2)\\pm\\dfrac{5}{4}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "2",
+      "S": "5/2"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\dfrac{9}{2}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-4)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\dfrac{9}{2} \\Rightarrow |z_1|=\\dfrac{9}{4} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{9}{4}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-4)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-4)^2$, suy ra $|m-4|=\\dfrac{9}{4} \\Rightarrow m=-(-4)\\pm\\dfrac{9}{4}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-4",
+      "S": "9/2"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-2)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\dfrac{9}{2}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-2)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\dfrac{9}{2} \\Rightarrow |z_1|=\\dfrac{9}{4} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{9}{4}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-2)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-2)^2$, suy ra $|m-2|=\\dfrac{9}{4} \\Rightarrow m=-(-2)\\pm\\dfrac{9}{4}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-2",
+      "S": "9/2"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\dfrac{5}{2}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\dfrac{5}{2} \\Rightarrow |z_1|=\\dfrac{5}{4} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{5}{4}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+1)^2$, suy ra $|m+1|=\\dfrac{5}{4} \\Rightarrow m=-(1)\\pm\\dfrac{5}{4}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "S": "5/2"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=2 \\sqrt{5}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=2 \\sqrt{5} \\Rightarrow |z_1|=\\sqrt{5} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\sqrt{5}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+1)^2$, suy ra $|m+1|=\\sqrt{5} \\Rightarrow m=-(1)\\pm\\sqrt{5}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "S": "2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=2 \\sqrt{3}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-3)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=2 \\sqrt{3} \\Rightarrow |z_1|=\\sqrt{3} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\sqrt{3}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-3)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-3)^2$, suy ra $|m-3|=\\sqrt{3} \\Rightarrow m=-(-3)\\pm\\sqrt{3}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-3",
+      "S": "2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=2 \\sqrt{5}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+4)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=2 \\sqrt{5} \\Rightarrow |z_1|=\\sqrt{5} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\sqrt{5}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+4)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+4)^2$, suy ra $|m+4|=\\sqrt{5} \\Rightarrow m=-(4)\\pm\\sqrt{5}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "4",
+      "S": "2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=2 \\sqrt{3}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+3)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=2 \\sqrt{3} \\Rightarrow |z_1|=\\sqrt{3} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\sqrt{3}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+3)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+3)^2$, suy ra $|m+3|=\\sqrt{3} \\Rightarrow m=-(3)\\pm\\sqrt{3}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "3",
+      "S": "2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=\\sqrt{3}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=\\sqrt{3} \\Rightarrow |z_1|=\\dfrac{\\sqrt{3}}{2} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\dfrac{\\sqrt{3}}{2}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m+1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m+1)^2$, suy ra $|m+1|=\\dfrac{\\sqrt{3}}{2} \\Rightarrow m=-(1)\\pm\\dfrac{\\sqrt{3}}{2}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "S": "sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 33,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt33",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp số phức, xét phương trình $z^2-2(m-1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $|z_1|+|z_2|=2 \\sqrt{5}$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "Ta có $\\Delta'=(m-1)^2-m^2$.\n\nTH1: $\\Delta'<0$. Khi đó $z_1=\\overline{z_2}$, suy ra $2|z_1|=|z_1|+|z_2|=2 \\sqrt{5} \\Rightarrow |z_1|=\\sqrt{5} \\Rightarrow m^2=z_1z_2=|z_1|^2 \\Rightarrow m=\\pm\\sqrt{5}$, kết hợp điều kiện $\\Delta'<0$ để chọn nghiệm phù hợp.\n\nTH2: $\\Delta'\\ge0$. Khi đó $z_1+z_2=2(m-1)$, $z_1z_2=m^2$, nên $(|z_1|+|z_2|)^2=(z_1+z_2)^2-2z_1z_2+2|z_1z_2|=4(m-1)^2$, suy ra $|m-1|=\\sqrt{5} \\Rightarrow m=-(-1)\\pm\\sqrt{5}$, kết hợp điều kiện $\\Delta'\\ge0$ để chọn nghiệm phù hợp.\n\nTổng hợp cả hai trường hợp (loại nghiệm trùng nếu có), ta được 2 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-1",
+      "S": "2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=5$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-3)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-3$, kiểm tra điều kiện $|z_0|=5$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=5 \\Rightarrow m=\\pm5$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm5$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-3",
+      "R": "5"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=5$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-1)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-1$, kiểm tra điều kiện $|z_0|=5$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=5 \\Rightarrow m=\\pm5$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm5$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-1",
+      "R": "5"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=6$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+1$, kiểm tra điều kiện $|z_0|=6$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=6 \\Rightarrow m=\\pm6$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm6$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "R": "6"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=7$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+3)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+3$, kiểm tra điều kiện $|z_0|=7$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=7 \\Rightarrow m=\\pm7$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm7$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "3",
+      "R": "7"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=7$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+4)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+4$, kiểm tra điều kiện $|z_0|=7$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=7 \\Rightarrow m=\\pm7$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm7$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "4",
+      "R": "7"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=5$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-3)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-3$, kiểm tra điều kiện $|z_0|=5$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=5 \\Rightarrow m=\\pm5$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm5$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-3",
+      "R": "5"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\dfrac{9}{2}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+1$, kiểm tra điều kiện $|z_0|=\\dfrac{9}{2}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\dfrac{9}{2} \\Rightarrow m=\\pm\\dfrac{9}{2}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\dfrac{9}{2}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "R": "9/2"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\dfrac{9}{2}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-4)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-4$, kiểm tra điều kiện $|z_0|=\\dfrac{9}{2}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\dfrac{9}{2} \\Rightarrow m=\\pm\\dfrac{9}{2}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\dfrac{9}{2}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-4",
+      "R": "9/2"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\dfrac{11}{3}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-4)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-4$, kiểm tra điều kiện $|z_0|=\\dfrac{11}{3}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\dfrac{11}{3} \\Rightarrow m=\\pm\\dfrac{11}{3}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\dfrac{11}{3}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-4",
+      "R": "11/3"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\dfrac{5}{2}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+3)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+3$, kiểm tra điều kiện $|z_0|=\\dfrac{5}{2}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\dfrac{5}{2} \\Rightarrow m=\\pm\\dfrac{5}{2}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\dfrac{5}{2}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "3",
+      "R": "5/2"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-3)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\dfrac{11}{2}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-3)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-3$, kiểm tra điều kiện $|z_0|=\\dfrac{11}{2}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\dfrac{11}{2} \\Rightarrow m=\\pm\\dfrac{11}{2}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\dfrac{11}{2}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-3",
+      "R": "11/2"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+2)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\dfrac{5}{3}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+2)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+2$, kiểm tra điều kiện $|z_0|=\\dfrac{5}{3}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\dfrac{5}{3} \\Rightarrow m=\\pm\\dfrac{5}{3}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\dfrac{5}{3}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "2",
+      "R": "5/3"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=2 \\sqrt{3}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-4)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-4$, kiểm tra điều kiện $|z_0|=2 \\sqrt{3}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=2 \\sqrt{3} \\Rightarrow m=\\pm2 \\sqrt{3}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm2 \\sqrt{3}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-4",
+      "R": "2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+2)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=3 \\sqrt{3}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+2)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+2$, kiểm tra điều kiện $|z_0|=3 \\sqrt{3}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=3 \\sqrt{3} \\Rightarrow m=\\pm3 \\sqrt{3}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm3 \\sqrt{3}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "2",
+      "R": "3*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=3 \\sqrt{2}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+4)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+4$, kiểm tra điều kiện $|z_0|=3 \\sqrt{2}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=3 \\sqrt{2} \\Rightarrow m=\\pm3 \\sqrt{2}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm3 \\sqrt{2}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "4",
+      "R": "3*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m+1)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\sqrt{2}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m+1)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m+1$, kiểm tra điều kiện $|z_0|=\\sqrt{2}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\sqrt{2} \\Rightarrow m=\\pm\\sqrt{2}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\sqrt{2}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "1",
+      "R": "sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-4)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=3 \\sqrt{5}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-4)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-4$, kiểm tra điều kiện $|z_0|=3 \\sqrt{5}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=3 \\sqrt{5} \\Rightarrow m=\\pm3 \\sqrt{5}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm3 \\sqrt{5}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-4",
+      "R": "3*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 56,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt56",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2-2(m-2)z+m^2=0$ ($m$ là tham số thực). Có bao nhiêu giá trị của $m$ để phương trình đó có nghiệm $z_0$ thỏa mãn $|z_0|=\\sqrt{5}$?\n\nA. $2$.\nB. $3$.\nC. $4$.\nD. $5$.",
+    "dap_an": "B. $3$.",
+    "loi_giai": "Ta có $\\Delta'=(m-2)^2-m^2$.\n\nTH1: $\\Delta'=0$: nghiệm kép $z_0=m-2$, kiểm tra điều kiện $|z_0|=\\sqrt{5}$.\n\nTH2: $\\Delta'<0$: $z_0$ phức, $|z_0|=|m|=\\sqrt{5} \\Rightarrow m=\\pm\\sqrt{5}$, kiểm tra lại $\\Delta'<0$.\n\nTH3: $\\Delta'>0$: $z_0=\\pm\\sqrt{5}$ là nghiệm thực, thế vào phương trình gốc để giải $m$, kiểm tra lại $\\Delta'>0$.\n\nTổng hợp cả ba trường hợp (loại nghiệm trùng nếu có), ta được 3 giá trị $m$ thỏa mãn.",
+    "params": {
+      "a": "-2",
+      "R": "sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=3-6i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=3-6i$ suy ra $z_1=3$, $z_2=-3$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=3-6i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "3",
+      "q": "-6"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-2+9i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=-2+9i$ suy ra $z_1=-2$, $z_2=\\dfrac{9}{2}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=-2+9i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-2",
+      "q": "9"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=7+7i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=7+7i$ suy ra $z_1=7$, $z_2=\\dfrac{7}{2}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=7+7i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "7",
+      "q": "7"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-2-6i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=-2-6i$ suy ra $z_1=-2$, $z_2=-3$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=-2-6i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-2",
+      "q": "-6"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-6+7i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=-6+7i$ suy ra $z_1=-6$, $z_2=\\dfrac{7}{2}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=-6+7i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-6",
+      "q": "7"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=7+4i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=7+4i$ suy ra $z_1=7$, $z_2=2$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=7+4i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "7",
+      "q": "4"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=- \\dfrac{10}{3}+\\dfrac{1}{2}i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=- \\dfrac{10}{3}+\\dfrac{1}{2}i$ suy ra $z_1=- \\dfrac{10}{3}$, $z_2=\\dfrac{1}{4}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=- \\dfrac{10}{3}+\\dfrac{1}{2}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-10/3",
+      "q": "1/2"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=\\dfrac{11}{2}+\\dfrac{4}{3}i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=\\dfrac{11}{2}+\\dfrac{4}{3}i$ suy ra $z_1=\\dfrac{11}{2}$, $z_2=\\dfrac{2}{3}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=\\dfrac{11}{2}+\\dfrac{4}{3}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "11/2",
+      "q": "4/3"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=\\dfrac{5}{3}+\\dfrac{7}{2}i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=\\dfrac{5}{3}+\\dfrac{7}{2}i$ suy ra $z_1=\\dfrac{5}{3}$, $z_2=\\dfrac{7}{4}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=\\dfrac{5}{3}+\\dfrac{7}{2}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "5/3",
+      "q": "7/2"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=- \\dfrac{11}{4}-\\dfrac{7}{3}i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=- \\dfrac{11}{4}-\\dfrac{7}{3}i$ suy ra $z_1=- \\dfrac{11}{4}$, $z_2=- \\dfrac{7}{6}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=- \\dfrac{11}{4}-\\dfrac{7}{3}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-11/4",
+      "q": "-7/3"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=\\dfrac{11}{2}+\\dfrac{8}{3}i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=\\dfrac{11}{2}+\\dfrac{8}{3}i$ suy ra $z_1=\\dfrac{11}{2}$, $z_2=\\dfrac{4}{3}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=\\dfrac{11}{2}+\\dfrac{8}{3}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "11/2",
+      "q": "8/3"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=- \\dfrac{3}{4}+\\dfrac{9}{4}i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=- \\dfrac{3}{4}+\\dfrac{9}{4}i$ suy ra $z_1=- \\dfrac{3}{4}$, $z_2=\\dfrac{9}{8}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=- \\dfrac{3}{4}+\\dfrac{9}{4}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-3/4",
+      "q": "9/4"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=2 \\sqrt{7}-2i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=2 \\sqrt{7}-2i$ suy ra $z_1=2 \\sqrt{7}$, $z_2=-1$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=2 \\sqrt{7}-2i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "2*sqrt(7)",
+      "q": "-2"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=1-4 \\sqrt{2}i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=1-4 \\sqrt{2}i$ suy ra $z_1=1$, $z_2=- 2 \\sqrt{2}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=1-4 \\sqrt{2}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "1",
+      "q": "-4*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-4-3 \\sqrt{11}i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=-4-3 \\sqrt{11}i$ suy ra $z_1=-4$, $z_2=- \\dfrac{3 \\sqrt{11}}{2}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=-4-3 \\sqrt{11}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-4",
+      "q": "-3*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=4+\\sqrt{5}i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=4+\\sqrt{5}i$ suy ra $z_1=4$, $z_2=\\dfrac{\\sqrt{5}}{2}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=4+\\sqrt{5}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "4",
+      "q": "sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-1-4 \\sqrt{7}i$?\n\nA. $3$.\nB. $4$.\nC. $5$.\nD. $6$.",
+    "dap_an": "B. $4$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=-1-4 \\sqrt{7}i$ suy ra $z_1=-1$, $z_2=- 2 \\sqrt{7}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=-1-4 \\sqrt{7}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 4 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-1",
+      "q": "-4*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 61,
+    "dang": "Dạng 6 - Phương trình bậc hai có tham số",
+    "mau_ta": "mau_stt61",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên tập hợp các số phức, xét phương trình $z^2+4az+b^2+2=0$ ($a, b$ là các tham số thực). Có bao nhiêu cặp số thực $(a;b)$ sao cho phương trình đó có hai nghiệm $z_1, z_2$ thỏa mãn $z_1+2iz_2=-1+2 \\sqrt{5}i$?\n\nA. $1$.\nB. $2$.\nC. $3$.\nD. $4$.",
+    "dap_an": "B. $2$.",
+    "loi_giai": "TH1: $z_1,z_2$ là hai nghiệm thực. Từ $z_1+2iz_2=-1+2 \\sqrt{5}i$ suy ra $z_1=-1$, $z_2=\\sqrt{5}$. Theo Vi-ét, $-4a=z_1+z_2$ và $b^2+2=z_1z_2$, giải ra $(a;b)$ nếu tồn tại.\n\nTH2: $z_1,z_2$ là hai nghiệm phức liên hợp, đặt $z_1=x+yi$, $z_2=x-yi$. Từ $z_1+2iz_2=-1+2 \\sqrt{5}i$, cân bằng phần thực/ảo ta được hệ phương trình bậc nhất theo $x,y$, giải ra $x,y$ rồi suy ra $(a;b)$ qua Vi-ét (nếu $y\\ne0$ và $b^2\\ge0$).\n\nTổng hợp cả hai trường hợp, ta được 2 cặp $(a;b)$ thỏa mãn.",
+    "params": {
+      "p": "-1",
+      "q": "2*sqrt(5)"
+    }
+  }
+]

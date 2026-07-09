@@ -1,0 +1,24 @@
+STT range: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+
+Images:
+F:\Math\scratch\pages\page_010.png
+F:\Math\scratch\pages\page_011.png
+F:\Math\scratch\pages\page_024.png
+F:\Math\scratch\pages\page_025.png
+F:\Math\scratch\pages\page_031.png
+F:\Math\scratch\pages\page_040.png
+F:\Math\scratch\pages\page_044.png
+F:\Math\scratch\pages\page_072.png
+F:\Math\scratch\pages\page_073.png
+F:\Math\scratch\pages\page_080.png
+F:\Math\scratch\pages\page_084.png
+F:\Math\scratch\pages\page_096.png
+F:\Math\scratch\pages\page_097.png
+F:\Math\scratch\pages\page_100.png
+F:\Math\scratch\pages\page_108.png
+F:\Math\scratch\pages\page_109.png
+F:\Math\scratch\pages\page_110.png
+F:\Math\scratch\pages\page_113.png
+F:\Math\scratch\pages\page_116.png
+F:\Math\scratch\pages\page_121.png
+F:\Math\scratch\pages\page_123.png

@@ -1,0 +1,8 @@
+[
+  {
+    "stt": 75,
+    "dinh_danh": "KT-09 (Trang 34 - Câu 16)",
+    "loai_van_de": "Lỗi toán học trong tài liệu gốc",
+    "mo_ta": "Dòng kết quả của lời giải ghi $V = a \\cdot \\dfrac{a^2\\sqrt{3}}{4} = \\dfrac{a^2\\sqrt{3}}{4}$ — kết quả cuối bị sai số mũ (viết $a^2$ thay vì $a^3$). Đối chiếu ảnh gốc trang 34: bản gốc CŨNG in $\\dfrac{a^2\\sqrt{3}}{4}$, nên đây là lỗi in/typo có sẵn trong tài liệu, không phải do chuyển đổi. Đáp án D ($V = \\dfrac{a^3\\sqrt{3}}{4}$) là đúng. Nên sửa kết quả cuối của lời giải thành $\\dfrac{a^3\\sqrt{3}}{4}$."
+  }
+]

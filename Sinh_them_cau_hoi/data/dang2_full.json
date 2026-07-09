@@ -1,0 +1,1538 @@
+[
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-2-7i$ có tọa độ là\n\nA. $(2;-7)$.\nB. $(-7;-2)$.\nC. $(-2;-7)$.\nD. $(-2;7)$.",
+    "dap_an": "C. $(-2;-7)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-2-7i$ có tọa độ là $(-2;-7)$.",
+    "params": {
+      "a": "-2",
+      "b": "-7"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-5+4i$ có tọa độ là\n\nA. $(5;4)$.\nB. $(4;-5)$.\nC. $(-5;4)$.\nD. $(-5;-4)$.",
+    "dap_an": "C. $(-5;4)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-5+4i$ có tọa độ là $(-5;4)$.",
+    "params": {
+      "a": "-5",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=7-4i$ có tọa độ là\n\nA. $(-7;-4)$.\nB. $(-4;7)$.\nC. $(7;-4)$.\nD. $(7;4)$.",
+    "dap_an": "C. $(7;-4)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=7-4i$ có tọa độ là $(7;-4)$.",
+    "params": {
+      "a": "7",
+      "b": "-4"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=1+5i$ có tọa độ là\n\nA. $(-1;5)$.\nB. $(5;1)$.\nC. $(1;5)$.\nD. $(1;-5)$.",
+    "dap_an": "C. $(1;5)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=1+5i$ có tọa độ là $(1;5)$.",
+    "params": {
+      "a": "1",
+      "b": "5"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{8}{5}-\\dfrac{11}{3}i$ có tọa độ là\n\nA. $(\\dfrac{8}{5};- \\dfrac{11}{3})$.\nB. $(- \\dfrac{11}{3};- \\dfrac{8}{5})$.\nC. $(- \\dfrac{8}{5};- \\dfrac{11}{3})$.\nD. $(- \\dfrac{8}{5};\\dfrac{11}{3})$.",
+    "dap_an": "C. $(- \\dfrac{8}{5};- \\dfrac{11}{3})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{8}{5}-\\dfrac{11}{3}i$ có tọa độ là $(- \\dfrac{8}{5};- \\dfrac{11}{3})$.",
+    "params": {
+      "a": "-8/5",
+      "b": "-11/3"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{2}{3}+\\dfrac{8}{3}i$ có tọa độ là\n\nA. $(\\dfrac{2}{3};\\dfrac{8}{3})$.\nB. $(\\dfrac{8}{3};- \\dfrac{2}{3})$.\nC. $(- \\dfrac{2}{3};\\dfrac{8}{3})$.\nD. $(- \\dfrac{2}{3};- \\dfrac{8}{3})$.",
+    "dap_an": "C. $(- \\dfrac{2}{3};\\dfrac{8}{3})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{2}{3}+\\dfrac{8}{3}i$ có tọa độ là $(- \\dfrac{2}{3};\\dfrac{8}{3})$.",
+    "params": {
+      "a": "-2/3",
+      "b": "8/3"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=\\dfrac{1}{5}-\\dfrac{11}{2}i$ có tọa độ là\n\nA. $(- \\dfrac{1}{5};- \\dfrac{11}{2})$.\nB. $(- \\dfrac{11}{2};\\dfrac{1}{5})$.\nC. $(\\dfrac{1}{5};- \\dfrac{11}{2})$.\nD. $(\\dfrac{1}{5};\\dfrac{11}{2})$.",
+    "dap_an": "C. $(\\dfrac{1}{5};- \\dfrac{11}{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=\\dfrac{1}{5}-\\dfrac{11}{2}i$ có tọa độ là $(\\dfrac{1}{5};- \\dfrac{11}{2})$.",
+    "params": {
+      "a": "1/5",
+      "b": "-11/2"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{11}{5}+\\dfrac{5}{3}i$ có tọa độ là\n\nA. $(\\dfrac{11}{5};\\dfrac{5}{3})$.\nB. $(\\dfrac{5}{3};- \\dfrac{11}{5})$.\nC. $(- \\dfrac{11}{5};\\dfrac{5}{3})$.\nD. $(- \\dfrac{11}{5};- \\dfrac{5}{3})$.",
+    "dap_an": "C. $(- \\dfrac{11}{5};\\dfrac{5}{3})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{11}{5}+\\dfrac{5}{3}i$ có tọa độ là $(- \\dfrac{11}{5};\\dfrac{5}{3})$.",
+    "params": {
+      "a": "-11/5",
+      "b": "5/3"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- 2 \\sqrt{7}+9i$ có tọa độ là\n\nA. $(2 \\sqrt{7};9)$.\nB. $(9;- 2 \\sqrt{7})$.\nC. $(- 2 \\sqrt{7};9)$.\nD. $(- 2 \\sqrt{7};-9)$.",
+    "dap_an": "C. $(- 2 \\sqrt{7};9)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- 2 \\sqrt{7}+9i$ có tọa độ là $(- 2 \\sqrt{7};9)$.",
+    "params": {
+      "a": "-2*sqrt(7)",
+      "b": "9"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-3+3 \\sqrt{11}i$ có tọa độ là\n\nA. $(3;3 \\sqrt{11})$.\nB. $(3 \\sqrt{11};-3)$.\nC. $(-3;3 \\sqrt{11})$.\nD. $(-3;- 3 \\sqrt{11})$.",
+    "dap_an": "C. $(-3;3 \\sqrt{11})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-3+3 \\sqrt{11}i$ có tọa độ là $(-3;3 \\sqrt{11})$.",
+    "params": {
+      "a": "-3",
+      "b": "3*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- 2 \\sqrt{5}+8i$ có tọa độ là\n\nA. $(2 \\sqrt{5};8)$.\nB. $(8;- 2 \\sqrt{5})$.\nC. $(- 2 \\sqrt{5};8)$.\nD. $(- 2 \\sqrt{5};-8)$.",
+    "dap_an": "C. $(- 2 \\sqrt{5};8)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- 2 \\sqrt{5}+8i$ có tọa độ là $(- 2 \\sqrt{5};8)$.",
+    "params": {
+      "a": "-2*sqrt(5)",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 20,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-4-2 \\sqrt{10}i$ có tọa độ là\n\nA. $(4;- 2 \\sqrt{10})$.\nB. $(- 2 \\sqrt{10};-4)$.\nC. $(-4;- 2 \\sqrt{10})$.\nD. $(-4;2 \\sqrt{10})$.",
+    "dap_an": "C. $(-4;- 2 \\sqrt{10})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-4-2 \\sqrt{10}i$ có tọa độ là $(-4;- 2 \\sqrt{10})$.",
+    "params": {
+      "a": "-4",
+      "b": "-2*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=4+i$ có tọa độ là\n\nA. $(-4;1)$.\nB. $(1;4)$.\nC. $(4;1)$.\nD. $(4;-1)$.",
+    "dap_an": "C. $(4;1)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=4+i$ có tọa độ là $(4;1)$.",
+    "params": {
+      "a": "4",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=8+7i$ có tọa độ là\n\nA. $(-8;7)$.\nB. $(7;8)$.\nC. $(8;7)$.\nD. $(8;-7)$.",
+    "dap_an": "C. $(8;7)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=8+7i$ có tọa độ là $(8;7)$.",
+    "params": {
+      "a": "8",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=3+4i$ có tọa độ là\n\nA. $(-3;4)$.\nB. $(4;3)$.\nC. $(3;4)$.\nD. $(3;-4)$.",
+    "dap_an": "C. $(3;4)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=3+4i$ có tọa độ là $(3;4)$.",
+    "params": {
+      "a": "3",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-6-i$ có tọa độ là\n\nA. $(6;-1)$.\nB. $(-1;-6)$.\nC. $(-6;-1)$.\nD. $(-6;1)$.",
+    "dap_an": "C. $(-6;-1)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-6-i$ có tọa độ là $(-6;-1)$.",
+    "params": {
+      "a": "-6",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=\\dfrac{11}{5}-\\dfrac{7}{2}i$ có tọa độ là\n\nA. $(- \\dfrac{11}{5};- \\dfrac{7}{2})$.\nB. $(- \\dfrac{7}{2};\\dfrac{11}{5})$.\nC. $(\\dfrac{11}{5};- \\dfrac{7}{2})$.\nD. $(\\dfrac{11}{5};\\dfrac{7}{2})$.",
+    "dap_an": "C. $(\\dfrac{11}{5};- \\dfrac{7}{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=\\dfrac{11}{5}-\\dfrac{7}{2}i$ có tọa độ là $(\\dfrac{11}{5};- \\dfrac{7}{2})$.",
+    "params": {
+      "a": "11/5",
+      "b": "-7/2"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=\\dfrac{1}{5}-\\dfrac{1}{4}i$ có tọa độ là\n\nA. $(- \\dfrac{1}{5};- \\dfrac{1}{4})$.\nB. $(- \\dfrac{1}{4};\\dfrac{1}{5})$.\nC. $(\\dfrac{1}{5};- \\dfrac{1}{4})$.\nD. $(\\dfrac{1}{5};\\dfrac{1}{4})$.",
+    "dap_an": "C. $(\\dfrac{1}{5};- \\dfrac{1}{4})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=\\dfrac{1}{5}-\\dfrac{1}{4}i$ có tọa độ là $(\\dfrac{1}{5};- \\dfrac{1}{4})$.",
+    "params": {
+      "a": "1/5",
+      "b": "-1/4"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{9}{2}-\\dfrac{5}{2}i$ có tọa độ là\n\nA. $(\\dfrac{9}{2};- \\dfrac{5}{2})$.\nB. $(- \\dfrac{5}{2};- \\dfrac{9}{2})$.\nC. $(- \\dfrac{9}{2};- \\dfrac{5}{2})$.\nD. $(- \\dfrac{9}{2};\\dfrac{5}{2})$.",
+    "dap_an": "C. $(- \\dfrac{9}{2};- \\dfrac{5}{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{9}{2}-\\dfrac{5}{2}i$ có tọa độ là $(- \\dfrac{9}{2};- \\dfrac{5}{2})$.",
+    "params": {
+      "a": "-9/2",
+      "b": "-5/2"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{4}{3}-\\dfrac{7}{3}i$ có tọa độ là\n\nA. $(\\dfrac{4}{3};- \\dfrac{7}{3})$.\nB. $(- \\dfrac{7}{3};- \\dfrac{4}{3})$.\nC. $(- \\dfrac{4}{3};- \\dfrac{7}{3})$.\nD. $(- \\dfrac{4}{3};\\dfrac{7}{3})$.",
+    "dap_an": "C. $(- \\dfrac{4}{3};- \\dfrac{7}{3})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{4}{3}-\\dfrac{7}{3}i$ có tọa độ là $(- \\dfrac{4}{3};- \\dfrac{7}{3})$.",
+    "params": {
+      "a": "-4/3",
+      "b": "-7/3"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=3 \\sqrt{11}+3i$ có tọa độ là\n\nA. $(- 3 \\sqrt{11};3)$.\nB. $(3;3 \\sqrt{11})$.\nC. $(3 \\sqrt{11};3)$.\nD. $(3 \\sqrt{11};-3)$.",
+    "dap_an": "C. $(3 \\sqrt{11};3)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=3 \\sqrt{11}+3i$ có tọa độ là $(3 \\sqrt{11};3)$.",
+    "params": {
+      "a": "3*sqrt(11)",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=3 \\sqrt{11}-3 \\sqrt{7}i$ có tọa độ là\n\nA. $(- 3 \\sqrt{11};- 3 \\sqrt{7})$.\nB. $(- 3 \\sqrt{7};3 \\sqrt{11})$.\nC. $(3 \\sqrt{11};- 3 \\sqrt{7})$.\nD. $(3 \\sqrt{11};3 \\sqrt{7})$.",
+    "dap_an": "C. $(3 \\sqrt{11};- 3 \\sqrt{7})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=3 \\sqrt{11}-3 \\sqrt{7}i$ có tọa độ là $(3 \\sqrt{11};- 3 \\sqrt{7})$.",
+    "params": {
+      "a": "3*sqrt(11)",
+      "b": "-3*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=6-\\sqrt{6}i$ có tọa độ là\n\nA. $(-6;- \\sqrt{6})$.\nB. $(- \\sqrt{6};6)$.\nC. $(6;- \\sqrt{6})$.\nD. $(6;\\sqrt{6})$.",
+    "dap_an": "C. $(6;- \\sqrt{6})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=6-\\sqrt{6}i$ có tọa độ là $(6;- \\sqrt{6})$.",
+    "params": {
+      "a": "6",
+      "b": "-sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 28,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\sqrt{5}+3 \\sqrt{2}i$ có tọa độ là\n\nA. $(\\sqrt{5};3 \\sqrt{2})$.\nB. $(3 \\sqrt{2};- \\sqrt{5})$.\nC. $(- \\sqrt{5};3 \\sqrt{2})$.\nD. $(- \\sqrt{5};- 3 \\sqrt{2})$.",
+    "dap_an": "C. $(- \\sqrt{5};3 \\sqrt{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\sqrt{5}+3 \\sqrt{2}i$ có tọa độ là $(- \\sqrt{5};3 \\sqrt{2})$.",
+    "params": {
+      "a": "-sqrt(5)",
+      "b": "3*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-5-8i$ có tọa độ là\n\nA. $(5;-8)$.\nB. $(-8;-5)$.\nC. $(-5;-8)$.\nD. $(-5;8)$.",
+    "dap_an": "C. $(-5;-8)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-5-8i$ có tọa độ là $(-5;-8)$.",
+    "params": {
+      "a": "-5",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-3+4i$ có tọa độ là\n\nA. $(3;4)$.\nB. $(4;-3)$.\nC. $(-3;4)$.\nD. $(-3;-4)$.",
+    "dap_an": "C. $(-3;4)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-3+4i$ có tọa độ là $(-3;4)$.",
+    "params": {
+      "a": "-3",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-2-i$ có tọa độ là\n\nA. $(2;-1)$.\nB. $(-1;-2)$.\nC. $(-2;-1)$.\nD. $(-2;1)$.",
+    "dap_an": "C. $(-2;-1)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-2-i$ có tọa độ là $(-2;-1)$.",
+    "params": {
+      "a": "-2",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=-3-i$ có tọa độ là\n\nA. $(3;-1)$.\nB. $(-1;-3)$.\nC. $(-3;-1)$.\nD. $(-3;1)$.",
+    "dap_an": "C. $(-3;-1)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=-3-i$ có tọa độ là $(-3;-1)$.",
+    "params": {
+      "a": "-3",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=\\dfrac{1}{2}-\\dfrac{5}{2}i$ có tọa độ là\n\nA. $(- \\dfrac{1}{2};- \\dfrac{5}{2})$.\nB. $(- \\dfrac{5}{2};\\dfrac{1}{2})$.\nC. $(\\dfrac{1}{2};- \\dfrac{5}{2})$.\nD. $(\\dfrac{1}{2};\\dfrac{5}{2})$.",
+    "dap_an": "C. $(\\dfrac{1}{2};- \\dfrac{5}{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=\\dfrac{1}{2}-\\dfrac{5}{2}i$ có tọa độ là $(\\dfrac{1}{2};- \\dfrac{5}{2})$.",
+    "params": {
+      "a": "1/2",
+      "b": "-5/2"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{2}{5}+\\dfrac{4}{3}i$ có tọa độ là\n\nA. $(\\dfrac{2}{5};\\dfrac{4}{3})$.\nB. $(\\dfrac{4}{3};- \\dfrac{2}{5})$.\nC. $(- \\dfrac{2}{5};\\dfrac{4}{3})$.\nD. $(- \\dfrac{2}{5};- \\dfrac{4}{3})$.",
+    "dap_an": "C. $(- \\dfrac{2}{5};\\dfrac{4}{3})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{2}{5}+\\dfrac{4}{3}i$ có tọa độ là $(- \\dfrac{2}{5};\\dfrac{4}{3})$.",
+    "params": {
+      "a": "-2/5",
+      "b": "4/3"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{8}{5}-\\dfrac{7}{2}i$ có tọa độ là\n\nA. $(\\dfrac{8}{5};- \\dfrac{7}{2})$.\nB. $(- \\dfrac{7}{2};- \\dfrac{8}{5})$.\nC. $(- \\dfrac{8}{5};- \\dfrac{7}{2})$.\nD. $(- \\dfrac{8}{5};\\dfrac{7}{2})$.",
+    "dap_an": "C. $(- \\dfrac{8}{5};- \\dfrac{7}{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{8}{5}-\\dfrac{7}{2}i$ có tọa độ là $(- \\dfrac{8}{5};- \\dfrac{7}{2})$.",
+    "params": {
+      "a": "-8/5",
+      "b": "-7/2"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=- \\dfrac{7}{3}-\\dfrac{9}{4}i$ có tọa độ là\n\nA. $(\\dfrac{7}{3};- \\dfrac{9}{4})$.\nB. $(- \\dfrac{9}{4};- \\dfrac{7}{3})$.\nC. $(- \\dfrac{7}{3};- \\dfrac{9}{4})$.\nD. $(- \\dfrac{7}{3};\\dfrac{9}{4})$.",
+    "dap_an": "C. $(- \\dfrac{7}{3};- \\dfrac{9}{4})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=- \\dfrac{7}{3}-\\dfrac{9}{4}i$ có tọa độ là $(- \\dfrac{7}{3};- \\dfrac{9}{4})$.",
+    "params": {
+      "a": "-7/3",
+      "b": "-9/4"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=4+2 \\sqrt{10}i$ có tọa độ là\n\nA. $(-4;2 \\sqrt{10})$.\nB. $(2 \\sqrt{10};4)$.\nC. $(4;2 \\sqrt{10})$.\nD. $(4;- 2 \\sqrt{10})$.",
+    "dap_an": "C. $(4;2 \\sqrt{10})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=4+2 \\sqrt{10}i$ có tọa độ là $(4;2 \\sqrt{10})$.",
+    "params": {
+      "a": "4",
+      "b": "2*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=\\sqrt{5}-9i$ có tọa độ là\n\nA. $(- \\sqrt{5};-9)$.\nB. $(-9;\\sqrt{5})$.\nC. $(\\sqrt{5};-9)$.\nD. $(\\sqrt{5};9)$.",
+    "dap_an": "C. $(\\sqrt{5};-9)$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=\\sqrt{5}-9i$ có tọa độ là $(\\sqrt{5};-9)$.",
+    "params": {
+      "a": "sqrt(5)",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=3+3 \\sqrt{2}i$ có tọa độ là\n\nA. $(-3;3 \\sqrt{2})$.\nB. $(3 \\sqrt{2};3)$.\nC. $(3;3 \\sqrt{2})$.\nD. $(3;- 3 \\sqrt{2})$.",
+    "dap_an": "C. $(3;3 \\sqrt{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=3+3 \\sqrt{2}i$ có tọa độ là $(3;3 \\sqrt{2})$.",
+    "params": {
+      "a": "3",
+      "b": "3*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 63,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_diem_bieu_dien",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z=4 \\sqrt{5}-3 \\sqrt{2}i$ có tọa độ là\n\nA. $(- 4 \\sqrt{5};- 3 \\sqrt{2})$.\nB. $(- 3 \\sqrt{2};4 \\sqrt{5})$.\nC. $(4 \\sqrt{5};- 3 \\sqrt{2})$.\nD. $(4 \\sqrt{5};3 \\sqrt{2})$.",
+    "dap_an": "C. $(4 \\sqrt{5};- 3 \\sqrt{2})$.",
+    "loi_giai": "Điểm biểu diễn số phức $z=4 \\sqrt{5}-3 \\sqrt{2}i$ có tọa độ là $(4 \\sqrt{5};- 3 \\sqrt{2})$.",
+    "params": {
+      "a": "4*sqrt(5)",
+      "b": "-3*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(-6;4)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $4$.\nB. $6$.\nC. $-4$.\nD. $-6$.",
+    "dap_an": "D. $-6$.",
+    "loi_giai": "Ta có $(-6;4)$ là điểm biểu diễn số phức $z=-6+4i$. Do đó, phần thực của $z$ là $-6$.",
+    "params": {
+      "a": "-6",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(-8;1)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $1$.\nB. $8$.\nC. $-1$.\nD. $-8$.",
+    "dap_an": "D. $-8$.",
+    "loi_giai": "Ta có $(-8;1)$ là điểm biểu diễn số phức $z=-8+i$. Do đó, phần thực của $z$ là $-8$.",
+    "params": {
+      "a": "-8",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(7;-9)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $-9$.\nB. $-7$.\nC. $9$.\nD. $7$.",
+    "dap_an": "D. $7$.",
+    "loi_giai": "Ta có $(7;-9)$ là điểm biểu diễn số phức $z=7-9i$. Do đó, phần thực của $z$ là $7$.",
+    "params": {
+      "a": "7",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(-9;-3)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $-3$.\nB. $9$.\nC. $3$.\nD. $-9$.",
+    "dap_an": "D. $-9$.",
+    "loi_giai": "Ta có $(-9;-3)$ là điểm biểu diễn số phức $z=-9-3i$. Do đó, phần thực của $z$ là $-9$.",
+    "params": {
+      "a": "-9",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(\\dfrac{10}{3};\\dfrac{1}{5})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\dfrac{1}{5}$.\nB. $- \\dfrac{10}{3}$.\nC. $- \\dfrac{1}{5}$.\nD. $\\dfrac{10}{3}$.",
+    "dap_an": "D. $\\dfrac{10}{3}$.",
+    "loi_giai": "Ta có $(\\dfrac{10}{3};\\dfrac{1}{5})$ là điểm biểu diễn số phức $z=\\dfrac{10}{3}+\\dfrac{1}{5}i$. Do đó, phần thực của $z$ là $\\dfrac{10}{3}$.",
+    "params": {
+      "a": "10/3",
+      "b": "1/5"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(\\dfrac{5}{4};\\dfrac{3}{5})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\dfrac{3}{5}$.\nB. $- \\dfrac{5}{4}$.\nC. $- \\dfrac{3}{5}$.\nD. $\\dfrac{5}{4}$.",
+    "dap_an": "D. $\\dfrac{5}{4}$.",
+    "loi_giai": "Ta có $(\\dfrac{5}{4};\\dfrac{3}{5})$ là điểm biểu diễn số phức $z=\\dfrac{5}{4}+\\dfrac{3}{5}i$. Do đó, phần thực của $z$ là $\\dfrac{5}{4}$.",
+    "params": {
+      "a": "5/4",
+      "b": "3/5"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(\\dfrac{4}{5};- \\dfrac{9}{5})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- \\dfrac{9}{5}$.\nB. $- \\dfrac{4}{5}$.\nC. $\\dfrac{9}{5}$.\nD. $\\dfrac{4}{5}$.",
+    "dap_an": "D. $\\dfrac{4}{5}$.",
+    "loi_giai": "Ta có $(\\dfrac{4}{5};- \\dfrac{9}{5})$ là điểm biểu diễn số phức $z=\\dfrac{4}{5}-\\dfrac{9}{5}i$. Do đó, phần thực của $z$ là $\\dfrac{4}{5}$.",
+    "params": {
+      "a": "4/5",
+      "b": "-9/5"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(- \\dfrac{1}{2};\\dfrac{9}{2})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\dfrac{9}{2}$.\nB. $\\dfrac{1}{2}$.\nC. $- \\dfrac{9}{2}$.\nD. $- \\dfrac{1}{2}$.",
+    "dap_an": "D. $- \\dfrac{1}{2}$.",
+    "loi_giai": "Ta có $(- \\dfrac{1}{2};\\dfrac{9}{2})$ là điểm biểu diễn số phức $z=- \\dfrac{1}{2}+\\dfrac{9}{2}i$. Do đó, phần thực của $z$ là $- \\dfrac{1}{2}$.",
+    "params": {
+      "a": "-1/2",
+      "b": "9/2"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(2 \\sqrt{10};2 \\sqrt{2})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $2 \\sqrt{2}$.\nB. $- 2 \\sqrt{10}$.\nC. $- 2 \\sqrt{2}$.\nD. $2 \\sqrt{10}$.",
+    "dap_an": "D. $2 \\sqrt{10}$.",
+    "loi_giai": "Ta có $(2 \\sqrt{10};2 \\sqrt{2})$ là điểm biểu diễn số phức $z=2 \\sqrt{10}+2 \\sqrt{2}i$. Do đó, phần thực của $z$ là $2 \\sqrt{10}$.",
+    "params": {
+      "a": "2*sqrt(10)",
+      "b": "2*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(\\sqrt{7};- 3 \\sqrt{3})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- 3 \\sqrt{3}$.\nB. $- \\sqrt{7}$.\nC. $3 \\sqrt{3}$.\nD. $\\sqrt{7}$.",
+    "dap_an": "D. $\\sqrt{7}$.",
+    "loi_giai": "Ta có $(\\sqrt{7};- 3 \\sqrt{3})$ là điểm biểu diễn số phức $z=\\sqrt{7}-3 \\sqrt{3}i$. Do đó, phần thực của $z$ là $\\sqrt{7}$.",
+    "params": {
+      "a": "sqrt(7)",
+      "b": "-3*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(-7;- 4 \\sqrt{7})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- 4 \\sqrt{7}$.\nB. $7$.\nC. $4 \\sqrt{7}$.\nD. $-7$.",
+    "dap_an": "D. $-7$.",
+    "loi_giai": "Ta có $(-7;- 4 \\sqrt{7})$ là điểm biểu diễn số phức $z=-7-4 \\sqrt{7}i$. Do đó, phần thực của $z$ là $-7$.",
+    "params": {
+      "a": "-7",
+      "b": "-4*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 24,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(7;- \\sqrt{5})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- \\sqrt{5}$.\nB. $-7$.\nC. $\\sqrt{5}$.\nD. $7$.",
+    "dap_an": "D. $7$.",
+    "loi_giai": "Ta có $(7;- \\sqrt{5})$ là điểm biểu diễn số phức $z=7-\\sqrt{5}i$. Do đó, phần thực của $z$ là $7$.",
+    "params": {
+      "a": "7",
+      "b": "-sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(-5;-9)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $-9$.\nB. $5$.\nC. $9$.\nD. $-5$.",
+    "dap_an": "D. $-5$.",
+    "loi_giai": "Ta có $(-5;-9)$ là điểm biểu diễn số phức $z=-5-9i$. Do đó, phần thực của $z$ là $-5$.",
+    "params": {
+      "a": "-5",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(5;-7)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $-7$.\nB. $-5$.\nC. $7$.\nD. $5$.",
+    "dap_an": "D. $5$.",
+    "loi_giai": "Ta có $(5;-7)$ là điểm biểu diễn số phức $z=5-7i$. Do đó, phần thực của $z$ là $5$.",
+    "params": {
+      "a": "5",
+      "b": "-7"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(7;2)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $2$.\nB. $-7$.\nC. $-2$.\nD. $7$.",
+    "dap_an": "D. $7$.",
+    "loi_giai": "Ta có $(7;2)$ là điểm biểu diễn số phức $z=7+2i$. Do đó, phần thực của $z$ là $7$.",
+    "params": {
+      "a": "7",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(-6;-9)$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $-9$.\nB. $6$.\nC. $9$.\nD. $-6$.",
+    "dap_an": "D. $-6$.",
+    "loi_giai": "Ta có $(-6;-9)$ là điểm biểu diễn số phức $z=-6-9i$. Do đó, phần thực của $z$ là $-6$.",
+    "params": {
+      "a": "-6",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(- \\dfrac{8}{3};- \\dfrac{1}{2})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- \\dfrac{1}{2}$.\nB. $\\dfrac{8}{3}$.\nC. $\\dfrac{1}{2}$.\nD. $- \\dfrac{8}{3}$.",
+    "dap_an": "D. $- \\dfrac{8}{3}$.",
+    "loi_giai": "Ta có $(- \\dfrac{8}{3};- \\dfrac{1}{2})$ là điểm biểu diễn số phức $z=- \\dfrac{8}{3}-\\dfrac{1}{2}i$. Do đó, phần thực của $z$ là $- \\dfrac{8}{3}$.",
+    "params": {
+      "a": "-8/3",
+      "b": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(\\dfrac{5}{3};\\dfrac{7}{2})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\dfrac{7}{2}$.\nB. $- \\dfrac{5}{3}$.\nC. $- \\dfrac{7}{2}$.\nD. $\\dfrac{5}{3}$.",
+    "dap_an": "D. $\\dfrac{5}{3}$.",
+    "loi_giai": "Ta có $(\\dfrac{5}{3};\\dfrac{7}{2})$ là điểm biểu diễn số phức $z=\\dfrac{5}{3}+\\dfrac{7}{2}i$. Do đó, phần thực của $z$ là $\\dfrac{5}{3}$.",
+    "params": {
+      "a": "5/3",
+      "b": "7/2"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(\\dfrac{4}{3};\\dfrac{7}{5})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\dfrac{7}{5}$.\nB. $- \\dfrac{4}{3}$.\nC. $- \\dfrac{7}{5}$.\nD. $\\dfrac{4}{3}$.",
+    "dap_an": "D. $\\dfrac{4}{3}$.",
+    "loi_giai": "Ta có $(\\dfrac{4}{3};\\dfrac{7}{5})$ là điểm biểu diễn số phức $z=\\dfrac{4}{3}+\\dfrac{7}{5}i$. Do đó, phần thực của $z$ là $\\dfrac{4}{3}$.",
+    "params": {
+      "a": "4/3",
+      "b": "7/5"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(- \\dfrac{11}{3};\\dfrac{11}{4})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\dfrac{11}{4}$.\nB. $\\dfrac{11}{3}$.\nC. $- \\dfrac{11}{4}$.\nD. $- \\dfrac{11}{3}$.",
+    "dap_an": "D. $- \\dfrac{11}{3}$.",
+    "loi_giai": "Ta có $(- \\dfrac{11}{3};\\dfrac{11}{4})$ là điểm biểu diễn số phức $z=- \\dfrac{11}{3}+\\dfrac{11}{4}i$. Do đó, phần thực của $z$ là $- \\dfrac{11}{3}$.",
+    "params": {
+      "a": "-11/3",
+      "b": "11/4"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(3;- 2 \\sqrt{2})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- 2 \\sqrt{2}$.\nB. $-3$.\nC. $2 \\sqrt{2}$.\nD. $3$.",
+    "dap_an": "D. $3$.",
+    "loi_giai": "Ta có $(3;- 2 \\sqrt{2})$ là điểm biểu diễn số phức $z=3-2 \\sqrt{2}i$. Do đó, phần thực của $z$ là $3$.",
+    "params": {
+      "a": "3",
+      "b": "-2*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(- 3 \\sqrt{5};4 \\sqrt{7})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $4 \\sqrt{7}$.\nB. $3 \\sqrt{5}$.\nC. $- 4 \\sqrt{7}$.\nD. $- 3 \\sqrt{5}$.",
+    "dap_an": "D. $- 3 \\sqrt{5}$.",
+    "loi_giai": "Ta có $(- 3 \\sqrt{5};4 \\sqrt{7})$ là điểm biểu diễn số phức $z=- 3 \\sqrt{5}+4 \\sqrt{7}i$. Do đó, phần thực của $z$ là $- 3 \\sqrt{5}$.",
+    "params": {
+      "a": "-3*sqrt(5)",
+      "b": "4*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(5;- \\sqrt{2})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $- \\sqrt{2}$.\nB. $-5$.\nC. $\\sqrt{2}$.\nD. $5$.",
+    "dap_an": "D. $5$.",
+    "loi_giai": "Ta có $(5;- \\sqrt{2})$ là điểm biểu diễn số phức $z=5-\\sqrt{2}i$. Do đó, phần thực của $z$ là $5$.",
+    "params": {
+      "a": "5",
+      "b": "-sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 47,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_phan_thuc",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, biết $(2;\\sqrt{6})$ là điểm biểu diễn số phức $z$. Phần thực của $z$ bằng\n\nA. $\\sqrt{6}$.\nB. $-2$.\nC. $- \\sqrt{6}$.\nD. $2$.",
+    "dap_an": "D. $2$.",
+    "loi_giai": "Ta có $(2;\\sqrt{6})$ là điểm biểu diễn số phức $z=2+\\sqrt{6}i$. Do đó, phần thực của $z$ là $2$.",
+    "params": {
+      "a": "2",
+      "b": "sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(8;-8)$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=8+8i$.\nB. $z_2=-8-8i$.\nC. $z_3=-8+8i$.\nD. $z_4=8-8i$.",
+    "dap_an": "D. $z_4=8-8i$.",
+    "loi_giai": "Điểm $(8;-8)$ biểu diễn cho số phức $z_4=8-8i$.",
+    "params": {
+      "a": "8",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(8;-6)$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=8+6i$.\nB. $z_2=-8-6i$.\nC. $z_3=-8+6i$.\nD. $z_4=8-6i$.",
+    "dap_an": "D. $z_4=8-6i$.",
+    "loi_giai": "Điểm $(8;-6)$ biểu diễn cho số phức $z_4=8-6i$.",
+    "params": {
+      "a": "8",
+      "b": "-6"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(6;-9)$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=6+9i$.\nB. $z_2=-6-9i$.\nC. $z_3=-6+9i$.\nD. $z_4=6-9i$.",
+    "dap_an": "D. $z_4=6-9i$.",
+    "loi_giai": "Điểm $(6;-9)$ biểu diễn cho số phức $z_4=6-9i$.",
+    "params": {
+      "a": "6",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(-4;2)$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=-4-2i$.\nB. $z_2=4+2i$.\nC. $z_3=4-2i$.\nD. $z_4=-4+2i$.",
+    "dap_an": "D. $z_4=-4+2i$.",
+    "loi_giai": "Điểm $(-4;2)$ biểu diễn cho số phức $z_4=-4+2i$.",
+    "params": {
+      "a": "-4",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(\\dfrac{1}{3};\\dfrac{9}{2})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=\\dfrac{1}{3}-\\dfrac{9}{2}i$.\nB. $z_2=- \\dfrac{1}{3}+\\dfrac{9}{2}i$.\nC. $z_3=- \\dfrac{1}{3}-\\dfrac{9}{2}i$.\nD. $z_4=\\dfrac{1}{3}+\\dfrac{9}{2}i$.",
+    "dap_an": "D. $z_4=\\dfrac{1}{3}+\\dfrac{9}{2}i$.",
+    "loi_giai": "Điểm $(\\dfrac{1}{3};\\dfrac{9}{2})$ biểu diễn cho số phức $z_4=\\dfrac{1}{3}+\\dfrac{9}{2}i$.",
+    "params": {
+      "a": "1/3",
+      "b": "9/2"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(\\dfrac{6}{5};- \\dfrac{8}{3})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=\\dfrac{6}{5}+\\dfrac{8}{3}i$.\nB. $z_2=- \\dfrac{6}{5}-\\dfrac{8}{3}i$.\nC. $z_3=- \\dfrac{6}{5}+\\dfrac{8}{3}i$.\nD. $z_4=\\dfrac{6}{5}-\\dfrac{8}{3}i$.",
+    "dap_an": "D. $z_4=\\dfrac{6}{5}-\\dfrac{8}{3}i$.",
+    "loi_giai": "Điểm $(\\dfrac{6}{5};- \\dfrac{8}{3})$ biểu diễn cho số phức $z_4=\\dfrac{6}{5}-\\dfrac{8}{3}i$.",
+    "params": {
+      "a": "6/5",
+      "b": "-8/3"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(\\dfrac{5}{2};\\dfrac{2}{3})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=\\dfrac{5}{2}-\\dfrac{2}{3}i$.\nB. $z_2=- \\dfrac{5}{2}+\\dfrac{2}{3}i$.\nC. $z_3=- \\dfrac{5}{2}-\\dfrac{2}{3}i$.\nD. $z_4=\\dfrac{5}{2}+\\dfrac{2}{3}i$.",
+    "dap_an": "D. $z_4=\\dfrac{5}{2}+\\dfrac{2}{3}i$.",
+    "loi_giai": "Điểm $(\\dfrac{5}{2};\\dfrac{2}{3})$ biểu diễn cho số phức $z_4=\\dfrac{5}{2}+\\dfrac{2}{3}i$.",
+    "params": {
+      "a": "5/2",
+      "b": "2/3"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(\\dfrac{2}{3};- \\dfrac{7}{2})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=\\dfrac{2}{3}+\\dfrac{7}{2}i$.\nB. $z_2=- \\dfrac{2}{3}-\\dfrac{7}{2}i$.\nC. $z_3=- \\dfrac{2}{3}+\\dfrac{7}{2}i$.\nD. $z_4=\\dfrac{2}{3}-\\dfrac{7}{2}i$.",
+    "dap_an": "D. $z_4=\\dfrac{2}{3}-\\dfrac{7}{2}i$.",
+    "loi_giai": "Điểm $(\\dfrac{2}{3};- \\dfrac{7}{2})$ biểu diễn cho số phức $z_4=\\dfrac{2}{3}-\\dfrac{7}{2}i$.",
+    "params": {
+      "a": "2/3",
+      "b": "-7/2"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(1;\\sqrt{2})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=1-\\sqrt{2}i$.\nB. $z_2=-1+\\sqrt{2}i$.\nC. $z_3=-1-\\sqrt{2}i$.\nD. $z_4=1+\\sqrt{2}i$.",
+    "dap_an": "D. $z_4=1+\\sqrt{2}i$.",
+    "loi_giai": "Điểm $(1;\\sqrt{2})$ biểu diễn cho số phức $z_4=1+\\sqrt{2}i$.",
+    "params": {
+      "a": "1",
+      "b": "sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(-6;\\sqrt{10})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=-6-\\sqrt{10}i$.\nB. $z_2=6+\\sqrt{10}i$.\nC. $z_3=6-\\sqrt{10}i$.\nD. $z_4=-6+\\sqrt{10}i$.",
+    "dap_an": "D. $z_4=-6+\\sqrt{10}i$.",
+    "loi_giai": "Điểm $(-6;\\sqrt{10})$ biểu diễn cho số phức $z_4=-6+\\sqrt{10}i$.",
+    "params": {
+      "a": "-6",
+      "b": "sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(- 2 \\sqrt{5};- \\sqrt{3})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=- 2 \\sqrt{5}+\\sqrt{3}i$.\nB. $z_2=2 \\sqrt{5}-\\sqrt{3}i$.\nC. $z_3=2 \\sqrt{5}+\\sqrt{3}i$.\nD. $z_4=- 2 \\sqrt{5}-\\sqrt{3}i$.",
+    "dap_an": "D. $z_4=- 2 \\sqrt{5}-\\sqrt{3}i$.",
+    "loi_giai": "Điểm $(- 2 \\sqrt{5};- \\sqrt{3})$ biểu diễn cho số phức $z_4=- 2 \\sqrt{5}-\\sqrt{3}i$.",
+    "params": {
+      "a": "-2*sqrt(5)",
+      "b": "-sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 51,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_M_la_so_phuc_nao",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trong mặt phẳng tọa độ $Oxy$, điểm $(2 \\sqrt{2};4 \\sqrt{2})$ là điểm biểu diễn của số phức nào sau đây?\n\nA. $z_1=2 \\sqrt{2}-4 \\sqrt{2}i$.\nB. $z_2=- 2 \\sqrt{2}+4 \\sqrt{2}i$.\nC. $z_3=- 2 \\sqrt{2}-4 \\sqrt{2}i$.\nD. $z_4=2 \\sqrt{2}+4 \\sqrt{2}i$.",
+    "dap_an": "D. $z_4=2 \\sqrt{2}+4 \\sqrt{2}i$.",
+    "loi_giai": "Điểm $(2 \\sqrt{2};4 \\sqrt{2})$ biểu diễn cho số phức $z_4=2 \\sqrt{2}+4 \\sqrt{2}i$.",
+    "params": {
+      "a": "2*sqrt(2)",
+      "b": "4*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (8+7i)^2$ là điểm nào dưới đây?\n\nA. $P(112;15)$.\nB. $Q(15;112)$.\nC. $N(15;-112)$.\nD. $M(-15;112)$.",
+    "dap_an": "B. $Q(15;112)$.",
+    "loi_giai": "Ta có: $z = (8+7i)^2 = 15+112i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(15;112)$.",
+    "params": {
+      "a": "8",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (7-3i)^2$ là điểm nào dưới đây?\n\nA. $P(-42;40)$.\nB. $Q(40;-42)$.\nC. $N(40;42)$.\nD. $M(-40;-42)$.",
+    "dap_an": "B. $Q(40;-42)$.",
+    "loi_giai": "Ta có: $z = (7-3i)^2 = 40-42i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(40;-42)$.",
+    "params": {
+      "a": "7",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (-2-3i)^2$ là điểm nào dưới đây?\n\nA. $P(12;-5)$.\nB. $Q(-5;12)$.\nC. $N(-5;-12)$.\nD. $M(5;12)$.",
+    "dap_an": "B. $Q(-5;12)$.",
+    "loi_giai": "Ta có: $z = (-2-3i)^2 = -5+12i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(-5;12)$.",
+    "params": {
+      "a": "-2",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (4+3i)^2$ là điểm nào dưới đây?\n\nA. $P(24;7)$.\nB. $Q(7;24)$.\nC. $N(7;-24)$.\nD. $M(-7;24)$.",
+    "dap_an": "B. $Q(7;24)$.",
+    "loi_giai": "Ta có: $z = (4+3i)^2 = 7+24i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(7;24)$.",
+    "params": {
+      "a": "4",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (- \\dfrac{9}{5}-\\dfrac{1}{2}i)^2$ là điểm nào dưới đây?\n\nA. $P(\\dfrac{9}{5};\\dfrac{299}{100})$.\nB. $Q(\\dfrac{299}{100};\\dfrac{9}{5})$.\nC. $N(\\dfrac{299}{100};- \\dfrac{9}{5})$.\nD. $M(- \\dfrac{299}{100};\\dfrac{9}{5})$.",
+    "dap_an": "B. $Q(\\dfrac{299}{100};\\dfrac{9}{5})$.",
+    "loi_giai": "Ta có: $z = (- \\dfrac{9}{5}-\\dfrac{1}{2}i)^2 = \\dfrac{299}{100}+\\dfrac{9}{5}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(\\dfrac{299}{100};\\dfrac{9}{5})$.",
+    "params": {
+      "a": "-9/5",
+      "b": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (\\dfrac{11}{2}+\\dfrac{1}{3}i)^2$ là điểm nào dưới đây?\n\nA. $P(\\dfrac{11}{3};\\dfrac{1085}{36})$.\nB. $Q(\\dfrac{1085}{36};\\dfrac{11}{3})$.\nC. $N(\\dfrac{1085}{36};- \\dfrac{11}{3})$.\nD. $M(- \\dfrac{1085}{36};\\dfrac{11}{3})$.",
+    "dap_an": "B. $Q(\\dfrac{1085}{36};\\dfrac{11}{3})$.",
+    "loi_giai": "Ta có: $z = (\\dfrac{11}{2}+\\dfrac{1}{3}i)^2 = \\dfrac{1085}{36}+\\dfrac{11}{3}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(\\dfrac{1085}{36};\\dfrac{11}{3})$.",
+    "params": {
+      "a": "11/2",
+      "b": "1/3"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (- \\dfrac{11}{2}+\\dfrac{1}{2}i)^2$ là điểm nào dưới đây?\n\nA. $P(- \\dfrac{11}{2};30)$.\nB. $Q(30;- \\dfrac{11}{2})$.\nC. $N(30;\\dfrac{11}{2})$.\nD. $M(-30;- \\dfrac{11}{2})$.",
+    "dap_an": "B. $Q(30;- \\dfrac{11}{2})$.",
+    "loi_giai": "Ta có: $z = (- \\dfrac{11}{2}+\\dfrac{1}{2}i)^2 = 30-\\dfrac{11}{2}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(30;- \\dfrac{11}{2})$.",
+    "params": {
+      "a": "-11/2",
+      "b": "1/2"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (- \\dfrac{11}{5}-\\dfrac{1}{5}i)^2$ là điểm nào dưới đây?\n\nA. $P(\\dfrac{22}{25};\\dfrac{24}{5})$.\nB. $Q(\\dfrac{24}{5};\\dfrac{22}{25})$.\nC. $N(\\dfrac{24}{5};- \\dfrac{22}{25})$.\nD. $M(- \\dfrac{24}{5};\\dfrac{22}{25})$.",
+    "dap_an": "B. $Q(\\dfrac{24}{5};\\dfrac{22}{25})$.",
+    "loi_giai": "Ta có: $z = (- \\dfrac{11}{5}-\\dfrac{1}{5}i)^2 = \\dfrac{24}{5}+\\dfrac{22}{25}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(\\dfrac{24}{5};\\dfrac{22}{25})$.",
+    "params": {
+      "a": "-11/5",
+      "b": "-1/5"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (3 \\sqrt{6}-5i)^2$ là điểm nào dưới đây?\n\nA. $P(- 30 \\sqrt{6};29)$.\nB. $Q(29;- 30 \\sqrt{6})$.\nC. $N(29;30 \\sqrt{6})$.\nD. $M(-29;- 30 \\sqrt{6})$.",
+    "dap_an": "B. $Q(29;- 30 \\sqrt{6})$.",
+    "loi_giai": "Ta có: $z = (3 \\sqrt{6}-5i)^2 = 29-30 \\sqrt{6}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(29;- 30 \\sqrt{6})$.",
+    "params": {
+      "a": "3*sqrt(6)",
+      "b": "-5"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (3 \\sqrt{3}+4 \\sqrt{11}i)^2$ là điểm nào dưới đây?\n\nA. $P(24 \\sqrt{33};-149)$.\nB. $Q(-149;24 \\sqrt{33})$.\nC. $N(-149;- 24 \\sqrt{33})$.\nD. $M(149;24 \\sqrt{33})$.",
+    "dap_an": "B. $Q(-149;24 \\sqrt{33})$.",
+    "loi_giai": "Ta có: $z = (3 \\sqrt{3}+4 \\sqrt{11}i)^2 = -149+24 \\sqrt{33}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(-149;24 \\sqrt{33})$.",
+    "params": {
+      "a": "3*sqrt(3)",
+      "b": "4*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (4 \\sqrt{5}+5i)^2$ là điểm nào dưới đây?\n\nA. $P(40 \\sqrt{5};55)$.\nB. $Q(55;40 \\sqrt{5})$.\nC. $N(55;- 40 \\sqrt{5})$.\nD. $M(-55;40 \\sqrt{5})$.",
+    "dap_an": "B. $Q(55;40 \\sqrt{5})$.",
+    "loi_giai": "Ta có: $z = (4 \\sqrt{5}+5i)^2 = 55+40 \\sqrt{5}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(55;40 \\sqrt{5})$.",
+    "params": {
+      "a": "4*sqrt(5)",
+      "b": "5"
+    }
+  },
+  {
+    "stt_goc": 17,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_binh_phuong",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Trên mặt phẳng tọa độ, điểm biểu diễn số phức $z = (3 \\sqrt{3}-3 \\sqrt{11}i)^2$ là điểm nào dưới đây?\n\nA. $P(- 18 \\sqrt{33};-72)$.\nB. $Q(-72;- 18 \\sqrt{33})$.\nC. $N(-72;18 \\sqrt{33})$.\nD. $M(72;- 18 \\sqrt{33})$.",
+    "dap_an": "B. $Q(-72;- 18 \\sqrt{33})$.",
+    "loi_giai": "Ta có: $z = (3 \\sqrt{3}-3 \\sqrt{11}i)^2 = -72-18 \\sqrt{33}i$.\nVậy, điểm biểu diễn số phức $z$ là $Q(-72;- 18 \\sqrt{33})$.",
+    "params": {
+      "a": "3*sqrt(3)",
+      "b": "-3*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z=6-i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(6;1)$.\nB. $N(1;6)$.\nC. $M(6;-1)$.\nD. $P(-6;1)$.",
+    "dap_an": "B. $N(1;6)$.",
+    "loi_giai": "$w=iz=1+6i$. Điểm biểu diễn số phức $w$ là $N(1;6)$.",
+    "params": {
+      "a": "6",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z=7-3i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(7;3)$.\nB. $N(3;7)$.\nC. $M(7;-3)$.\nD. $P(-7;3)$.",
+    "dap_an": "B. $N(3;7)$.",
+    "loi_giai": "$w=iz=3+7i$. Điểm biểu diễn số phức $w$ là $N(3;7)$.",
+    "params": {
+      "a": "7",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z=-5+8i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(-5;-8)$.\nB. $N(-8;-5)$.\nC. $M(-5;8)$.\nD. $P(5;-8)$.",
+    "dap_an": "B. $N(-8;-5)$.",
+    "loi_giai": "$w=iz=-8-5i$. Điểm biểu diễn số phức $w$ là $N(-8;-5)$.",
+    "params": {
+      "a": "-5",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z=7+7i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(7;-7)$.\nB. $N(-7;7)$.\nC. $M(7;7)$.\nD. $P(-7;-7)$.",
+    "dap_an": "B. $N(-7;7)$.",
+    "loi_giai": "$w=iz=-7+7i$. Điểm biểu diễn số phức $w$ là $N(-7;7)$.",
+    "params": {
+      "a": "7",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z=\\dfrac{9}{2}-\\dfrac{7}{2}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(\\dfrac{9}{2};\\dfrac{7}{2})$.\nB. $N(\\dfrac{7}{2};\\dfrac{9}{2})$.\nC. $M(\\dfrac{9}{2};- \\dfrac{7}{2})$.\nD. $P(- \\dfrac{9}{2};\\dfrac{7}{2})$.",
+    "dap_an": "B. $N(\\dfrac{7}{2};\\dfrac{9}{2})$.",
+    "loi_giai": "$w=iz=\\dfrac{7}{2}+\\dfrac{9}{2}i$. Điểm biểu diễn số phức $w$ là $N(\\dfrac{7}{2};\\dfrac{9}{2})$.",
+    "params": {
+      "a": "9/2",
+      "b": "-7/2"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z=- \\dfrac{3}{4}-\\dfrac{1}{3}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(- \\dfrac{3}{4};\\dfrac{1}{3})$.\nB. $N(\\dfrac{1}{3};- \\dfrac{3}{4})$.\nC. $M(- \\dfrac{3}{4};- \\dfrac{1}{3})$.\nD. $P(\\dfrac{3}{4};\\dfrac{1}{3})$.",
+    "dap_an": "B. $N(\\dfrac{1}{3};- \\dfrac{3}{4})$.",
+    "loi_giai": "$w=iz=\\dfrac{1}{3}-\\dfrac{3}{4}i$. Điểm biểu diễn số phức $w$ là $N(\\dfrac{1}{3};- \\dfrac{3}{4})$.",
+    "params": {
+      "a": "-3/4",
+      "b": "-1/3"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z=- \\dfrac{7}{5}+\\dfrac{5}{4}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(- \\dfrac{7}{5};- \\dfrac{5}{4})$.\nB. $N(- \\dfrac{5}{4};- \\dfrac{7}{5})$.\nC. $M(- \\dfrac{7}{5};\\dfrac{5}{4})$.\nD. $P(\\dfrac{7}{5};- \\dfrac{5}{4})$.",
+    "dap_an": "B. $N(- \\dfrac{5}{4};- \\dfrac{7}{5})$.",
+    "loi_giai": "$w=iz=- \\dfrac{5}{4}-\\dfrac{7}{5}i$. Điểm biểu diễn số phức $w$ là $N(- \\dfrac{5}{4};- \\dfrac{7}{5})$.",
+    "params": {
+      "a": "-7/5",
+      "b": "5/4"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z=- \\dfrac{5}{4}+\\dfrac{8}{5}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(- \\dfrac{5}{4};- \\dfrac{8}{5})$.\nB. $N(- \\dfrac{8}{5};- \\dfrac{5}{4})$.\nC. $M(- \\dfrac{5}{4};\\dfrac{8}{5})$.\nD. $P(\\dfrac{5}{4};- \\dfrac{8}{5})$.",
+    "dap_an": "B. $N(- \\dfrac{8}{5};- \\dfrac{5}{4})$.",
+    "loi_giai": "$w=iz=- \\dfrac{8}{5}-\\dfrac{5}{4}i$. Điểm biểu diễn số phức $w$ là $N(- \\dfrac{8}{5};- \\dfrac{5}{4})$.",
+    "params": {
+      "a": "-5/4",
+      "b": "8/5"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z=-5+\\sqrt{6}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(-5;- \\sqrt{6})$.\nB. $N(- \\sqrt{6};-5)$.\nC. $M(-5;\\sqrt{6})$.\nD. $P(5;- \\sqrt{6})$.",
+    "dap_an": "B. $N(- \\sqrt{6};-5)$.",
+    "loi_giai": "$w=iz=- \\sqrt{6}-5i$. Điểm biểu diễn số phức $w$ là $N(- \\sqrt{6};-5)$.",
+    "params": {
+      "a": "-5",
+      "b": "sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z=- \\sqrt{7}-8i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(- \\sqrt{7};8)$.\nB. $N(8;- \\sqrt{7})$.\nC. $M(- \\sqrt{7};-8)$.\nD. $P(\\sqrt{7};8)$.",
+    "dap_an": "B. $N(8;- \\sqrt{7})$.",
+    "loi_giai": "$w=iz=8-\\sqrt{7}i$. Điểm biểu diễn số phức $w$ là $N(8;- \\sqrt{7})$.",
+    "params": {
+      "a": "-sqrt(7)",
+      "b": "-8"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z=7-4 \\sqrt{5}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(7;4 \\sqrt{5})$.\nB. $N(4 \\sqrt{5};7)$.\nC. $M(7;- 4 \\sqrt{5})$.\nD. $P(-7;4 \\sqrt{5})$.",
+    "dap_an": "B. $N(4 \\sqrt{5};7)$.",
+    "loi_giai": "$w=iz=4 \\sqrt{5}+7i$. Điểm biểu diễn số phức $w$ là $N(4 \\sqrt{5};7)$.",
+    "params": {
+      "a": "7",
+      "b": "-4*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 37,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_w_iz",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z=-8-4 \\sqrt{10}i$. Điểm nào dưới đây là điểm biểu diễn của số phức $w=iz$ trên mặt phẳng tọa độ?\n\nA. $Q(-8;4 \\sqrt{10})$.\nB. $N(4 \\sqrt{10};-8)$.\nC. $M(-8;- 4 \\sqrt{10})$.\nD. $P(8;4 \\sqrt{10})$.",
+    "dap_an": "B. $N(4 \\sqrt{10};-8)$.",
+    "loi_giai": "$w=iz=4 \\sqrt{10}-8i$. Điểm biểu diễn số phức $w$ là $N(4 \\sqrt{10};-8)$.",
+    "params": {
+      "a": "-8",
+      "b": "-4*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z_1=-3-2i$ và $z_2=-2+3i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(-1;-8)$.\nB. $(-8;1)$.\nC. $(-8;-1)$.\nD. $(8;-1)$.",
+    "dap_an": "C. $(-8;-1)$.",
+    "loi_giai": "Ta có $2z_1+z_2 = -6-4i-2+3i=-8-i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(-8;-1)$.",
+    "params": {
+      "a": "-3",
+      "b": "-2",
+      "c": "-2",
+      "d": "3"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z_1=-5+5i$ và $z_2=2-8i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(2;-8)$.\nB. $(-8;-2)$.\nC. $(-8;2)$.\nD. $(8;2)$.",
+    "dap_an": "C. $(-8;2)$.",
+    "loi_giai": "Ta có $2z_1+z_2 = -10+10i+2-8i=-8+2i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(-8;2)$.",
+    "params": {
+      "a": "-5",
+      "b": "5",
+      "c": "2",
+      "d": "-8"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z_1=-5+7i$ và $z_2=9-9i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(5;-1)$.\nB. $(-1;-5)$.\nC. $(-1;5)$.\nD. $(1;5)$.",
+    "dap_an": "C. $(-1;5)$.",
+    "loi_giai": "Ta có $2z_1+z_2 = -10+14i+9-9i=-1+5i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(-1;5)$.",
+    "params": {
+      "a": "-5",
+      "b": "7",
+      "c": "9",
+      "d": "-9"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z_1=1-9i$ và $z_2=1-3i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(-21;3)$.\nB. $(3;21)$.\nC. $(3;-21)$.\nD. $(-3;-21)$.",
+    "dap_an": "C. $(3;-21)$.",
+    "loi_giai": "Ta có $2z_1+z_2 = 2-18i+1-3i=3-21i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(3;-21)$.",
+    "params": {
+      "a": "1",
+      "b": "-9",
+      "c": "1",
+      "d": "-3"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z_1=- \\dfrac{5}{2}+\\dfrac{3}{2}i$ và $z_2=\\dfrac{5}{4}-\\dfrac{1}{2}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(\\dfrac{5}{2};- \\dfrac{15}{4})$.\nB. $(- \\dfrac{15}{4};- \\dfrac{5}{2})$.\nC. $(- \\dfrac{15}{4};\\dfrac{5}{2})$.\nD. $(\\dfrac{15}{4};\\dfrac{5}{2})$.",
+    "dap_an": "C. $(- \\dfrac{15}{4};\\dfrac{5}{2})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = -5+3i+\\dfrac{5}{4}-\\dfrac{1}{2}i=- \\dfrac{15}{4}+\\dfrac{5}{2}i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(- \\dfrac{15}{4};\\dfrac{5}{2})$.",
+    "params": {
+      "a": "-5/2",
+      "b": "3/2",
+      "c": "5/4",
+      "d": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z_1=- \\dfrac{5}{2}+\\dfrac{9}{5}i$ và $z_2=\\dfrac{2}{3}-\\dfrac{6}{5}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(\\dfrac{12}{5};- \\dfrac{13}{3})$.\nB. $(- \\dfrac{13}{3};- \\dfrac{12}{5})$.\nC. $(- \\dfrac{13}{3};\\dfrac{12}{5})$.\nD. $(\\dfrac{13}{3};\\dfrac{12}{5})$.",
+    "dap_an": "C. $(- \\dfrac{13}{3};\\dfrac{12}{5})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = -5+\\dfrac{18}{5}i+\\dfrac{2}{3}-\\dfrac{6}{5}i=- \\dfrac{13}{3}+\\dfrac{12}{5}i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(- \\dfrac{13}{3};\\dfrac{12}{5})$.",
+    "params": {
+      "a": "-5/2",
+      "b": "9/5",
+      "c": "2/3",
+      "d": "-6/5"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z_1=\\dfrac{9}{2}+\\dfrac{7}{4}i$ và $z_2=\\dfrac{3}{4}+\\dfrac{8}{3}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(\\dfrac{37}{6};\\dfrac{39}{4})$.\nB. $(\\dfrac{39}{4};- \\dfrac{37}{6})$.\nC. $(\\dfrac{39}{4};\\dfrac{37}{6})$.\nD. $(- \\dfrac{39}{4};\\dfrac{37}{6})$.",
+    "dap_an": "C. $(\\dfrac{39}{4};\\dfrac{37}{6})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = 9+\\dfrac{7}{2}i+\\dfrac{3}{4}+\\dfrac{8}{3}i=\\dfrac{39}{4}+\\dfrac{37}{6}i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(\\dfrac{39}{4};\\dfrac{37}{6})$.",
+    "params": {
+      "a": "9/2",
+      "b": "7/4",
+      "c": "3/4",
+      "d": "8/3"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z_1=\\dfrac{8}{5}+\\dfrac{7}{5}i$ và $z_2=\\dfrac{11}{4}-\\dfrac{7}{3}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(\\dfrac{7}{15};\\dfrac{119}{20})$.\nB. $(\\dfrac{119}{20};- \\dfrac{7}{15})$.\nC. $(\\dfrac{119}{20};\\dfrac{7}{15})$.\nD. $(- \\dfrac{119}{20};\\dfrac{7}{15})$.",
+    "dap_an": "C. $(\\dfrac{119}{20};\\dfrac{7}{15})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = \\dfrac{16}{5}+\\dfrac{14}{5}i+\\dfrac{11}{4}-\\dfrac{7}{3}i=\\dfrac{119}{20}+\\dfrac{7}{15}i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(\\dfrac{119}{20};\\dfrac{7}{15})$.",
+    "params": {
+      "a": "8/5",
+      "b": "7/5",
+      "c": "11/4",
+      "d": "-7/3"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z_1=3 \\sqrt{2}+4 \\sqrt{10}i$ và $z_2=- 3 \\sqrt{11}+2 \\sqrt{5}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(2 \\sqrt{5} + 8 \\sqrt{10};- 3 \\sqrt{11} + 6 \\sqrt{2})$.\nB. $(- 3 \\sqrt{11} + 6 \\sqrt{2};- 8 \\sqrt{10} - 2 \\sqrt{5})$.\nC. $(- 3 \\sqrt{11} + 6 \\sqrt{2};2 \\sqrt{5} + 8 \\sqrt{10})$.\nD. $(- 6 \\sqrt{2} + 3 \\sqrt{11};2 \\sqrt{5} + 8 \\sqrt{10})$.",
+    "dap_an": "C. $(- 3 \\sqrt{11} + 6 \\sqrt{2};2 \\sqrt{5} + 8 \\sqrt{10})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = 6 \\sqrt{2}+8 \\sqrt{10}i- 3 \\sqrt{11}+2 \\sqrt{5}i=\\left(- 3 \\sqrt{11} + 6 \\sqrt{2}\\right)+\\left(2 \\sqrt{5} + 8 \\sqrt{10}\\right)i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(- 3 \\sqrt{11} + 6 \\sqrt{2};2 \\sqrt{5} + 8 \\sqrt{10})$.",
+    "params": {
+      "a": "3*sqrt(2)",
+      "b": "4*sqrt(10)",
+      "c": "-3*sqrt(11)",
+      "d": "2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z_1=-1+2 \\sqrt{7}i$ và $z_2=-4-2 \\sqrt{6}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(- 2 \\sqrt{6} + 4 \\sqrt{7};-6)$.\nB. $(-6;- 4 \\sqrt{7} + 2 \\sqrt{6})$.\nC. $(-6;- 2 \\sqrt{6} + 4 \\sqrt{7})$.\nD. $(6;- 2 \\sqrt{6} + 4 \\sqrt{7})$.",
+    "dap_an": "C. $(-6;- 2 \\sqrt{6} + 4 \\sqrt{7})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = -2+4 \\sqrt{7}i-4-2 \\sqrt{6}i=-6+\\left(- 2 \\sqrt{6} + 4 \\sqrt{7}\\right)i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(-6;- 2 \\sqrt{6} + 4 \\sqrt{7})$.",
+    "params": {
+      "a": "-1",
+      "b": "2*sqrt(7)",
+      "c": "-4",
+      "d": "-2*sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z_1=\\sqrt{10}+3 \\sqrt{11}i$ và $z_2=-1-3 \\sqrt{2}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(- 3 \\sqrt{2} + 6 \\sqrt{11};-1 + 2 \\sqrt{10})$.\nB. $(-1 + 2 \\sqrt{10};- 6 \\sqrt{11} + 3 \\sqrt{2})$.\nC. $(-1 + 2 \\sqrt{10};- 3 \\sqrt{2} + 6 \\sqrt{11})$.\nD. $(1 - 2 \\sqrt{10};- 3 \\sqrt{2} + 6 \\sqrt{11})$.",
+    "dap_an": "C. $(-1 + 2 \\sqrt{10};- 3 \\sqrt{2} + 6 \\sqrt{11})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = 2 \\sqrt{10}+6 \\sqrt{11}i-1-3 \\sqrt{2}i=\\left(-1 + 2 \\sqrt{10}\\right)+\\left(- 3 \\sqrt{2} + 6 \\sqrt{11}\\right)i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(-1 + 2 \\sqrt{10};- 3 \\sqrt{2} + 6 \\sqrt{11})$.",
+    "params": {
+      "a": "sqrt(10)",
+      "b": "3*sqrt(11)",
+      "c": "-1",
+      "d": "-3*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 44,
+    "dang": "Dạng 2 - Biểu diễn hình học",
+    "mau_ta": "mau_2z1_z2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z_1=- 3 \\sqrt{2}-5i$ và $z_2=- \\sqrt{2}+\\sqrt{6}i$. Trên mặt phẳng tọa độ $Oxy$, điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là\n\nA. $(-10 + \\sqrt{6};- 7 \\sqrt{2})$.\nB. $(- 7 \\sqrt{2};10 - \\sqrt{6})$.\nC. $(- 7 \\sqrt{2};-10 + \\sqrt{6})$.\nD. $(7 \\sqrt{2};-10 + \\sqrt{6})$.",
+    "dap_an": "C. $(- 7 \\sqrt{2};-10 + \\sqrt{6})$.",
+    "loi_giai": "Ta có $2z_1+z_2 = - 6 \\sqrt{2}-10i- \\sqrt{2}+\\sqrt{6}i=- 7 \\sqrt{2}-\\left(10 - \\sqrt{6}\\right)i$.\nVậy điểm biểu diễn số phức $2z_1+z_2$ có tọa độ là $(- 7 \\sqrt{2};-10 + \\sqrt{6})$.",
+    "params": {
+      "a": "-3*sqrt(2)",
+      "b": "-5",
+      "c": "-sqrt(2)",
+      "d": "sqrt(6)"
+    }
+  }
+]

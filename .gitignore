@@ -1,0 +1,41 @@
+.env
+
+# Cong cu/luu tru tam thoi cua phien lam viec, khong thuoc pipeline chinh thuc
+scratch/
+.claude/
+__pycache__/
+*.pyc
+
+# Tai lieu goc co ban quyen (khong redistribute) va anh trang PDF trich xuat tu do
+DAP AN.pdf
+Danh_gia_chuyen_doi_markdown/pages/
+
+# File anh/ad-hoc rieng le khong thuoc bo du lieu chinh thuc
+*.png
+thống kê lỗi.txt
+
+# Script/ban nhap pilot da duoc thay the boi pipeline 10-21 (xem README)
+Sinh_them_cau_hoi/scripts/01_generate_dang1.py
+Sinh_them_cau_hoi/scripts/02_export_dang1.py
+Sinh_them_cau_hoi/scripts/03_build_view_dang1.py
+Sinh_them_cau_hoi/scripts/check_*.py
+Sinh_them_cau_hoi/scripts/dump_*.py
+Sinh_them_cau_hoi/scripts/make_artifact_fragment.py
+Sinh_them_cau_hoi/Dang1_thi_diem_90cau.*
+Sinh_them_cau_hoi/data/dang1_pilot.json
+Sinh_them_cau_hoi/data/*_dump.txt
+Sinh_them_cau_hoi/data/*_check.txt
+Sinh_them_cau_hoi/data/all_dump.txt
+Sinh_them_cau_hoi/data/Dang1_artifact_fragment.html
+
+# Script kiem tra/debug tam thoi (khong thuoc pipeline chinh thuc)
+Danh_gia_chuyen_doi_markdown/scripts/check_*.py
+Danh_gia_chuyen_doi_markdown/scripts/debug_remaining.py
+Danh_gia_chuyen_doi_markdown/scripts/sample_rows.py
+Danh_gia_chuyen_doi_markdown/data/debug_remaining.txt
+Danh_gia_chuyen_doi_markdown/data/missing_paths.txt
+Danh_gia_chuyen_doi_markdown/data/final_check.txt
+Danh_gia_chuyen_doi_markdown/data/line14_check.txt
+
+# File HTML doi chieu lon, chi de xem thu cuc bo
+Doi_chieu_66_cau_so_phuc.html

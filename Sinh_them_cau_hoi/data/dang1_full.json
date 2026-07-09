@@ -1,0 +1,1454 @@
+[
+  {
+    "stt_goc": 1,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt1",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z = -3-4i$. Tìm phần thực và phần ảo của số phức $\\overline{z}$.\n\nA. Phần thực bằng $3$ và phần ảo bằng $-4i$.\nB. Phần thực bằng $3$ và phần ảo bằng $-4$.\nC. Phần thực bằng $-3$ và phần ảo bằng $4i$.\nD. Phần thực bằng $-3$ và phần ảo bằng $4$.",
+    "dap_an": "D. Phần thực bằng $-3$ và phần ảo bằng $4$.",
+    "loi_giai": "Từ $z = -3-4i$ suy ra $\\overline{z} = -3+4i$. Nên phần thực của $\\overline{z}$ bằng $-3$ và phần ảo của $\\overline{z}$ bằng $4$.",
+    "params": {
+      "a": "-3",
+      "b": "-4"
+    }
+  },
+  {
+    "stt_goc": 1,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt1",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z = 4+5i$. Tìm phần thực và phần ảo của số phức $\\overline{z}$.\n\nA. Phần thực bằng $-4$ và phần ảo bằng $5i$.\nB. Phần thực bằng $-4$ và phần ảo bằng $5$.\nC. Phần thực bằng $4$ và phần ảo bằng $-5i$.\nD. Phần thực bằng $4$ và phần ảo bằng $-5$.",
+    "dap_an": "D. Phần thực bằng $4$ và phần ảo bằng $-5$.",
+    "loi_giai": "Từ $z = 4+5i$ suy ra $\\overline{z} = 4-5i$. Nên phần thực của $\\overline{z}$ bằng $4$ và phần ảo của $\\overline{z}$ bằng $-5$.",
+    "params": {
+      "a": "4",
+      "b": "5"
+    }
+  },
+  {
+    "stt_goc": 1,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt1",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z = \\dfrac{3}{2}-\\dfrac{7}{2}i$. Tìm phần thực và phần ảo của số phức $\\overline{z}$.\n\nA. Phần thực bằng $- \\dfrac{3}{2}$ và phần ảo bằng $- \\dfrac{7}{2}i$.\nB. Phần thực bằng $- \\dfrac{3}{2}$ và phần ảo bằng $- \\dfrac{7}{2}$.\nC. Phần thực bằng $\\dfrac{3}{2}$ và phần ảo bằng $\\dfrac{7}{2}i$.\nD. Phần thực bằng $\\dfrac{3}{2}$ và phần ảo bằng $\\dfrac{7}{2}$.",
+    "dap_an": "D. Phần thực bằng $\\dfrac{3}{2}$ và phần ảo bằng $\\dfrac{7}{2}$.",
+    "loi_giai": "Từ $z = \\dfrac{3}{2}-\\dfrac{7}{2}i$ suy ra $\\overline{z} = \\dfrac{3}{2}+\\dfrac{7}{2}i$. Nên phần thực của $\\overline{z}$ bằng $\\dfrac{3}{2}$ và phần ảo của $\\overline{z}$ bằng $\\dfrac{7}{2}$.",
+    "params": {
+      "a": "3/2",
+      "b": "-7/2"
+    }
+  },
+  {
+    "stt_goc": 1,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt1",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z = \\dfrac{11}{2}-\\dfrac{4}{3}i$. Tìm phần thực và phần ảo của số phức $\\overline{z}$.\n\nA. Phần thực bằng $- \\dfrac{11}{2}$ và phần ảo bằng $- \\dfrac{4}{3}i$.\nB. Phần thực bằng $- \\dfrac{11}{2}$ và phần ảo bằng $- \\dfrac{4}{3}$.\nC. Phần thực bằng $\\dfrac{11}{2}$ và phần ảo bằng $\\dfrac{4}{3}i$.\nD. Phần thực bằng $\\dfrac{11}{2}$ và phần ảo bằng $\\dfrac{4}{3}$.",
+    "dap_an": "D. Phần thực bằng $\\dfrac{11}{2}$ và phần ảo bằng $\\dfrac{4}{3}$.",
+    "loi_giai": "Từ $z = \\dfrac{11}{2}-\\dfrac{4}{3}i$ suy ra $\\overline{z} = \\dfrac{11}{2}+\\dfrac{4}{3}i$. Nên phần thực của $\\overline{z}$ bằng $\\dfrac{11}{2}$ và phần ảo của $\\overline{z}$ bằng $\\dfrac{4}{3}$.",
+    "params": {
+      "a": "11/2",
+      "b": "-4/3"
+    }
+  },
+  {
+    "stt_goc": 1,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt1",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z = 3-\\sqrt{7}i$. Tìm phần thực và phần ảo của số phức $\\overline{z}$.\n\nA. Phần thực bằng $-3$ và phần ảo bằng $- \\sqrt{7}i$.\nB. Phần thực bằng $-3$ và phần ảo bằng $- \\sqrt{7}$.\nC. Phần thực bằng $3$ và phần ảo bằng $\\sqrt{7}i$.\nD. Phần thực bằng $3$ và phần ảo bằng $\\sqrt{7}$.",
+    "dap_an": "D. Phần thực bằng $3$ và phần ảo bằng $\\sqrt{7}$.",
+    "loi_giai": "Từ $z = 3-\\sqrt{7}i$ suy ra $\\overline{z} = 3+\\sqrt{7}i$. Nên phần thực của $\\overline{z}$ bằng $3$ và phần ảo của $\\overline{z}$ bằng $\\sqrt{7}$.",
+    "params": {
+      "a": "3",
+      "b": "-sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 1,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt1",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z = - 3 \\sqrt{6}+2 \\sqrt{11}i$. Tìm phần thực và phần ảo của số phức $\\overline{z}$.\n\nA. Phần thực bằng $3 \\sqrt{6}$ và phần ảo bằng $2 \\sqrt{11}i$.\nB. Phần thực bằng $3 \\sqrt{6}$ và phần ảo bằng $2 \\sqrt{11}$.\nC. Phần thực bằng $- 3 \\sqrt{6}$ và phần ảo bằng $- 2 \\sqrt{11}i$.\nD. Phần thực bằng $- 3 \\sqrt{6}$ và phần ảo bằng $- 2 \\sqrt{11}$.",
+    "dap_an": "D. Phần thực bằng $- 3 \\sqrt{6}$ và phần ảo bằng $- 2 \\sqrt{11}$.",
+    "loi_giai": "Từ $z = - 3 \\sqrt{6}+2 \\sqrt{11}i$ suy ra $\\overline{z} = - 3 \\sqrt{6}-2 \\sqrt{11}i$. Nên phần thực của $\\overline{z}$ bằng $- 3 \\sqrt{6}$ và phần ảo của $\\overline{z}$ bằng $- 2 \\sqrt{11}$.",
+    "params": {
+      "a": "-3*sqrt(6)",
+      "b": "2*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 9,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt9",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $8-5i$. Tìm $a, b$.\n\nA. $a=-8, b=5$.\nB. $a=-8, b=-5$.\nC. $a=8, b=5$.\nD. $a=8, b=-5$.",
+    "dap_an": "D. $a=8, b=-5$.",
+    "loi_giai": "Số phức $8-5i$ có phần thực và phần ảo lần lượt là $8$ và $-5$. Vậy, $a=8, b=-5$.",
+    "params": {
+      "a": "8",
+      "b": "-5"
+    }
+  },
+  {
+    "stt_goc": 9,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt9",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $2+7i$. Tìm $a, b$.\n\nA. $a=-2, b=-7$.\nB. $a=-2, b=7$.\nC. $a=2, b=-7$.\nD. $a=2, b=7$.",
+    "dap_an": "D. $a=2, b=7$.",
+    "loi_giai": "Số phức $2+7i$ có phần thực và phần ảo lần lượt là $2$ và $7$. Vậy, $a=2, b=7$.",
+    "params": {
+      "a": "2",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 9,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt9",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $- \\dfrac{2}{3}+\\dfrac{9}{2}i$. Tìm $a, b$.\n\nA. $a=\\dfrac{2}{3}, b=- \\dfrac{9}{2}$.\nB. $a=\\dfrac{2}{3}, b=\\dfrac{9}{2}$.\nC. $a=- \\dfrac{2}{3}, b=- \\dfrac{9}{2}$.\nD. $a=- \\dfrac{2}{3}, b=\\dfrac{9}{2}$.",
+    "dap_an": "D. $a=- \\dfrac{2}{3}, b=\\dfrac{9}{2}$.",
+    "loi_giai": "Số phức $- \\dfrac{2}{3}+\\dfrac{9}{2}i$ có phần thực và phần ảo lần lượt là $- \\dfrac{2}{3}$ và $\\dfrac{9}{2}$. Vậy, $a=- \\dfrac{2}{3}, b=\\dfrac{9}{2}$.",
+    "params": {
+      "a": "-2/3",
+      "b": "9/2"
+    }
+  },
+  {
+    "stt_goc": 9,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt9",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $\\dfrac{4}{3}+\\dfrac{1}{4}i$. Tìm $a, b$.\n\nA. $a=- \\dfrac{4}{3}, b=- \\dfrac{1}{4}$.\nB. $a=- \\dfrac{4}{3}, b=\\dfrac{1}{4}$.\nC. $a=\\dfrac{4}{3}, b=- \\dfrac{1}{4}$.\nD. $a=\\dfrac{4}{3}, b=\\dfrac{1}{4}$.",
+    "dap_an": "D. $a=\\dfrac{4}{3}, b=\\dfrac{1}{4}$.",
+    "loi_giai": "Số phức $\\dfrac{4}{3}+\\dfrac{1}{4}i$ có phần thực và phần ảo lần lượt là $\\dfrac{4}{3}$ và $\\dfrac{1}{4}$. Vậy, $a=\\dfrac{4}{3}, b=\\dfrac{1}{4}$.",
+    "params": {
+      "a": "4/3",
+      "b": "1/4"
+    }
+  },
+  {
+    "stt_goc": 9,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt9",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $- 4 \\sqrt{5}-3 \\sqrt{10}i$. Tìm $a, b$.\n\nA. $a=4 \\sqrt{5}, b=3 \\sqrt{10}$.\nB. $a=4 \\sqrt{5}, b=- 3 \\sqrt{10}$.\nC. $a=- 4 \\sqrt{5}, b=3 \\sqrt{10}$.\nD. $a=- 4 \\sqrt{5}, b=- 3 \\sqrt{10}$.",
+    "dap_an": "D. $a=- 4 \\sqrt{5}, b=- 3 \\sqrt{10}$.",
+    "loi_giai": "Số phức $- 4 \\sqrt{5}-3 \\sqrt{10}i$ có phần thực và phần ảo lần lượt là $- 4 \\sqrt{5}$ và $- 3 \\sqrt{10}$. Vậy, $a=- 4 \\sqrt{5}, b=- 3 \\sqrt{10}$.",
+    "params": {
+      "a": "-4*sqrt(5)",
+      "b": "-3*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 9,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt9",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Kí hiệu $a, b$ lần lượt là phần thực và phần ảo của số phức $-3+2 \\sqrt{2}i$. Tìm $a, b$.\n\nA. $a=3, b=- 2 \\sqrt{2}$.\nB. $a=3, b=2 \\sqrt{2}$.\nC. $a=-3, b=- 2 \\sqrt{2}$.\nD. $a=-3, b=2 \\sqrt{2}$.",
+    "dap_an": "D. $a=-3, b=2 \\sqrt{2}$.",
+    "loi_giai": "Số phức $-3+2 \\sqrt{2}i$ có phần thực và phần ảo lần lượt là $-3$ và $2 \\sqrt{2}$. Vậy, $a=-3, b=2 \\sqrt{2}$.",
+    "params": {
+      "a": "-3",
+      "b": "2*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 10,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt10",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Tính môđun của số phức $z$ biết $\\overline{z} = (-8-2i)(1+i)$.\n\nA. $|z| = 68 \\sqrt{2}$.\nB. $|z| = 2 \\sqrt{17}$.\nC. $|z| = 2 \\sqrt{34}$.\nD. $|z| = 4 \\sqrt{17}$.",
+    "dap_an": "C. $|z| = 2 \\sqrt{34}$.",
+    "loi_giai": "Ta có $\\overline{z} = (-8-2i)(1+i) = -6-10i \\Rightarrow |\\overline{z}| = 2 \\sqrt{34} \\Rightarrow |z| = 2 \\sqrt{34}$.",
+    "params": {
+      "a": "-8",
+      "b": "-2"
+    }
+  },
+  {
+    "stt_goc": 10,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt10",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Tính môđun của số phức $z$ biết $\\overline{z} = (1+8i)(1+i)$.\n\nA. $|z| = 65 \\sqrt{2}$.\nB. $|z| = \\sqrt{65}$.\nC. $|z| = \\sqrt{130}$.\nD. $|z| = 2 \\sqrt{65}$.",
+    "dap_an": "C. $|z| = \\sqrt{130}$.",
+    "loi_giai": "Ta có $\\overline{z} = (1+8i)(1+i) = -7+9i \\Rightarrow |\\overline{z}| = \\sqrt{130} \\Rightarrow |z| = \\sqrt{130}$.",
+    "params": {
+      "a": "1",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 10,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt10",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Tính môđun của số phức $z$ biết $\\overline{z} = (\\dfrac{7}{3}-\\dfrac{1}{2}i)(1+i)$.\n\nA. $|z| = \\dfrac{205 \\sqrt{2}}{36}$.\nB. $|z| = \\dfrac{\\sqrt{205}}{6}$.\nC. $|z| = \\dfrac{\\sqrt{410}}{6}$.\nD. $|z| = \\dfrac{\\sqrt{205}}{3}$.",
+    "dap_an": "C. $|z| = \\dfrac{\\sqrt{410}}{6}$.",
+    "loi_giai": "Ta có $\\overline{z} = (\\dfrac{7}{3}-\\dfrac{1}{2}i)(1+i) = \\dfrac{17}{6}+\\dfrac{11}{6}i \\Rightarrow |\\overline{z}| = \\dfrac{\\sqrt{410}}{6} \\Rightarrow |z| = \\dfrac{\\sqrt{410}}{6}$.",
+    "params": {
+      "a": "7/3",
+      "b": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 10,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt10",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Tính môđun của số phức $z$ biết $\\overline{z} = (\\dfrac{11}{2}-\\dfrac{6}{5}i)(1+i)$.\n\nA. $|z| = \\dfrac{3169 \\sqrt{2}}{100}$.\nB. $|z| = \\dfrac{\\sqrt{3169}}{10}$.\nC. $|z| = \\dfrac{\\sqrt{6338}}{10}$.\nD. $|z| = \\dfrac{\\sqrt{3169}}{5}$.",
+    "dap_an": "C. $|z| = \\dfrac{\\sqrt{6338}}{10}$.",
+    "loi_giai": "Ta có $\\overline{z} = (\\dfrac{11}{2}-\\dfrac{6}{5}i)(1+i) = \\dfrac{67}{10}+\\dfrac{43}{10}i \\Rightarrow |\\overline{z}| = \\dfrac{\\sqrt{6338}}{10} \\Rightarrow |z| = \\dfrac{\\sqrt{6338}}{10}$.",
+    "params": {
+      "a": "11/2",
+      "b": "-6/5"
+    }
+  },
+  {
+    "stt_goc": 10,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt10",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Tính môđun của số phức $z$ biết $\\overline{z} = (- 2 \\sqrt{10}+4 \\sqrt{7}i)(1+i)$.\n\nA. $|z| = 152 \\sqrt{2}$.\nB. $|z| = 2 \\sqrt{38}$.\nC. $|z| = 4 \\sqrt{19}$.\nD. $|z| = 4 \\sqrt{38}$.",
+    "dap_an": "C. $|z| = 4 \\sqrt{19}$.",
+    "loi_giai": "Ta có $\\overline{z} = (- 2 \\sqrt{10}+4 \\sqrt{7}i)(1+i) = \\left(- 4 \\sqrt{7} - 2 \\sqrt{10}\\right)+\\left(- 2 \\sqrt{10} + 4 \\sqrt{7}\\right)i \\Rightarrow |\\overline{z}| = 4 \\sqrt{19} \\Rightarrow |z| = 4 \\sqrt{19}$.",
+    "params": {
+      "a": "-2*sqrt(10)",
+      "b": "4*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 10,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt10",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Tính môđun của số phức $z$ biết $\\overline{z} = (- \\sqrt{6}-6i)(1+i)$.\n\nA. $|z| = 42 \\sqrt{2}$.\nB. $|z| = \\sqrt{42}$.\nC. $|z| = 2 \\sqrt{21}$.\nD. $|z| = 2 \\sqrt{42}$.",
+    "dap_an": "C. $|z| = 2 \\sqrt{21}$.",
+    "loi_giai": "Ta có $\\overline{z} = (- \\sqrt{6}-6i)(1+i) = \\left(6 - \\sqrt{6}\\right)-\\left(\\sqrt{6} + 6\\right)i \\Rightarrow |\\overline{z}| = 2 \\sqrt{21} \\Rightarrow |z| = 2 \\sqrt{21}$.",
+    "params": {
+      "a": "-sqrt(6)",
+      "b": "-6"
+    }
+  },
+  {
+    "stt_goc": 15,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Môđun của số phức $-7+8i$ bằng\n\nA. $113$.\nB. $\\sqrt{113}$.\nC. $15$.\nD. $\\sqrt{15}$.",
+    "dap_an": "B. $\\sqrt{113}$.",
+    "loi_giai": "Ta có: $|-7+8i| = \\sqrt{\\left(-7\\right)^2+\\left(8\\right)^2} = \\sqrt{113}$.",
+    "params": {
+      "a": "-7",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 15,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Môđun của số phức $-1-i$ bằng\n\nA. $2$.\nB. $\\sqrt{2}$.\nC. $3$.\nD. $\\sqrt{3}$.",
+    "dap_an": "B. $\\sqrt{2}$.",
+    "loi_giai": "Ta có: $|-1-i| = \\sqrt{\\left(-1\\right)^2+\\left(-1\\right)^2} = \\sqrt{2}$.",
+    "params": {
+      "a": "-1",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 15,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Môđun của số phức $- \\dfrac{11}{5}+\\dfrac{5}{2}i$ bằng\n\nA. $\\dfrac{1109}{100}$.\nB. $\\dfrac{\\sqrt{1109}}{10}$.\nC. $\\dfrac{141}{100}$.\nD. $\\dfrac{\\sqrt{141}}{10}$.",
+    "dap_an": "B. $\\dfrac{\\sqrt{1109}}{10}$.",
+    "loi_giai": "Ta có: $|- \\dfrac{11}{5}+\\dfrac{5}{2}i| = \\sqrt{\\left(- \\dfrac{11}{5}\\right)^2+\\left(\\dfrac{5}{2}\\right)^2} = \\dfrac{\\sqrt{1109}}{10}$.",
+    "params": {
+      "a": "-11/5",
+      "b": "5/2"
+    }
+  },
+  {
+    "stt_goc": 15,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Môđun của số phức $- \\dfrac{1}{2}+\\dfrac{9}{5}i$ bằng\n\nA. $\\dfrac{349}{100}$.\nB. $\\dfrac{\\sqrt{349}}{10}$.\nC. $\\dfrac{299}{100}$.\nD. $\\dfrac{\\sqrt{299}}{10}$.",
+    "dap_an": "B. $\\dfrac{\\sqrt{349}}{10}$.",
+    "loi_giai": "Ta có: $|- \\dfrac{1}{2}+\\dfrac{9}{5}i| = \\sqrt{\\left(- \\dfrac{1}{2}\\right)^2+\\left(\\dfrac{9}{5}\\right)^2} = \\dfrac{\\sqrt{349}}{10}$.",
+    "params": {
+      "a": "-1/2",
+      "b": "9/5"
+    }
+  },
+  {
+    "stt_goc": 15,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Môđun của số phức $\\sqrt{3}-6i$ bằng\n\nA. $39$.\nB. $\\sqrt{39}$.\nC. $33$.\nD. $\\sqrt{33}$.",
+    "dap_an": "B. $\\sqrt{39}$.",
+    "loi_giai": "Ta có: $|\\sqrt{3}-6i| = \\sqrt{\\left(\\sqrt{3}\\right)^2+\\left(-6\\right)^2} = \\sqrt{39}$.",
+    "params": {
+      "a": "sqrt(3)",
+      "b": "-6"
+    }
+  },
+  {
+    "stt_goc": 15,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Môđun của số phức $- \\sqrt{7}-6i$ bằng\n\nA. $43$.\nB. $\\sqrt{43}$.\nC. $29$.\nD. $\\sqrt{29}$.",
+    "dap_an": "B. $\\sqrt{43}$.",
+    "loi_giai": "Ta có: $|- \\sqrt{7}-6i| = \\sqrt{\\left(- \\sqrt{7}\\right)^2+\\left(-6\\right)^2} = \\sqrt{43}$.",
+    "params": {
+      "a": "-sqrt(7)",
+      "b": "-6"
+    }
+  },
+  {
+    "stt_goc": 18,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức liên hợp của số phức $z=-6-i$ là\n\nA. $\\overline{z}=6+i$.\nB. $\\overline{z}=6-i$.\nC. $\\overline{z}=-6-i$.\nD. $\\overline{z}=-6+i$.",
+    "dap_an": "D. $\\overline{z}=-6+i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=-6-i$ là $\\overline{z}=-6+i$.",
+    "params": {
+      "a": "-6",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 18,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức liên hợp của số phức $z=9+5i$ là\n\nA. $\\overline{z}=-9-5i$.\nB. $\\overline{z}=-9+5i$.\nC. $\\overline{z}=9+5i$.\nD. $\\overline{z}=9-5i$.",
+    "dap_an": "D. $\\overline{z}=9-5i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=9+5i$ là $\\overline{z}=9-5i$.",
+    "params": {
+      "a": "9",
+      "b": "5"
+    }
+  },
+  {
+    "stt_goc": 18,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=- \\dfrac{5}{2}+\\dfrac{1}{5}i$ là\n\nA. $\\overline{z}=\\dfrac{5}{2}-\\dfrac{1}{5}i$.\nB. $\\overline{z}=\\dfrac{5}{2}+\\dfrac{1}{5}i$.\nC. $\\overline{z}=- \\dfrac{5}{2}+\\dfrac{1}{5}i$.\nD. $\\overline{z}=- \\dfrac{5}{2}-\\dfrac{1}{5}i$.",
+    "dap_an": "D. $\\overline{z}=- \\dfrac{5}{2}-\\dfrac{1}{5}i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=- \\dfrac{5}{2}+\\dfrac{1}{5}i$ là $\\overline{z}=- \\dfrac{5}{2}-\\dfrac{1}{5}i$.",
+    "params": {
+      "a": "-5/2",
+      "b": "1/5"
+    }
+  },
+  {
+    "stt_goc": 18,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=- \\dfrac{7}{2}-\\dfrac{2}{5}i$ là\n\nA. $\\overline{z}=\\dfrac{7}{2}+\\dfrac{2}{5}i$.\nB. $\\overline{z}=\\dfrac{7}{2}-\\dfrac{2}{5}i$.\nC. $\\overline{z}=- \\dfrac{7}{2}-\\dfrac{2}{5}i$.\nD. $\\overline{z}=- \\dfrac{7}{2}+\\dfrac{2}{5}i$.",
+    "dap_an": "D. $\\overline{z}=- \\dfrac{7}{2}+\\dfrac{2}{5}i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=- \\dfrac{7}{2}-\\dfrac{2}{5}i$ là $\\overline{z}=- \\dfrac{7}{2}+\\dfrac{2}{5}i$.",
+    "params": {
+      "a": "-7/2",
+      "b": "-2/5"
+    }
+  },
+  {
+    "stt_goc": 18,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=2 \\sqrt{10}+9i$ là\n\nA. $\\overline{z}=- 2 \\sqrt{10}-9i$.\nB. $\\overline{z}=- 2 \\sqrt{10}+9i$.\nC. $\\overline{z}=2 \\sqrt{10}+9i$.\nD. $\\overline{z}=2 \\sqrt{10}-9i$.",
+    "dap_an": "D. $\\overline{z}=2 \\sqrt{10}-9i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=2 \\sqrt{10}+9i$ là $\\overline{z}=2 \\sqrt{10}-9i$.",
+    "params": {
+      "a": "2*sqrt(10)",
+      "b": "9"
+    }
+  },
+  {
+    "stt_goc": 18,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=- \\sqrt{3}-2 \\sqrt{3}i$ là\n\nA. $\\overline{z}=\\sqrt{3}+2 \\sqrt{3}i$.\nB. $\\overline{z}=\\sqrt{3}-2 \\sqrt{3}i$.\nC. $\\overline{z}=- \\sqrt{3}-2 \\sqrt{3}i$.\nD. $\\overline{z}=- \\sqrt{3}+2 \\sqrt{3}i$.",
+    "dap_an": "D. $\\overline{z}=- \\sqrt{3}+2 \\sqrt{3}i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=- \\sqrt{3}-2 \\sqrt{3}i$ là $\\overline{z}=- \\sqrt{3}+2 \\sqrt{3}i$.",
+    "params": {
+      "a": "-sqrt(3)",
+      "b": "-2*sqrt(3)"
+    }
+  },
+  {
+    "stt_goc": 22,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Môđun của số phức $9+i$ bằng\n\nA. $82$.\nB. $\\sqrt{82}$.\nC. $80$.\nD. $4 \\sqrt{5}$.",
+    "dap_an": "B. $\\sqrt{82}$.",
+    "loi_giai": "Ta có: $|9+i| = \\sqrt{\\left(9\\right)^2+\\left(1\\right)^2} = \\sqrt{82}$.",
+    "params": {
+      "a": "9",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 22,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Môđun của số phức $-1+8i$ bằng\n\nA. $65$.\nB. $\\sqrt{65}$.\nC. $63$.\nD. $3 \\sqrt{7}$.",
+    "dap_an": "B. $\\sqrt{65}$.",
+    "loi_giai": "Ta có: $|-1+8i| = \\sqrt{\\left(-1\\right)^2+\\left(8\\right)^2} = \\sqrt{65}$.",
+    "params": {
+      "a": "-1",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 22,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Môđun của số phức $- \\dfrac{4}{3}-\\dfrac{1}{3}i$ bằng\n\nA. $\\dfrac{17}{9}$.\nB. $\\dfrac{\\sqrt{17}}{3}$.\nC. $\\dfrac{5}{3}$.\nD. $\\dfrac{\\sqrt{15}}{3}$.",
+    "dap_an": "B. $\\dfrac{\\sqrt{17}}{3}$.",
+    "loi_giai": "Ta có: $|- \\dfrac{4}{3}-\\dfrac{1}{3}i| = \\sqrt{\\left(- \\dfrac{4}{3}\\right)^2+\\left(- \\dfrac{1}{3}\\right)^2} = \\dfrac{\\sqrt{17}}{3}$.",
+    "params": {
+      "a": "-4/3",
+      "b": "-1/3"
+    }
+  },
+  {
+    "stt_goc": 22,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Môđun của số phức $\\dfrac{5}{2}+\\dfrac{11}{4}i$ bằng\n\nA. $\\dfrac{221}{16}$.\nB. $\\dfrac{\\sqrt{221}}{4}$.\nC. $\\dfrac{21}{16}$.\nD. $\\dfrac{\\sqrt{21}}{4}$.",
+    "dap_an": "B. $\\dfrac{\\sqrt{221}}{4}$.",
+    "loi_giai": "Ta có: $|\\dfrac{5}{2}+\\dfrac{11}{4}i| = \\sqrt{\\left(\\dfrac{5}{2}\\right)^2+\\left(\\dfrac{11}{4}\\right)^2} = \\dfrac{\\sqrt{221}}{4}$.",
+    "params": {
+      "a": "5/2",
+      "b": "11/4"
+    }
+  },
+  {
+    "stt_goc": 22,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Môđun của số phức $9-2 \\sqrt{11}i$ bằng\n\nA. $125$.\nB. $5 \\sqrt{5}$.\nC. $37$.\nD. $\\sqrt{37}$.",
+    "dap_an": "B. $5 \\sqrt{5}$.",
+    "loi_giai": "Ta có: $|9-2 \\sqrt{11}i| = \\sqrt{\\left(9\\right)^2+\\left(- 2 \\sqrt{11}\\right)^2} = 5 \\sqrt{5}$.",
+    "params": {
+      "a": "9",
+      "b": "-2*sqrt(11)"
+    }
+  },
+  {
+    "stt_goc": 22,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Môđun của số phức $- \\sqrt{6}-9i$ bằng\n\nA. $87$.\nB. $\\sqrt{87}$.\nC. $75$.\nD. $5 \\sqrt{3}$.",
+    "dap_an": "B. $\\sqrt{87}$.",
+    "loi_giai": "Ta có: $|- \\sqrt{6}-9i| = \\sqrt{\\left(- \\sqrt{6}\\right)^2+\\left(-9\\right)^2} = \\sqrt{87}$.",
+    "params": {
+      "a": "-sqrt(6)",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 30,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt30",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phần ảo của số phức $z=-1+2i$ là\n\nA. $2$.\nB. $-2$.\nC. $-1$.\nD. $1$.",
+    "dap_an": "A. $2$.",
+    "loi_giai": "Phần ảo của số phức $z=-1+2i$ là $2$.",
+    "params": {
+      "a": "-1",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 30,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt30",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phần ảo của số phức $z=-4+9i$ là\n\nA. $9$.\nB. $-9$.\nC. $-4$.\nD. $4$.",
+    "dap_an": "A. $9$.",
+    "loi_giai": "Phần ảo của số phức $z=-4+9i$ là $9$.",
+    "params": {
+      "a": "-4",
+      "b": "9"
+    }
+  },
+  {
+    "stt_goc": 30,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt30",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phần ảo của số phức $z=\\dfrac{2}{5}+\\dfrac{8}{3}i$ là\n\nA. $\\dfrac{8}{3}$.\nB. $- \\dfrac{8}{3}$.\nC. $\\dfrac{2}{5}$.\nD. $- \\dfrac{2}{5}$.",
+    "dap_an": "A. $\\dfrac{8}{3}$.",
+    "loi_giai": "Phần ảo của số phức $z=\\dfrac{2}{5}+\\dfrac{8}{3}i$ là $\\dfrac{8}{3}$.",
+    "params": {
+      "a": "2/5",
+      "b": "8/3"
+    }
+  },
+  {
+    "stt_goc": 30,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt30",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phần ảo của số phức $z=\\dfrac{11}{2}+\\dfrac{1}{4}i$ là\n\nA. $\\dfrac{1}{4}$.\nB. $- \\dfrac{1}{4}$.\nC. $\\dfrac{11}{2}$.\nD. $- \\dfrac{11}{2}$.",
+    "dap_an": "A. $\\dfrac{1}{4}$.",
+    "loi_giai": "Phần ảo của số phức $z=\\dfrac{11}{2}+\\dfrac{1}{4}i$ là $\\dfrac{1}{4}$.",
+    "params": {
+      "a": "11/2",
+      "b": "1/4"
+    }
+  },
+  {
+    "stt_goc": 30,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt30",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phần ảo của số phức $z=\\sqrt{11}+9i$ là\n\nA. $9$.\nB. $-9$.\nC. $\\sqrt{11}$.\nD. $- \\sqrt{11}$.",
+    "dap_an": "A. $9$.",
+    "loi_giai": "Phần ảo của số phức $z=\\sqrt{11}+9i$ là $9$.",
+    "params": {
+      "a": "sqrt(11)",
+      "b": "9"
+    }
+  },
+  {
+    "stt_goc": 30,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt30",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phần ảo của số phức $z=3+4 \\sqrt{2}i$ là\n\nA. $4 \\sqrt{2}$.\nB. $- 4 \\sqrt{2}$.\nC. $3$.\nD. $-3$.",
+    "dap_an": "A. $4 \\sqrt{2}$.",
+    "loi_giai": "Phần ảo của số phức $z=3+4 \\sqrt{2}i$ là $4 \\sqrt{2}$.",
+    "params": {
+      "a": "3",
+      "b": "4*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 34,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt34",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức nào dưới đây là số thuần ảo?\n\nA. $z=9-3i$.\nB. $z=-3i$.\nC. $z=9$.\nD. $z=9+3i$.",
+    "dap_an": "B. $z=-3i$.",
+    "loi_giai": "Số phức là số thuần ảo nếu phần thực bằng $0$.",
+    "params": {
+      "a": "9",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 34,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt34",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức nào dưới đây là số thuần ảo?\n\nA. $z=-4+4i$.\nB. $z=4i$.\nC. $z=-4$.\nD. $z=-4-4i$.",
+    "dap_an": "B. $z=4i$.",
+    "loi_giai": "Số phức là số thuần ảo nếu phần thực bằng $0$.",
+    "params": {
+      "a": "-4",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 34,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt34",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức nào dưới đây là số thuần ảo?\n\nA. $z=- \\dfrac{6}{5}-\\dfrac{3}{2}i$.\nB. $z=- \\dfrac{3}{2}i$.\nC. $z=- \\dfrac{6}{5}$.\nD. $z=- \\dfrac{6}{5}+\\dfrac{3}{2}i$.",
+    "dap_an": "B. $z=- \\dfrac{3}{2}i$.",
+    "loi_giai": "Số phức là số thuần ảo nếu phần thực bằng $0$.",
+    "params": {
+      "a": "-6/5",
+      "b": "-3/2"
+    }
+  },
+  {
+    "stt_goc": 34,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt34",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức nào dưới đây là số thuần ảo?\n\nA. $z=- \\dfrac{11}{4}-\\dfrac{9}{2}i$.\nB. $z=- \\dfrac{9}{2}i$.\nC. $z=- \\dfrac{11}{4}$.\nD. $z=- \\dfrac{11}{4}+\\dfrac{9}{2}i$.",
+    "dap_an": "B. $z=- \\dfrac{9}{2}i$.",
+    "loi_giai": "Số phức là số thuần ảo nếu phần thực bằng $0$.",
+    "params": {
+      "a": "-11/4",
+      "b": "-9/2"
+    }
+  },
+  {
+    "stt_goc": 34,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt34",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức nào dưới đây là số thuần ảo?\n\nA. $z=\\sqrt{3}-5i$.\nB. $z=-5i$.\nC. $z=\\sqrt{3}$.\nD. $z=\\sqrt{3}+5i$.",
+    "dap_an": "B. $z=-5i$.",
+    "loi_giai": "Số phức là số thuần ảo nếu phần thực bằng $0$.",
+    "params": {
+      "a": "sqrt(3)",
+      "b": "-5"
+    }
+  },
+  {
+    "stt_goc": 34,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt34",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức nào dưới đây là số thuần ảo?\n\nA. $z=5+2 \\sqrt{6}i$.\nB. $z=2 \\sqrt{6}i$.\nC. $z=5$.\nD. $z=5-2 \\sqrt{6}i$.",
+    "dap_an": "B. $z=2 \\sqrt{6}i$.",
+    "loi_giai": "Số phức là số thuần ảo nếu phần thực bằng $0$.",
+    "params": {
+      "a": "5",
+      "b": "2*sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 43,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt43",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức liên hợp của số phức $-6-2i$ là\n\nA. $6-2i$.\nB. $6+2i$.\nC. $-6-2i$.\nD. $-6+2i$.",
+    "dap_an": "D. $-6+2i$.",
+    "loi_giai": "Số phức liên hợp của số phức $-6-2i$ là $-6+2i$.",
+    "params": {
+      "a": "-6",
+      "b": "-2"
+    }
+  },
+  {
+    "stt_goc": 43,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt43",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức liên hợp của số phức $2+4i$ là\n\nA. $-2+4i$.\nB. $-2-4i$.\nC. $2+4i$.\nD. $2-4i$.",
+    "dap_an": "D. $2-4i$.",
+    "loi_giai": "Số phức liên hợp của số phức $2+4i$ là $2-4i$.",
+    "params": {
+      "a": "2",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 43,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt43",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức liên hợp của số phức $\\dfrac{5}{4}+\\dfrac{5}{2}i$ là\n\nA. $- \\dfrac{5}{4}+\\dfrac{5}{2}i$.\nB. $- \\dfrac{5}{4}-\\dfrac{5}{2}i$.\nC. $\\dfrac{5}{4}+\\dfrac{5}{2}i$.\nD. $\\dfrac{5}{4}-\\dfrac{5}{2}i$.",
+    "dap_an": "D. $\\dfrac{5}{4}-\\dfrac{5}{2}i$.",
+    "loi_giai": "Số phức liên hợp của số phức $\\dfrac{5}{4}+\\dfrac{5}{2}i$ là $\\dfrac{5}{4}-\\dfrac{5}{2}i$.",
+    "params": {
+      "a": "5/4",
+      "b": "5/2"
+    }
+  },
+  {
+    "stt_goc": 43,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt43",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức liên hợp của số phức $\\dfrac{10}{3}+\\dfrac{10}{3}i$ là\n\nA. $- \\dfrac{10}{3}+\\dfrac{10}{3}i$.\nB. $- \\dfrac{10}{3}-\\dfrac{10}{3}i$.\nC. $\\dfrac{10}{3}+\\dfrac{10}{3}i$.\nD. $\\dfrac{10}{3}-\\dfrac{10}{3}i$.",
+    "dap_an": "D. $\\dfrac{10}{3}-\\dfrac{10}{3}i$.",
+    "loi_giai": "Số phức liên hợp của số phức $\\dfrac{10}{3}+\\dfrac{10}{3}i$ là $\\dfrac{10}{3}-\\dfrac{10}{3}i$.",
+    "params": {
+      "a": "10/3",
+      "b": "10/3"
+    }
+  },
+  {
+    "stt_goc": 43,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt43",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức liên hợp của số phức $- 2 \\sqrt{3}-9i$ là\n\nA. $2 \\sqrt{3}-9i$.\nB. $2 \\sqrt{3}+9i$.\nC. $- 2 \\sqrt{3}-9i$.\nD. $- 2 \\sqrt{3}+9i$.",
+    "dap_an": "D. $- 2 \\sqrt{3}+9i$.",
+    "loi_giai": "Số phức liên hợp của số phức $- 2 \\sqrt{3}-9i$ là $- 2 \\sqrt{3}+9i$.",
+    "params": {
+      "a": "-2*sqrt(3)",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 43,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt43",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức liên hợp của số phức $2+3 \\sqrt{10}i$ là\n\nA. $-2+3 \\sqrt{10}i$.\nB. $-2-3 \\sqrt{10}i$.\nC. $2+3 \\sqrt{10}i$.\nD. $2-3 \\sqrt{10}i$.",
+    "dap_an": "D. $2-3 \\sqrt{10}i$.",
+    "loi_giai": "Số phức liên hợp của số phức $2+3 \\sqrt{10}i$ là $2-3 \\sqrt{10}i$.",
+    "params": {
+      "a": "2",
+      "b": "3*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 49,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức liên hợp của số phức $z=-6-6i$ là\n\nA. $\\overline{z}=6+6i$.\nB. $\\overline{z}=6-6i$.\nC. $\\overline{z}=-6-6i$.\nD. $\\overline{z}=-6+6i$.",
+    "dap_an": "D. $\\overline{z}=-6+6i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=-6-6i$ là $\\overline{z}=-6+6i$.",
+    "params": {
+      "a": "-6",
+      "b": "-6"
+    }
+  },
+  {
+    "stt_goc": 49,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức liên hợp của số phức $z=-4+4i$ là\n\nA. $\\overline{z}=4-4i$.\nB. $\\overline{z}=4+4i$.\nC. $\\overline{z}=-4+4i$.\nD. $\\overline{z}=-4-4i$.",
+    "dap_an": "D. $\\overline{z}=-4-4i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=-4+4i$ là $\\overline{z}=-4-4i$.",
+    "params": {
+      "a": "-4",
+      "b": "4"
+    }
+  },
+  {
+    "stt_goc": 49,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=\\dfrac{11}{2}+\\dfrac{8}{3}i$ là\n\nA. $\\overline{z}=- \\dfrac{11}{2}-\\dfrac{8}{3}i$.\nB. $\\overline{z}=- \\dfrac{11}{2}+\\dfrac{8}{3}i$.\nC. $\\overline{z}=\\dfrac{11}{2}+\\dfrac{8}{3}i$.\nD. $\\overline{z}=\\dfrac{11}{2}-\\dfrac{8}{3}i$.",
+    "dap_an": "D. $\\overline{z}=\\dfrac{11}{2}-\\dfrac{8}{3}i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=\\dfrac{11}{2}+\\dfrac{8}{3}i$ là $\\overline{z}=\\dfrac{11}{2}-\\dfrac{8}{3}i$.",
+    "params": {
+      "a": "11/2",
+      "b": "8/3"
+    }
+  },
+  {
+    "stt_goc": 49,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=- \\dfrac{10}{3}-\\dfrac{5}{2}i$ là\n\nA. $\\overline{z}=\\dfrac{10}{3}+\\dfrac{5}{2}i$.\nB. $\\overline{z}=\\dfrac{10}{3}-\\dfrac{5}{2}i$.\nC. $\\overline{z}=- \\dfrac{10}{3}-\\dfrac{5}{2}i$.\nD. $\\overline{z}=- \\dfrac{10}{3}+\\dfrac{5}{2}i$.",
+    "dap_an": "D. $\\overline{z}=- \\dfrac{10}{3}+\\dfrac{5}{2}i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=- \\dfrac{10}{3}-\\dfrac{5}{2}i$ là $\\overline{z}=- \\dfrac{10}{3}+\\dfrac{5}{2}i$.",
+    "params": {
+      "a": "-10/3",
+      "b": "-5/2"
+    }
+  },
+  {
+    "stt_goc": 49,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=- \\sqrt{7}+3i$ là\n\nA. $\\overline{z}=\\sqrt{7}-3i$.\nB. $\\overline{z}=\\sqrt{7}+3i$.\nC. $\\overline{z}=- \\sqrt{7}+3i$.\nD. $\\overline{z}=- \\sqrt{7}-3i$.",
+    "dap_an": "D. $\\overline{z}=- \\sqrt{7}-3i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=- \\sqrt{7}+3i$ là $\\overline{z}=- \\sqrt{7}-3i$.",
+    "params": {
+      "a": "-sqrt(7)",
+      "b": "3"
+    }
+  },
+  {
+    "stt_goc": 49,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt49",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức liên hợp của số phức $z=- 4 \\sqrt{10}+3 \\sqrt{7}i$ là\n\nA. $\\overline{z}=4 \\sqrt{10}-3 \\sqrt{7}i$.\nB. $\\overline{z}=4 \\sqrt{10}+3 \\sqrt{7}i$.\nC. $\\overline{z}=- 4 \\sqrt{10}+3 \\sqrt{7}i$.\nD. $\\overline{z}=- 4 \\sqrt{10}-3 \\sqrt{7}i$.",
+    "dap_an": "D. $\\overline{z}=- 4 \\sqrt{10}-3 \\sqrt{7}i$.",
+    "loi_giai": "Ta có số phức liên hợp của số phức $z=- 4 \\sqrt{10}+3 \\sqrt{7}i$ là $\\overline{z}=- 4 \\sqrt{10}-3 \\sqrt{7}i$.",
+    "params": {
+      "a": "-4*sqrt(10)",
+      "b": "3*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 53,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt53",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phần thực của số phức $z=5-2i$ bằng\n\nA. $2$.\nB. $-2$.\nC. $5$.\nD. $-5$.",
+    "dap_an": "C. $5$.",
+    "loi_giai": "Phần thực của số phức $z=5-2i$ bằng $5$.",
+    "params": {
+      "a": "5",
+      "b": "-2"
+    }
+  },
+  {
+    "stt_goc": 53,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt53",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phần thực của số phức $z=-8-i$ bằng\n\nA. $1$.\nB. $-1$.\nC. $-8$.\nD. $8$.",
+    "dap_an": "C. $-8$.",
+    "loi_giai": "Phần thực của số phức $z=-8-i$ bằng $-8$.",
+    "params": {
+      "a": "-8",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 53,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt53",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phần thực của số phức $z=\\dfrac{7}{4}+\\dfrac{8}{3}i$ bằng\n\nA. $- \\dfrac{8}{3}$.\nB. $\\dfrac{8}{3}$.\nC. $\\dfrac{7}{4}$.\nD. $- \\dfrac{7}{4}$.",
+    "dap_an": "C. $\\dfrac{7}{4}$.",
+    "loi_giai": "Phần thực của số phức $z=\\dfrac{7}{4}+\\dfrac{8}{3}i$ bằng $\\dfrac{7}{4}$.",
+    "params": {
+      "a": "7/4",
+      "b": "8/3"
+    }
+  },
+  {
+    "stt_goc": 53,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt53",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phần thực của số phức $z=- \\dfrac{1}{4}-\\dfrac{1}{2}i$ bằng\n\nA. $\\dfrac{1}{2}$.\nB. $- \\dfrac{1}{2}$.\nC. $- \\dfrac{1}{4}$.\nD. $\\dfrac{1}{4}$.",
+    "dap_an": "C. $- \\dfrac{1}{4}$.",
+    "loi_giai": "Phần thực của số phức $z=- \\dfrac{1}{4}-\\dfrac{1}{2}i$ bằng $- \\dfrac{1}{4}$.",
+    "params": {
+      "a": "-1/4",
+      "b": "-1/2"
+    }
+  },
+  {
+    "stt_goc": 53,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt53",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phần thực của số phức $z=4 \\sqrt{2}-2i$ bằng\n\nA. $2$.\nB. $-2$.\nC. $4 \\sqrt{2}$.\nD. $- 4 \\sqrt{2}$.",
+    "dap_an": "C. $4 \\sqrt{2}$.",
+    "loi_giai": "Phần thực của số phức $z=4 \\sqrt{2}-2i$ bằng $4 \\sqrt{2}$.",
+    "params": {
+      "a": "4*sqrt(2)",
+      "b": "-2"
+    }
+  },
+  {
+    "stt_goc": 53,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt53",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phần thực của số phức $z=4 \\sqrt{7}-3i$ bằng\n\nA. $3$.\nB. $-3$.\nC. $4 \\sqrt{7}$.\nD. $- 4 \\sqrt{7}$.",
+    "dap_an": "C. $4 \\sqrt{7}$.",
+    "loi_giai": "Phần thực của số phức $z=4 \\sqrt{7}-3i$ bằng $4 \\sqrt{7}$.",
+    "params": {
+      "a": "4*sqrt(7)",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 58,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt58",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phần ảo của số phức $z=2-i$ bằng\n\nA. $-1$.\nB. $1$.\nC. $2$.\nD. $-2$.",
+    "dap_an": "A. $-1$.",
+    "loi_giai": "Phần ảo của số phức $z=2-i$ bằng $-1$.",
+    "params": {
+      "a": "2",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 58,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt58",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Phần ảo của số phức $z=-2-2i$ bằng\n\nA. $-2$.\nB. $2$.\nC. $-1$.\nD. $3$.",
+    "dap_an": "A. $-2$.",
+    "loi_giai": "Phần ảo của số phức $z=-2-2i$ bằng $-2$.",
+    "params": {
+      "a": "-2",
+      "b": "-2"
+    }
+  },
+  {
+    "stt_goc": 58,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt58",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phần ảo của số phức $z=\\dfrac{1}{5}+\\dfrac{3}{5}i$ bằng\n\nA. $\\dfrac{3}{5}$.\nB. $- \\dfrac{3}{5}$.\nC. $\\dfrac{1}{5}$.\nD. $- \\dfrac{1}{5}$.",
+    "dap_an": "A. $\\dfrac{3}{5}$.",
+    "loi_giai": "Phần ảo của số phức $z=\\dfrac{1}{5}+\\dfrac{3}{5}i$ bằng $\\dfrac{3}{5}$.",
+    "params": {
+      "a": "1/5",
+      "b": "3/5"
+    }
+  },
+  {
+    "stt_goc": 58,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt58",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Phần ảo của số phức $z=- \\dfrac{3}{2}-\\dfrac{5}{2}i$ bằng\n\nA. $- \\dfrac{5}{2}$.\nB. $\\dfrac{5}{2}$.\nC. $- \\dfrac{3}{2}$.\nD. $\\dfrac{3}{2}$.",
+    "dap_an": "A. $- \\dfrac{5}{2}$.",
+    "loi_giai": "Phần ảo của số phức $z=- \\dfrac{3}{2}-\\dfrac{5}{2}i$ bằng $- \\dfrac{5}{2}$.",
+    "params": {
+      "a": "-3/2",
+      "b": "-5/2"
+    }
+  },
+  {
+    "stt_goc": 58,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt58",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phần ảo của số phức $z=4 \\sqrt{11}-9i$ bằng\n\nA. $-9$.\nB. $9$.\nC. $4 \\sqrt{11}$.\nD. $- 4 \\sqrt{11}$.",
+    "dap_an": "A. $-9$.",
+    "loi_giai": "Phần ảo của số phức $z=4 \\sqrt{11}-9i$ bằng $-9$.",
+    "params": {
+      "a": "4*sqrt(11)",
+      "b": "-9"
+    }
+  },
+  {
+    "stt_goc": 58,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt58",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Phần ảo của số phức $z=6-3 \\sqrt{10}i$ bằng\n\nA. $- 3 \\sqrt{10}$.\nB. $3 \\sqrt{10}$.\nC. $6$.\nD. $-6$.",
+    "dap_an": "A. $- 3 \\sqrt{10}$.",
+    "loi_giai": "Phần ảo của số phức $z=6-3 \\sqrt{10}i$ bằng $- 3 \\sqrt{10}$.",
+    "params": {
+      "a": "6",
+      "b": "-3*sqrt(10)"
+    }
+  },
+  {
+    "stt_goc": 59,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt59",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z=-5-7i$, môđun của số phức $(1+i)z$ bằng\n\nA. $74 \\sqrt{2}$.\nB. $\\sqrt{74}$.\nC. $2 \\sqrt{74}$.\nD. $2 \\sqrt{37}$.",
+    "dap_an": "D. $2 \\sqrt{37}$.",
+    "loi_giai": "Ta có $(1+i)z=(1+i)(-5-7i)=2-12i$.\nDo đó môđun của $(1+i)z$ là $|2-12i|=2 \\sqrt{37}$.",
+    "params": {
+      "a": "-5",
+      "b": "-7"
+    }
+  },
+  {
+    "stt_goc": 59,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt59",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho số phức $z=9+i$, môđun của số phức $(1+i)z$ bằng\n\nA. $82 \\sqrt{2}$.\nB. $\\sqrt{82}$.\nC. $2 \\sqrt{82}$.\nD. $2 \\sqrt{41}$.",
+    "dap_an": "D. $2 \\sqrt{41}$.",
+    "loi_giai": "Ta có $(1+i)z=(1+i)(9+i)=8+10i$.\nDo đó môđun của $(1+i)z$ là $|8+10i|=2 \\sqrt{41}$.",
+    "params": {
+      "a": "9",
+      "b": "1"
+    }
+  },
+  {
+    "stt_goc": 59,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt59",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z=- \\dfrac{9}{2}+\\dfrac{9}{2}i$, môđun của số phức $(1+i)z$ bằng\n\nA. $\\dfrac{81 \\sqrt{2}}{2}$.\nB. $\\dfrac{9 \\sqrt{2}}{2}$.\nC. $9 \\sqrt{2}$.\nD. $9$.",
+    "dap_an": "D. $9$.",
+    "loi_giai": "Ta có $(1+i)z=(1+i)(- \\dfrac{9}{2}+\\dfrac{9}{2}i)=-9$.\nDo đó môđun của $(1+i)z$ là $|-9|=9$.",
+    "params": {
+      "a": "-9/2",
+      "b": "9/2"
+    }
+  },
+  {
+    "stt_goc": 59,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt59",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho số phức $z=\\dfrac{5}{2}-\\dfrac{1}{4}i$, môđun của số phức $(1+i)z$ bằng\n\nA. $\\dfrac{101 \\sqrt{2}}{16}$.\nB. $\\dfrac{\\sqrt{101}}{4}$.\nC. $\\dfrac{\\sqrt{101}}{2}$.\nD. $\\dfrac{\\sqrt{202}}{4}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{202}}{4}$.",
+    "loi_giai": "Ta có $(1+i)z=(1+i)(\\dfrac{5}{2}-\\dfrac{1}{4}i)=\\dfrac{11}{4}+\\dfrac{9}{4}i$.\nDo đó môđun của $(1+i)z$ là $|\\dfrac{11}{4}+\\dfrac{9}{4}i|=\\dfrac{\\sqrt{202}}{4}$.",
+    "params": {
+      "a": "5/2",
+      "b": "-1/4"
+    }
+  },
+  {
+    "stt_goc": 59,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt59",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z=-3+2 \\sqrt{5}i$, môđun của số phức $(1+i)z$ bằng\n\nA. $29 \\sqrt{2}$.\nB. $\\sqrt{29}$.\nC. $2 \\sqrt{29}$.\nD. $\\sqrt{58}$.",
+    "dap_an": "D. $\\sqrt{58}$.",
+    "loi_giai": "Ta có $(1+i)z=(1+i)(-3+2 \\sqrt{5}i)=\\left(- 2 \\sqrt{5} - 3\\right)+\\left(-3 + 2 \\sqrt{5}\\right)i$.\nDo đó môđun của $(1+i)z$ là $|\\left(- 2 \\sqrt{5} - 3\\right)+\\left(-3 + 2 \\sqrt{5}\\right)i|=\\sqrt{58}$.",
+    "params": {
+      "a": "-3",
+      "b": "2*sqrt(5)"
+    }
+  },
+  {
+    "stt_goc": 59,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt59",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho số phức $z=- 4 \\sqrt{3}+8i$, môđun của số phức $(1+i)z$ bằng\n\nA. $112 \\sqrt{2}$.\nB. $4 \\sqrt{7}$.\nC. $8 \\sqrt{7}$.\nD. $4 \\sqrt{14}$.",
+    "dap_an": "D. $4 \\sqrt{14}$.",
+    "loi_giai": "Ta có $(1+i)z=(1+i)(- 4 \\sqrt{3}+8i)=\\left(-8 - 4 \\sqrt{3}\\right)+\\left(8 - 4 \\sqrt{3}\\right)i$.\nDo đó môđun của $(1+i)z$ là $|\\left(-8 - 4 \\sqrt{3}\\right)+\\left(8 - 4 \\sqrt{3}\\right)i|=4 \\sqrt{14}$.",
+    "params": {
+      "a": "-4*sqrt(3)",
+      "b": "8"
+    }
+  },
+  {
+    "stt_goc": 62,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Môđun của số phức $-2-i$ bằng\n\nA. $5$.\nB. $\\sqrt{5}$.\nC. $3$.\nD. $\\sqrt{3}$.",
+    "dap_an": "B. $\\sqrt{5}$.",
+    "loi_giai": "Ta có: $|-2-i| = \\sqrt{\\left(-2\\right)^2+\\left(-1\\right)^2} = \\sqrt{5}$.",
+    "params": {
+      "a": "-2",
+      "b": "-1"
+    }
+  },
+  {
+    "stt_goc": 62,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Môđun của số phức $-5+7i$ bằng\n\nA. $74$.\nB. $\\sqrt{74}$.\nC. $24$.\nD. $2 \\sqrt{6}$.",
+    "dap_an": "B. $\\sqrt{74}$.",
+    "loi_giai": "Ta có: $|-5+7i| = \\sqrt{\\left(-5\\right)^2+\\left(7\\right)^2} = \\sqrt{74}$.",
+    "params": {
+      "a": "-5",
+      "b": "7"
+    }
+  },
+  {
+    "stt_goc": 62,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Môđun của số phức $- \\dfrac{1}{3}+\\dfrac{7}{2}i$ bằng\n\nA. $\\dfrac{445}{36}$.\nB. $\\dfrac{\\sqrt{445}}{6}$.\nC. $\\dfrac{437}{36}$.\nD. $\\dfrac{\\sqrt{437}}{6}$.",
+    "dap_an": "B. $\\dfrac{\\sqrt{445}}{6}$.",
+    "loi_giai": "Ta có: $|- \\dfrac{1}{3}+\\dfrac{7}{2}i| = \\sqrt{\\left(- \\dfrac{1}{3}\\right)^2+\\left(\\dfrac{7}{2}\\right)^2} = \\dfrac{\\sqrt{445}}{6}$.",
+    "params": {
+      "a": "-1/3",
+      "b": "7/2"
+    }
+  },
+  {
+    "stt_goc": 62,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Môđun của số phức $\\dfrac{3}{4}+\\dfrac{9}{4}i$ bằng\n\nA. $\\dfrac{45}{8}$.\nB. $\\dfrac{3 \\sqrt{10}}{4}$.\nC. $\\dfrac{9}{2}$.\nD. $\\dfrac{3 \\sqrt{2}}{2}$.",
+    "dap_an": "B. $\\dfrac{3 \\sqrt{10}}{4}$.",
+    "loi_giai": "Ta có: $|\\dfrac{3}{4}+\\dfrac{9}{4}i| = \\sqrt{\\left(\\dfrac{3}{4}\\right)^2+\\left(\\dfrac{9}{4}\\right)^2} = \\dfrac{3 \\sqrt{10}}{4}$.",
+    "params": {
+      "a": "3/4",
+      "b": "9/4"
+    }
+  },
+  {
+    "stt_goc": 62,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Môđun của số phức $- 3 \\sqrt{7}-4 \\sqrt{2}i$ bằng\n\nA. $95$.\nB. $\\sqrt{95}$.\nC. $31$.\nD. $\\sqrt{31}$.",
+    "dap_an": "B. $\\sqrt{95}$.",
+    "loi_giai": "Ta có: $|- 3 \\sqrt{7}-4 \\sqrt{2}i| = \\sqrt{\\left(- 3 \\sqrt{7}\\right)^2+\\left(- 4 \\sqrt{2}\\right)^2} = \\sqrt{95}$.",
+    "params": {
+      "a": "-3*sqrt(7)",
+      "b": "-4*sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 62,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt15",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Môđun của số phức $4 \\sqrt{11}-2i$ bằng\n\nA. $180$.\nB. $6 \\sqrt{5}$.\nC. $172$.\nD. $2 \\sqrt{43}$.",
+    "dap_an": "B. $6 \\sqrt{5}$.",
+    "loi_giai": "Ta có: $|4 \\sqrt{11}-2i| = \\sqrt{\\left(4 \\sqrt{11}\\right)^2+\\left(-2\\right)^2} = 6 \\sqrt{5}$.",
+    "params": {
+      "a": "4*sqrt(11)",
+      "b": "-2"
+    }
+  },
+  {
+    "stt_goc": 40,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt40",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức có phần thực bằng $-4$ và phần ảo bằng $2$ là\n\nA. $-4+2i$.\nB. $2+4i$.\nC. $-4-2i$.\nD. $2-4i$.",
+    "dap_an": "A. $-4+2i$.",
+    "loi_giai": "Số phức có phần thực bằng $-4$ và phần ảo bằng $2$ là $z = -4+2i$.",
+    "params": {
+      "a": "-4",
+      "b": "2"
+    }
+  },
+  {
+    "stt_goc": 40,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt40",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Số phức có phần thực bằng $-3$ và phần ảo bằng $-7$ là\n\nA. $-3-7i$.\nB. $-7+3i$.\nC. $-3+7i$.\nD. $-7-3i$.",
+    "dap_an": "A. $-3-7i$.",
+    "loi_giai": "Số phức có phần thực bằng $-3$ và phần ảo bằng $-7$ là $z = -3-7i$.",
+    "params": {
+      "a": "-3",
+      "b": "-7"
+    }
+  },
+  {
+    "stt_goc": 40,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt40",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức có phần thực bằng $\\dfrac{1}{2}$ và phần ảo bằng $- \\dfrac{6}{5}$ là\n\nA. $\\dfrac{1}{2}-\\dfrac{6}{5}i$.\nB. $- \\dfrac{6}{5}-\\dfrac{1}{2}i$.\nC. $\\dfrac{1}{2}+\\dfrac{6}{5}i$.\nD. $- \\dfrac{6}{5}+\\dfrac{1}{2}i$.",
+    "dap_an": "A. $\\dfrac{1}{2}-\\dfrac{6}{5}i$.",
+    "loi_giai": "Số phức có phần thực bằng $\\dfrac{1}{2}$ và phần ảo bằng $- \\dfrac{6}{5}$ là $z = \\dfrac{1}{2}-\\dfrac{6}{5}i$.",
+    "params": {
+      "a": "1/2",
+      "b": "-6/5"
+    }
+  },
+  {
+    "stt_goc": 40,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt40",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Số phức có phần thực bằng $- \\dfrac{8}{5}$ và phần ảo bằng $- \\dfrac{3}{2}$ là\n\nA. $- \\dfrac{8}{5}-\\dfrac{3}{2}i$.\nB. $- \\dfrac{3}{2}+\\dfrac{8}{5}i$.\nC. $- \\dfrac{8}{5}+\\dfrac{3}{2}i$.\nD. $- \\dfrac{3}{2}-\\dfrac{8}{5}i$.",
+    "dap_an": "A. $- \\dfrac{8}{5}-\\dfrac{3}{2}i$.",
+    "loi_giai": "Số phức có phần thực bằng $- \\dfrac{8}{5}$ và phần ảo bằng $- \\dfrac{3}{2}$ là $z = - \\dfrac{8}{5}-\\dfrac{3}{2}i$.",
+    "params": {
+      "a": "-8/5",
+      "b": "-3/2"
+    }
+  },
+  {
+    "stt_goc": 40,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt40",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức có phần thực bằng $-3$ và phần ảo bằng $\\sqrt{7}$ là\n\nA. $-3+\\sqrt{7}i$.\nB. $\\sqrt{7}+3i$.\nC. $-3-\\sqrt{7}i$.\nD. $\\sqrt{7}-3i$.",
+    "dap_an": "A. $-3+\\sqrt{7}i$.",
+    "loi_giai": "Số phức có phần thực bằng $-3$ và phần ảo bằng $\\sqrt{7}$ là $z = -3+\\sqrt{7}i$.",
+    "params": {
+      "a": "-3",
+      "b": "sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 40,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt40",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Số phức có phần thực bằng $- 2 \\sqrt{10}$ và phần ảo bằng $-3$ là\n\nA. $- 2 \\sqrt{10}-3i$.\nB. $-3+2 \\sqrt{10}i$.\nC. $- 2 \\sqrt{10}+3i$.\nD. $-3-2 \\sqrt{10}i$.",
+    "dap_an": "A. $- 2 \\sqrt{10}-3i$.",
+    "loi_giai": "Số phức có phần thực bằng $- 2 \\sqrt{10}$ và phần ảo bằng $-3$ là $z = - 2 \\sqrt{10}-3i$.",
+    "params": {
+      "a": "-2*sqrt(10)",
+      "b": "-3"
+    }
+  },
+  {
+    "stt_goc": 2,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z_1 = -9-9i$ và $z_2 = -8+i$. Tính môđun của số phức $z_1+z_2$.\n\nA. $|z_1+z_2| = \\sqrt{353}$.\nB. $|z_1+z_2| = 353$.\nC. $|z_1+z_2| = \\sqrt{101}$.\nD. $|z_1+z_2| = \\sqrt{65} + 9 \\sqrt{2}$.",
+    "dap_an": "A. $|z_1+z_2| = \\sqrt{353}$.",
+    "loi_giai": "Ta có $z_1+z_2 = -17-8i \\Rightarrow |z_1+z_2| = \\sqrt{\\left(-17\\right)^2+\\left(-8\\right)^2} = \\sqrt{353}$.",
+    "params": {
+      "a": "-9",
+      "b": "-9",
+      "c": "-8",
+      "d": "1"
+    }
+  },
+  {
+    "stt_goc": 2,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z_1 = 7-i$ và $z_2 = -7+9i$. Tính môđun của số phức $z_1+z_2$.\n\nA. $|z_1+z_2| = 8$.\nB. $|z_1+z_2| = 64$.\nC. $|z_1+z_2| = 2 \\sqrt{74}$.\nD. $|z_1+z_2| = 5 \\sqrt{2} + \\sqrt{130}$.",
+    "dap_an": "A. $|z_1+z_2| = 8$.",
+    "loi_giai": "Ta có $z_1+z_2 = 0+8i \\Rightarrow |z_1+z_2| = \\sqrt{\\left(0\\right)^2+\\left(8\\right)^2} = 8$.",
+    "params": {
+      "a": "7",
+      "b": "-1",
+      "c": "-7",
+      "d": "9"
+    }
+  },
+  {
+    "stt_goc": 2,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z_1 = - \\dfrac{3}{2}+\\dfrac{10}{3}i$ và $z_2 = \\dfrac{6}{5}+\\dfrac{1}{4}i$. Tính môđun của số phức $z_1+z_2$.\n\nA. $|z_1+z_2| = \\dfrac{\\sqrt{46549}}{60}$.\nB. $|z_1+z_2| = \\dfrac{46549}{3600}$.\nC. $|z_1+z_2| = \\dfrac{\\sqrt{60469}}{60}$.\nD. $|z_1+z_2| = \\dfrac{\\sqrt{601}}{20} + \\dfrac{\\sqrt{481}}{6}$.",
+    "dap_an": "A. $|z_1+z_2| = \\dfrac{\\sqrt{46549}}{60}$.",
+    "loi_giai": "Ta có $z_1+z_2 = - \\dfrac{3}{10}+\\dfrac{43}{12}i \\Rightarrow |z_1+z_2| = \\sqrt{\\left(- \\dfrac{3}{10}\\right)^2+\\left(\\dfrac{43}{12}\\right)^2} = \\dfrac{\\sqrt{46549}}{60}$.",
+    "params": {
+      "a": "-3/2",
+      "b": "10/3",
+      "c": "6/5",
+      "d": "1/4"
+    }
+  },
+  {
+    "stt_goc": 2,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z_1 = \\dfrac{3}{2}-\\dfrac{8}{3}i$ và $z_2 = \\dfrac{1}{2}+\\dfrac{10}{3}i$. Tính môđun của số phức $z_1+z_2$.\n\nA. $|z_1+z_2| = \\dfrac{2 \\sqrt{10}}{3}$.\nB. $|z_1+z_2| = \\dfrac{40}{9}$.\nC. $|z_1+z_2| = \\sqrt{37}$.\nD. $|z_1+z_2| = \\dfrac{\\sqrt{337}}{6} + \\dfrac{\\sqrt{409}}{6}$.",
+    "dap_an": "A. $|z_1+z_2| = \\dfrac{2 \\sqrt{10}}{3}$.",
+    "loi_giai": "Ta có $z_1+z_2 = 2+\\dfrac{2}{3}i \\Rightarrow |z_1+z_2| = \\sqrt{\\left(2\\right)^2+\\left(\\dfrac{2}{3}\\right)^2} = \\dfrac{2 \\sqrt{10}}{3}$.",
+    "params": {
+      "a": "3/2",
+      "b": "-8/3",
+      "c": "1/2",
+      "d": "10/3"
+    }
+  },
+  {
+    "stt_goc": 2,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z_1 = - 2 \\sqrt{2}+\\sqrt{10}i$ và $z_2 = \\sqrt{7}+3 \\sqrt{7}i$. Tính môđun của số phức $z_1+z_2$.\n\nA. $|z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{2} + \\sqrt{7}\\right)^{2} + \\left(\\sqrt{10} + 3 \\sqrt{7}\\right)^{2}}$.\nB. $|z_1+z_2| = \\left(- 2 \\sqrt{2} + \\sqrt{7}\\right)^{2} + \\left(\\sqrt{10} + 3 \\sqrt{7}\\right)^{2}$.\nC. $|z_1+z_2| = \\sqrt{\\left(- 3 \\sqrt{7} + \\sqrt{10}\\right)^{2} + \\left(- 2 \\sqrt{2} - \\sqrt{7}\\right)^{2}}$.\nD. $|z_1+z_2| = 3 \\sqrt{2} + \\sqrt{70}$.",
+    "dap_an": "A. $|z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{2} + \\sqrt{7}\\right)^{2} + \\left(\\sqrt{10} + 3 \\sqrt{7}\\right)^{2}}$.",
+    "loi_giai": "Ta có $z_1+z_2 = \\left(- 2 \\sqrt{2} + \\sqrt{7}\\right)+\\left(\\sqrt{10} + 3 \\sqrt{7}\\right)i \\Rightarrow |z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{2} + \\sqrt{7}\\right)^2+\\left(\\sqrt{10} + 3 \\sqrt{7}\\right)^2} = \\sqrt{\\left(- 2 \\sqrt{2} + \\sqrt{7}\\right)^{2} + \\left(\\sqrt{10} + 3 \\sqrt{7}\\right)^{2}}$.",
+    "params": {
+      "a": "-2*sqrt(2)",
+      "b": "sqrt(10)",
+      "c": "sqrt(7)",
+      "d": "3*sqrt(7)"
+    }
+  },
+  {
+    "stt_goc": 2,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt2",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z_1 = - 2 \\sqrt{5}-2 \\sqrt{10}i$ và $z_2 = 2 \\sqrt{10}+2 \\sqrt{6}i$. Tính môđun của số phức $z_1+z_2$.\n\nA. $|z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{10} + 2 \\sqrt{6}\\right)^{2} + \\left(- 2 \\sqrt{5} + 2 \\sqrt{10}\\right)^{2}}$.\nB. $|z_1+z_2| = \\left(- 2 \\sqrt{10} + 2 \\sqrt{6}\\right)^{2} + \\left(- 2 \\sqrt{5} + 2 \\sqrt{10}\\right)^{2}$.\nC. $|z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{10} - 2 \\sqrt{5}\\right)^{2} + \\left(- 2 \\sqrt{10} - 2 \\sqrt{6}\\right)^{2}}$.\nD. $|z_1+z_2| = 2 \\sqrt{15} + 8$.",
+    "dap_an": "A. $|z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{10} + 2 \\sqrt{6}\\right)^{2} + \\left(- 2 \\sqrt{5} + 2 \\sqrt{10}\\right)^{2}}$.",
+    "loi_giai": "Ta có $z_1+z_2 = \\left(- 2 \\sqrt{5} + 2 \\sqrt{10}\\right)-\\left(- 2 \\sqrt{6} + 2 \\sqrt{10}\\right)i \\Rightarrow |z_1+z_2| = \\sqrt{\\left(- 2 \\sqrt{5} + 2 \\sqrt{10}\\right)^2+\\left(- 2 \\sqrt{10} + 2 \\sqrt{6}\\right)^2} = \\sqrt{\\left(- 2 \\sqrt{10} + 2 \\sqrt{6}\\right)^{2} + \\left(- 2 \\sqrt{5} + 2 \\sqrt{10}\\right)^{2}}$.",
+    "params": {
+      "a": "-2*sqrt(5)",
+      "b": "-2*sqrt(10)",
+      "c": "2*sqrt(10)",
+      "d": "2*sqrt(6)"
+    }
+  },
+  {
+    "stt_goc": 50,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt50",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z=3+7i$ và $w=2+6i$. Môđun của số phức $z\\cdot\\overline{w}$ bằng\n\nA. $2320$.\nB. $2288$.\nC. $4 \\sqrt{143}$.\nD. $4 \\sqrt{145}$.",
+    "dap_an": "D. $4 \\sqrt{145}$.",
+    "loi_giai": "Ta có $z\\cdot\\overline{w}=(3+7i)(2-6i)=48-4i$.\nVậy $|z\\cdot\\overline{w}|=|48-4i|=4 \\sqrt{145}$.",
+    "params": {
+      "a": "3",
+      "b": "7",
+      "c": "2",
+      "d": "6"
+    }
+  },
+  {
+    "stt_goc": 50,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt50",
+    "nguon": "Nhân bản",
+    "loai_so": "Số nguyên",
+    "de_bai": "Cho hai số phức $z=-7+i$ và $w=1-i$. Môđun của số phức $z\\cdot\\overline{w}$ bằng\n\nA. $100$.\nB. $28$.\nC. $2 \\sqrt{7}$.\nD. $10$.",
+    "dap_an": "D. $10$.",
+    "loi_giai": "Ta có $z\\cdot\\overline{w}=(-7+i)(1+i)=-8-6i$.\nVậy $|z\\cdot\\overline{w}|=|-8-6i|=10$.",
+    "params": {
+      "a": "-7",
+      "b": "1",
+      "c": "1",
+      "d": "-1"
+    }
+  },
+  {
+    "stt_goc": 50,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt50",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z=\\dfrac{5}{3}-\\dfrac{11}{3}i$ và $w=- \\dfrac{5}{2}+\\dfrac{7}{4}i$. Môđun của số phức $z\\cdot\\overline{w}$ bằng\n\nA. $\\dfrac{10877}{72}$.\nB. $\\dfrac{1313}{18}$.\nC. $\\dfrac{\\sqrt{2626}}{6}$.\nD. $\\dfrac{\\sqrt{21754}}{12}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{21754}}{12}$.",
+    "loi_giai": "Ta có $z\\cdot\\overline{w}=(\\dfrac{5}{3}-\\dfrac{11}{3}i)(- \\dfrac{5}{2}-\\dfrac{7}{4}i)=- \\dfrac{127}{12}+\\dfrac{25}{4}i$.\nVậy $|z\\cdot\\overline{w}|=|- \\dfrac{127}{12}+\\dfrac{25}{4}i|=\\dfrac{\\sqrt{21754}}{12}$.",
+    "params": {
+      "a": "5/3",
+      "b": "-11/3",
+      "c": "-5/2",
+      "d": "7/4"
+    }
+  },
+  {
+    "stt_goc": 50,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt50",
+    "nguon": "Nhân bản",
+    "loai_so": "Số hữu tỉ",
+    "de_bai": "Cho hai số phức $z=- \\dfrac{6}{5}+\\dfrac{9}{5}i$ và $w=\\dfrac{7}{3}-\\dfrac{11}{2}i$. Môđun của số phức $z\\cdot\\overline{w}$ bằng\n\nA. $\\dfrac{3341}{20}$.\nB. $\\dfrac{15553}{100}$.\nC. $\\dfrac{\\sqrt{15553}}{10}$.\nD. $\\dfrac{\\sqrt{16705}}{10}$.",
+    "dap_an": "D. $\\dfrac{\\sqrt{16705}}{10}$.",
+    "loi_giai": "Ta có $z\\cdot\\overline{w}=(- \\dfrac{6}{5}+\\dfrac{9}{5}i)(\\dfrac{7}{3}+\\dfrac{11}{2}i)=- \\dfrac{127}{10}-\\dfrac{12}{5}i$.\nVậy $|z\\cdot\\overline{w}|=|- \\dfrac{127}{10}-\\dfrac{12}{5}i|=\\dfrac{\\sqrt{16705}}{10}$.",
+    "params": {
+      "a": "-6/5",
+      "b": "9/5",
+      "c": "7/3",
+      "d": "-11/2"
+    }
+  },
+  {
+    "stt_goc": 50,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt50",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z=2 \\sqrt{5}+3 \\sqrt{7}i$ và $w=4+\\sqrt{2}i$. Môđun của số phức $z\\cdot\\overline{w}$ bằng\n\nA. $\\left(- 2 \\sqrt{10} + 12 \\sqrt{7}\\right)^{2} + \\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)^{2}$.\nB. $- \\left(- 12 \\sqrt{7} + 2 \\sqrt{10}\\right)^{2} + \\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)^{2}$.\nC. $\\sqrt{- \\left(- 12 \\sqrt{7} + 2 \\sqrt{10}\\right)^{2} + \\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)^{2}}$.\nD. $\\sqrt{\\left(- 2 \\sqrt{10} + 12 \\sqrt{7}\\right)^{2} + \\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)^{2}}$.",
+    "dap_an": "D. $\\sqrt{\\left(- 2 \\sqrt{10} + 12 \\sqrt{7}\\right)^{2} + \\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)^{2}}$.",
+    "loi_giai": "Ta có $z\\cdot\\overline{w}=(2 \\sqrt{5}+3 \\sqrt{7}i)(4-\\sqrt{2}i)=\\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)+\\left(- 2 \\sqrt{10} + 12 \\sqrt{7}\\right)i$.\nVậy $|z\\cdot\\overline{w}|=|\\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)+\\left(- 2 \\sqrt{10} + 12 \\sqrt{7}\\right)i|=\\sqrt{\\left(- 2 \\sqrt{10} + 12 \\sqrt{7}\\right)^{2} + \\left(3 \\sqrt{14} + 8 \\sqrt{5}\\right)^{2}}$.",
+    "params": {
+      "a": "2*sqrt(5)",
+      "b": "3*sqrt(7)",
+      "c": "4",
+      "d": "sqrt(2)"
+    }
+  },
+  {
+    "stt_goc": 50,
+    "dang": "Dạng 1 - Xác định phần thực, phần ảo, liên hợp, môđun",
+    "mau_ta": "mau_stt50",
+    "nguon": "Nhân bản",
+    "loai_so": "Số vô tỉ",
+    "de_bai": "Cho hai số phức $z=3 \\sqrt{7}-7i$ và $w=-2+3 \\sqrt{11}i$. Môđun của số phức $z\\cdot\\overline{w}$ bằng\n\nA. $\\left(14 - 9 \\sqrt{77}\\right)^{2} + \\left(- 21 \\sqrt{11} - 6 \\sqrt{7}\\right)^{2}$.\nB. $- \\left(14 - 9 \\sqrt{77}\\right)^{2} + \\left(6 \\sqrt{7} + 21 \\sqrt{11}\\right)^{2}$.\nC. $\\sqrt{- \\left(14 - 9 \\sqrt{77}\\right)^{2} + \\left(6 \\sqrt{7} + 21 \\sqrt{11}\\right)^{2}}$.\nD. $\\sqrt{\\left(14 - 9 \\sqrt{77}\\right)^{2} + \\left(- 21 \\sqrt{11} - 6 \\sqrt{7}\\right)^{2}}$.",
+    "dap_an": "D. $\\sqrt{\\left(14 - 9 \\sqrt{77}\\right)^{2} + \\left(- 21 \\sqrt{11} - 6 \\sqrt{7}\\right)^{2}}$.",
+    "loi_giai": "Ta có $z\\cdot\\overline{w}=(3 \\sqrt{7}-7i)(-2-3 \\sqrt{11}i)=\\left(- 21 \\sqrt{11} - 6 \\sqrt{7}\\right)-\\left(-14 + 9 \\sqrt{77}\\right)i$.\nVậy $|z\\cdot\\overline{w}|=|\\left(- 21 \\sqrt{11} - 6 \\sqrt{7}\\right)-\\left(-14 + 9 \\sqrt{77}\\right)i|=\\sqrt{\\left(14 - 9 \\sqrt{77}\\right)^{2} + \\left(- 21 \\sqrt{11} - 6 \\sqrt{7}\\right)^{2}}$.",
+    "params": {
+      "a": "3*sqrt(7)",
+      "b": "-7",
+      "c": "-2",
+      "d": "3*sqrt(11)"
+    }
+  }
+]
